@@ -1,0 +1,258 @@
+\documentclass{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage[margin=1in]{geometry}
+\usepackage[american]{babel}
+\usepackage{csquotes, xpatch}
+\usepackage{hyperref}
+\usepackage{xcolor}
+% Define base style for publist (before loading biblatex)
+\newcommand*\publistbasestyle{custom-authoryear}
+\usepackage[bibstyle=publist, backend=biber, plauthorhandling=highlight, defernumbers=true, linktitleall=true, doi=false, isbn=false, url=false, boldyear=true, marginyear=false, plnumbered=false, sorting=ydnt, natbib=true, minbibnames=3, maxbibnames=3]{biblatex}
+
+% Bibiography formatting
+\setlength{\bibitemsep}{.75\baselineskip plus 0.5\baselineskip}
+% \setlength{\bibhang}{.5em}
+% No letters after years
+\AtEveryCitekey{\clearfield{extradate}}
+\AtEveryBibitem{\clearfield{extradate}}
+
+\addbibresource{pubs.bib}
+\addbibresource{talks.bib}
+\addbibresource{posters.bib}
+
+% Define formatting for publication margin year
+\renewcommand*\plmarginyear[1]{
+    \flushright{#1}
+}
+
+% Specify author name to bold in publication list
+\plauthorname[Owen][]{Morgan}
+\plauthorname[Owen P.][]{Morgan}
+\plauthorname[O][]{Morgan}
+\plauthorname[O. P.][]{Morgan}
+
+% Define function for changing margin size (for publist)
+\def\changemargin#1#2{\list{}{\rightmargin#2\leftmargin#1}\item[]}
+\let\endchangemargin=\endlist 
+
+% Define the default entry command - Year, content
+\newcommand{\entry}[5]{
+
+  \begin{minipage}[t]{.15\textwidth}
+    \begin{flushright}
+      \hfill {#1}
+    \end{flushright}
+  \end{minipage}
+  \hfill\vline\hfill
+  \begin{minipage}[t]{.80\textwidth}
+    \textbf{#2}
+
+    \ifx&#3&
+      {#3}\textit{#4}
+    \else
+      {#3, }\textit{#4}
+
+    \fi
+    \footnotesize{#5}
+  \end{minipage}\\\vspace{.25cm}
+
+}
+
+% Define the skill entry command - title, information
+\newcommand{\skillentry}[2]{
+  {\textbf{#1}:}
+  {#2}
+  \vspace{.25cm}
+}
+
+% No indentation
+\setlength{\parindent}{0in}
+
+% Macros
+\newcommand{\cu}{Cornell University}
+\newcommand{\sjc}{St. John's College}
+\newcommand{\jhusom}{Johns Hopkins University School of Medicine}
+
+% Hyperlinks
+\let\oldhref\href
+\renewcommand{\href}[3][blue]{\oldhref{#2}{\color{#1}{#3}}}
+
+
+% Section formatting
+\titleformat{\section}
+{\large\bfseries}
+{}
+{0em}
+{}[\titlerule]
+
+\titleformat{\subsection}
+{\center\large\bfseries}
+{}
+{0em}
+{}
+
+\titleformat{\subsubsection}[runin]
+{\bfseries}
+{\hspace{0em}}
+{0em}
+{}[:]
+
+\titlespacing{\subsubsection}
+{0em}{.25em}{.25em}
+
+\renewcommand{\maketitle}{
+  \begin{flushright}
+    {\huge\bfseries
+    \theauthor}
+
+    \vspace{.25em}
+
+    \cu, Department of Human Development
+
+    Experience and Cognition Lab
+
+    opm6@cornell.edu
+
+  \end{flushright}
+}
+
+\author{Owen Morgan}
+\title{CV}
+
+\begin{document}
+
+\maketitle
+
+\section{Education}
+
+\entry
+{2020 -- Now}
+{PhD Student}
+{\cu}{Ithaca, New York}
+{Advisor: Daniel Casasanto. Major in Developmental Psychology, minor in Cognitive Science.}
+
+\entry
+{2013 -- 2017}
+{BA in Liberal Arts}
+{\sjc}{Annapolis, Maryland}
+{All-required curriculum based on closely reading original sources; equivalent to a double major in Philosophy, and the History of Mathematics and Science.}
+
+\section{Professional Experience}
+
+\entry
+{2017 -- 2020}
+{Research Assistant, Cognitive Neuropsychiatric Research Laboratory}
+{\jhusom}{Baltimore, MD}
+{Studied the cerebellum’s role in cognition and implemented several neuroimaging projects under the mentorship of Cherie Marvel, PhD.}
+
+\entry
+{Summers 2016 2015}
+{Research Assistant, Blumenfeld Lab}
+{Yale Medical School}{New Haven, CT}
+{Studied conscious visual perception under the mentorship of Hal Blumenfeld, MD, PhD.}
+
+\entry
+{2014 -- 2017}
+{Lab Assistant}
+{\sjc}{Annapolis, MD}
+{Worked with professor to lead class discussions; set up, demonstrated, and explained historical experiments from biology, physics, and chemistry.}
+
+\section{Publications}
+
+
+% Change margins for publist's marginal years
+% \begin{changemargin}{0in}{0in} 
+
+\newrefsection[pubs]
+\nocite{*}
+\printbibliography[heading=none]
+
+% Restore margins
+% \end{changemargin}
+
+
+
+\section{Presentations}
+
+\subsection{Talks}
+\newrefsection[talks]
+\nocite{*}
+\printbibliography[heading=none]
+
+\subsection{Posters}
+\newrefsection[talks]
+\nocite{*}
+\printbibliography[heading=none]
+
+
+\section{Honors and Awards}
+
+\entry{2020}{Travel award for 9th Ataxia Investigators Meeting (postponed to May 2021, virtual)}{}{}
+{Awarded to abstracts selected for “hot chair” presentation.}
+
+\entry{Summer 2017}{Pathways Fellowship}{}{}
+{Awarded to qualified students from St. John’s College for special or prerequisite courses for graduate study or careers. Funded Neurobiology course at Harvard Extension Summer School.}
+
+\entry{Summers 2016 2015}{Hodson Grant}{}{}
+{Awarded to qualified students from St. John’s College for research and internships. Funded summer research on conscious visual perception at Yale University.}
+
+\section{Teaching and Mentorship}
+
+\entry{Spring 2021}{TA, Adolescence (HD 1170)}
+{\cu}{Ithaca, New York}
+{Instructor: Robert Sternberg.}
+
+\entry{Fall 2020}{TA, Human Brain and Mind: Introduction to Cognitive Neuroscience\linebreak(HD 2200)}
+{\cu}{Ithaca, New York}
+{Instructor: Daniel Casasanto.}
+
+\entry{2018 -- 2020}{Research Assistant mentorship}
+{\jhusom}{Baltimore, Maryland}
+{Supervised and mentored Bronte Wen, Deeya Bhattacharya, Nikita Gupta on fMRI analysis projects.}
+
+\section{Leadership and Service}
+
+\entry{2017 -- 2019}{Leader, study group on Existential Phenomenology and Cognitive Science}
+{}{Baltimore, Maryland}
+{\\ Discussion group with St. John’s College alumni and colleagues from Johns Hopkins. Readings included Maurice Merleau-Ponty’s The Phenomenology of Perception and Shaun Gallagher’s Enactivist Interventions.}
+
+\entry{2015 -- 2017}{President, Waltz Committee}
+{\sjc}{Annapolis, Maryland}
+{Organized dances and lessons for students, alumni, and community; managed budget.}
+
+\entry{2014 -- 2017}{President, Farming and Gardening Club}
+{\sjc}{Annapolis, Maryland}
+{Started campus vegetable farm; organized and hosted events; managed budget.}
+
+\entry{2014 -- 2015}{Representative, Delegate Council}
+{\sjc}{Annapolis, Maryland}
+{Student branch of school government. Wrote and voted on legislation; managed budget for student activities and events.}
+
+\section{Technical Skills}
+
+\skillentry{fMRI}
+{Collection (3T, 7T), preprocessing, whole brain and ROI analyses (SPM)}
+
+\skillentry{Eye-tracking}{Collection, preprocessing, analysis}
+
+\skillentry{Scripting}{R, Python, MATLAB}
+
+\skillentry{Task development}
+{Python/PsychoPy, ePrime}
+
+\skillentry{Data visualization}{R/ggplot, Inkscape/Illustrator}
+
+\skillentry{Markup}{LaTex, RMarkdown}
+
+\skillentry{OS}{Linux, Windows, MacOS}
+
+\section{Spoken Languages}
+\skillentry{English}{Native}
+
+\skillentry{Spanish}{Full professional proficiency (ILR scale)}
+
+\end{document}
+
