@@ -2,5 +2,3 @@ This LaTeX CV is based on Luke Smith's [template](https://github.com/LukeSmithxy
 
 [Download/view pdf](https://opmorgan.github.io/cv/cv.pdf)
 
-<iframe src="https://docs.google.com/gview?url=https://opmorgan.github.io/cv/cv.pdf&embedded=true" style="width:600px; height:500px;" frameborder="0"></iframe>
-
