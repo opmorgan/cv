@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.6.11)  14 JUN 2021 21:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.6.11)  15 JUN 2021 00:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -482,24 +482,24 @@ Package csquotes Info: Redefining alias 'default' -> 'american'.
  (./cv.aux)
 \openout1 = `cv.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 125.
-LaTeX Font Info:    ... okay on input line 125.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 125.
-LaTeX Font Info:    ... okay on input line 125.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 125.
-LaTeX Font Info:    ... okay on input line 125.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 125.
-LaTeX Font Info:    ... okay on input line 125.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 125.
-LaTeX Font Info:    ... okay on input line 125.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 125.
-LaTeX Font Info:    ... okay on input line 125.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 125.
-LaTeX Font Info:    ... okay on input line 125.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 125.
-LaTeX Font Info:    ... okay on input line 125.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 125.
-LaTeX Font Info:    ... okay on input line 125.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 139.
+LaTeX Font Info:    ... okay on input line 139.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 139.
+LaTeX Font Info:    ... okay on input line 139.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 139.
+LaTeX Font Info:    ... okay on input line 139.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 139.
+LaTeX Font Info:    ... okay on input line 139.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 139.
+LaTeX Font Info:    ... okay on input line 139.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 139.
+LaTeX Font Info:    ... okay on input line 139.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 139.
+LaTeX Font Info:    ... okay on input line 139.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 139.
+LaTeX Font Info:    ... okay on input line 139.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 139.
+LaTeX Font Info:    ... okay on input line 139.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -535,7 +535,7 @@ LaTeX Font Info:    ... okay on input line 125.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 125.
+Package hyperref Info: Link coloring OFF on input line 139.
 (/home/om/.TinyTeX/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (/home/om/.TinyTeX/texmf-dist/tex/latex/refcount/refcount.sty
@@ -545,9 +545,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count414
 )
-LaTeX Info: Redefining \ref on input line 125.
-LaTeX Info: Redefining \pageref on input line 125.
-LaTeX Info: Redefining \nameref on input line 125.
+LaTeX Info: Redefining \ref on input line 139.
+LaTeX Info: Redefining \pageref on input line 139.
+LaTeX Info: Redefining \nameref on input line 139.
  (./cv.out) (./cv.out)
 \@outlinefile=\write4
 \openout4 = `cv.out'.
@@ -582,30 +582,30 @@ Package: blx-case-expl3 2020/12/31 v3.16 expl3 case changing code for biblatex
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'cv.bbl' found.
  (./cv.bbl)
-Package biblatex Info: Reference section=0 on input line 125.
-Package biblatex Info: Reference segment=0 on input line 125.
+Package biblatex Info: Reference section=0 on input line 139.
+Package biblatex Info: Reference segment=0 on input line 139.
 \blx@maxsegment@1=\count415
 \blx@sectionciteorder@1=\count416
-Package biblatex Info: Reference section=1 on input line 169.
-Package biblatex Info: Setting label 'refsection:1' on input line 169.
-Package biblatex Info: Reference section=0 on input line 181.
+Package biblatex Info: Reference section=1 on input line 183.
+Package biblatex Info: Setting label 'refsection:1' on input line 183.
+Package biblatex Info: Reference section=0 on input line 195.
 \blx@maxsegment@2=\count417
 \blx@sectionciteorder@2=\count418
-Package biblatex Info: Reference section=2 on input line 181.
-Package biblatex Info: Setting label 'refsection:2' on input line 181.
+Package biblatex Info: Reference section=2 on input line 195.
+Package biblatex Info: Setting label 'refsection:2' on input line 195.
  [1
 
 {/home/om/.TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Package biblatex Info: Reference section=0 on input line 186.
+Package biblatex Info: Reference section=0 on input line 200.
 \blx@maxsegment@3=\count419
 \blx@sectionciteorder@3=\count420
-Package biblatex Info: Reference section=3 on input line 186.
-Package biblatex Info: Setting label 'refsection:3' on input line 186.
+Package biblatex Info: Reference section=3 on input line 200.
+Package biblatex Info: Setting label 'refsection:3' on input line 200.
  [2] [3]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 248.
+(Font)              <7> on input line 262.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 248.
+(Font)              <5> on input line 262.
  [4] (./cv.aux)
 Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: 3642715DD270CE2808D0EF171C937BC9;1345.
@@ -614,15 +614,15 @@ Package logreq Info: Writing requests to 'cv.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 17810 strings out of 480496
- 306207 string characters out of 5899172
- 1100095 words of memory out of 5000000
- 35284 multiletter control sequences out of 15000+600000
+ 17811 strings out of 480496
+ 306217 string characters out of 5899172
+ 1100228 words of memory out of 5000000
+ 35285 multiletter control sequences out of 15000+600000
  405594 words of font info for 34 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  60i,5n,67p,2534b,1699s stack positions out of 5000i,500n,10000p,200000b,80000s
 </home/om/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></home/om/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></home/om/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></home/om/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></home/om/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></home/om/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on cv.pdf (4 pages, 115848 bytes).
+Output written on cv.pdf (4 pages, 115837 bytes).
 PDF statistics:
  152 PDF objects out of 1000 (max. 8388607)
  132 compressed objects within 2 object streams

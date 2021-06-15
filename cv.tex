@@ -38,7 +38,7 @@
 \def\changemargin#1#2{\list{}{\rightmargin#2\leftmargin#1}\item[]}
 \let\endchangemargin=\endlist 
 
-% Define the default entry command - Year, content
+% Define the default entry command - year, content
 \newcommand{\entry}[5]{
 
   \begin{minipage}[t]{.15\textwidth}
@@ -58,12 +58,26 @@
     \fi
     \footnotesize{#5}
   \end{minipage}\\\vspace{.25cm}
-
 }
 
-% Define the skill entry command - title, information
+% Define award entry command - year, title, details
+\newcommand{\awardentry}[3]{
+  \begin{minipage}[t]{.15\textwidth}
+    \begin{flushright}
+      \hfill {#1}
+    \end{flushright}
+  \end{minipage}
+  \hfill\vline\hfill
+  \begin{minipage}[t]{.80\textwidth}
+    \textbf{#2}
+
+    \footnotesize{#3}
+  \end{minipage}\\\vspace{.25cm}
+}
+
+% Define the skill entry command - title, details
 \newcommand{\skillentry}[2]{
-  {\textbf{#1}:}
+  {\hspace{2em}\textbf{#1}:}
   {#2}
   \vspace{.25cm}
 }
@@ -190,13 +204,13 @@
 
 \section{Honors and Awards}
 
-\entry{2020}{Travel award for 9th Ataxia Investigators Meeting (postponed to May 2021, virtual)}{}{}
+\awardentry{2020}{Travel Award for 9th Ataxia Investigators Meeting (postponed to May 2021, virtual)}
 {Awarded to abstracts selected for “hot chair” presentation.}
 
-\entry{Summer 2017}{Pathways Fellowship}{}{}
+\awardentry{Summer 2017}{Pathways Fellowship}
 {Awarded to qualified students from St. John’s College for special or prerequisite courses for graduate study or careers. Funded Neurobiology course at Harvard Extension Summer School.}
 
-\entry{Summers 2016 2015}{Hodson Grant}{}{}
+\awardentry{2016 2015}{Hodson Grant}
 {Awarded to qualified students from St. John’s College for research and internships. Funded summer research on conscious visual perception at Yale University.}
 
 \section{Teaching and Mentorship}
@@ -209,13 +223,13 @@
 {\cu}{Ithaca, New York}
 {Instructor: Daniel Casasanto.}
 
-\entry{2018 -- 2020}{Research Assistant mentorship}
+\entry{2018 -- 2020}{Research Assistant Mentorship}
 {\jhusom}{Baltimore, Maryland}
 {Supervised and mentored Bronte Wen, Deeya Bhattacharya, Nikita Gupta on fMRI analysis projects.}
 
 \section{Leadership and Service}
 
-\entry{2017 -- 2019}{Leader, study group on Existential Phenomenology and Cognitive Science}
+\entry{2017 -- 2019}{Leader, Study Group on Existential Phenomenology and Cognitive Science}
 {}{Baltimore, Maryland}
 {\\ Discussion group with St. John’s College alumni and colleagues from Johns Hopkins. Readings included Maurice Merleau-Ponty’s The Phenomenology of Perception and Shaun Gallagher’s Enactivist Interventions.}
 
