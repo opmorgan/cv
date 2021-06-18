@@ -1,4 +1,3 @@
-- Add header with current date
 - Format publication/presentation entries with a column for year
 - ... format so that each year is printed once, with a vertical line dividing the year from its entries
 - ... within each year, sort by: first authored (y/n), author, title (use keywords, or generate spreadsheet of publication/presentation entries with a script)

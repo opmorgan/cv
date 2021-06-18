@@ -636,12 +636,12 @@ INPUT cv.bbl
 INPUT ./cv.bbl
 INPUT ./cv.bbl
 INPUT cv.bbl
+INPUT /home/om/.TinyTeX/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
 INPUT /home/om/.TinyTeX/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
 INPUT /home/om/.TinyTeX/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /home/om/.TinyTeX/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT /home/om/.TinyTeX/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /home/om/.TinyTeX/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
-INPUT /home/om/.TinyTeX/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
 INPUT /home/om/.TinyTeX/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
 INPUT /home/om/.TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT cv.aux

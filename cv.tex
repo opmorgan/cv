@@ -25,7 +25,7 @@
 
 % Define formatting for publication margin year
 \renewcommand*\plmarginyear[1]{
-    \flushright{#1}
+  \flushright{#1}
 }
 
 % Specify author name to bold in publication list
@@ -118,23 +118,33 @@
 {0em}{.25em}{.25em}
 
 \renewcommand{\maketitle}{
-  \begin{flushright}
-    {\huge\bfseries
-    \theauthor}
+  \begin{minipage}[t]{.5\textwidth}
+    \begin{flushleft}
+      \textit{Last updated \thedate}
+    \end{flushleft}
+  \end{minipage}
+  \begin{minipage}[t]{.5\textwidth}
+    \begin{flushright}
+      {\huge\bfseries
+      \theauthor}
 
-    \vspace{.25em}
+      \vspace{.25em}
 
-    \cu, Department of Human Development
+      \cu, Department of Human Development
 
-    Experience and Cognition Lab
+      Experience and Cognition Lab
 
-    opm6@cornell.edu
+      opm6@cornell.edu
 
-  \end{flushright}
+    \end{flushright}
+  \end{minipage}
 }
 
 \author{Owen Morgan}
 \title{CV}
+
+% Update date set to last compile:
+\date{\today}
 
 \begin{document}
 
