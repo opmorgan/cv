@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.6.11)  12 OCT 2021 22:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.6.11)  12 OCT 2021 22:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -608,9 +608,9 @@ Package biblatex Info: Reference section=3 on input line 210.
 Package biblatex Info: Setting label 'refsection:3' on input line 210.
  [2] [3]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 272.
+(Font)              <7> on input line 255.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 272.
+(Font)              <5> on input line 255.
  [4] (./cv.aux)
 Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: 0ACCF8EC66A642CE61C72F3BB82F6AEA;1185.
