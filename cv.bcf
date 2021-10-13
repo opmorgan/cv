@@ -163,7 +163,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>sortingtemplatename</bcf:key>
-      <bcf:value>ydnt</bcf:value>
+      <bcf:value>ydmdnt</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>sortsets</bcf:key>
@@ -2436,7 +2436,7 @@
   <bcf:section number="0">
   </bcf:section>
   <!-- SORTING TEMPLATES -->
-  <bcf:sortingtemplate name="ydnt">
+  <bcf:sortingtemplate name="ydmdnt">
     <bcf:sort order="1">
       <bcf:sortitem order="1">presort</bcf:sortitem>
     </bcf:sort>
@@ -2444,11 +2444,19 @@
       <bcf:sortitem order="1">sortkey</bcf:sortitem>
     </bcf:sort>
     <bcf:sort order="3" sort_direction="descending">
-      <bcf:sortitem order="1">sortyear</bcf:sortitem>
-      <bcf:sortitem order="2">year</bcf:sortitem>
+      <bcf:sortitem order="1" substring_side="left" substring_width="4">sortyear</bcf:sortitem>
+      <bcf:sortitem order="2" substring_side="left" substring_width="4">year</bcf:sortitem>
       <bcf:sortitem literal="1" order="3">9999</bcf:sortitem>
     </bcf:sort>
     <bcf:sort order="4">
+      <bcf:sortitem order="1" pad_side="left" pad_width="2" pad_char="0">month</bcf:sortitem>
+      <bcf:sortitem literal="1" order="2">00</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="5">
+      <bcf:sortitem order="1" pad_side="left" pad_width="2" pad_char="0">day</bcf:sortitem>
+      <bcf:sortitem literal="1" order="2">00</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="6">
       <bcf:sortitem order="1">sortname</bcf:sortitem>
       <bcf:sortitem order="2">author</bcf:sortitem>
       <bcf:sortitem order="3">editor</bcf:sortitem>
@@ -2456,34 +2464,34 @@
       <bcf:sortitem order="5">sorttitle</bcf:sortitem>
       <bcf:sortitem order="6">title</bcf:sortitem>
     </bcf:sort>
-    <bcf:sort order="5">
+    <bcf:sort order="7">
       <bcf:sortitem order="1">sorttitle</bcf:sortitem>
       <bcf:sortitem order="2">title</bcf:sortitem>
     </bcf:sort>
   </bcf:sortingtemplate>
   <!-- DATALISTS -->
   <bcf:datalist section="1"
-                name="ydnt/global//global/global"
+                name="ydmdnt/global//global/global"
                 type="entry"
-                sortingtemplatename="ydnt"
+                sortingtemplatename="ydmdnt"
                 sortingnamekeytemplatename="global"
                 labelprefix=""
                 uniquenametemplatename="global"
                 labelalphanametemplatename="global">
   </bcf:datalist>
   <bcf:datalist section="2"
-                name="ydnt/global//global/global"
+                name="ydmdnt/global//global/global"
                 type="entry"
-                sortingtemplatename="ydnt"
+                sortingtemplatename="ydmdnt"
                 sortingnamekeytemplatename="global"
                 labelprefix=""
                 uniquenametemplatename="global"
                 labelalphanametemplatename="global">
   </bcf:datalist>
   <bcf:datalist section="3"
-                name="ydnt/global//global/global"
+                name="ydmdnt/global//global/global"
                 type="entry"
-                sortingtemplatename="ydnt"
+                sortingtemplatename="ydmdnt"
                 sortingnamekeytemplatename="global"
                 labelprefix=""
                 uniquenametemplatename="global"

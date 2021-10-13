@@ -10,7 +10,8 @@
 \usepackage{xcolor}
 % Define base style for publist (before loading biblatex)
 \newcommand*\publistbasestyle{custom-authoryear}
-\usepackage[bibstyle=publist, backend=biber, plauthorhandling=highlight, defernumbers=true, linktitleall=true, doi=false, isbn=false, url=false, boldyear=true, marginyear=false, plnumbered=false, sorting=ydnt, natbib=true, minbibnames=3, maxbibnames=3]{biblatex}
+% Use biblatex-publist for publication and presentation lists
+\usepackage[bibstyle=publist, backend=biber, plauthorhandling=highlight, defernumbers=true, linktitleall=true, doi=false, isbn=false, url=false, boldyear=true, marginyear=false, plnumbered=false, sorting=ydmdnt, natbib=true, minbibnames=3, maxbibnames=3]{biblatex}
 
 % Bibiography formatting
 \setlength{\bibitemsep}{.75\baselineskip plus 0.5\baselineskip}
