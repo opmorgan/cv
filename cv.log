@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.12.9)  24 JAN 2022 23:33
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.12.9)  24 JAN 2022 23:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -708,32 +708,32 @@ Overfull \hbox (1.73332pt too wide) in paragraph at lines 157--158
 
 \blx@maxsegment@1=\count431
 \blx@sectionciteorder@1=\count432
-Package biblatex Info: Reference section=1 on input line 197.
-Package biblatex Info: Setting label 'refsection:1' on input line 197.
-Package biblatex Info: Reference section=0 on input line 202.
+Package biblatex Info: Reference section=1 on input line 193.
+Package biblatex Info: Setting label 'refsection:1' on input line 193.
+Package biblatex Info: Reference section=0 on input line 198.
 \blx@maxsegment@2=\count433
 \blx@sectionciteorder@2=\count434
-Package biblatex Info: Reference section=2 on input line 202.
-Package biblatex Info: Setting label 'refsection:2' on input line 202.
-Package biblatex Info: Reference section=0 on input line 215.
+Package biblatex Info: Reference section=2 on input line 198.
+Package biblatex Info: Setting label 'refsection:2' on input line 198.
+Package biblatex Info: Reference section=0 on input line 209.
 \blx@maxsegment@3=\count435
 \blx@sectionciteorder@3=\count436
-Package biblatex Info: Reference section=3 on input line 215.
-Package biblatex Info: Setting label 'refsection:3' on input line 215.
+Package biblatex Info: Reference section=3 on input line 209.
+Package biblatex Info: Setting label 'refsection:3' on input line 209.
 [1
 
 ]
-Package biblatex Info: Reference section=0 on input line 220.
+Package biblatex Info: Reference section=0 on input line 214.
 \blx@maxsegment@4=\count437
 \blx@sectionciteorder@4=\count438
-Package biblatex Info: Reference section=4 on input line 220.
-Package biblatex Info: Setting label 'refsection:4' on input line 220.
+Package biblatex Info: Reference section=4 on input line 214.
+Package biblatex Info: Setting label 'refsection:4' on input line 214.
  [2] [3]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 279.
+(Font)              <7> on input line 273.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 279.
- [4] [5] (./cv.aux)
+(Font)              <5> on input line 273.
+ [4] (./cv.aux)
 Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: C75E32D2E3028EC819B8BDBA40DF8AC9;1449.
 Package logreq Info: Writing requests to 'cv.run.xml'.
@@ -741,12 +741,12 @@ Package logreq Info: Writing requests to 'cv.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 20917 strings out of 478256
- 416518 string characters out of 5856203
- 1254017 words of memory out of 5000000
- 41238 multiletter control sequences out of 15000+600000
+ 20902 strings out of 478256
+ 415848 string characters out of 5856203
+ 1254223 words of memory out of 5000000
+ 41223 multiletter control sequences out of 15000+600000
  403966 words of font info for 50 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  60i,5n,73p,2536b,4974s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on cv.xdv (5 pages, 110484 bytes).
+Output written on cv.xdv (4 pages, 103112 bytes).

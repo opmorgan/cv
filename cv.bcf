@@ -2439,7 +2439,7 @@
   </bcf:section>
   <!-- SECTION 4 -->
   <bcf:bibdata section="4">
-    <bcf:datasource type="file" datatype="bibtex" glob="false">talks.bib</bcf:datasource>
+    <bcf:datasource type="file" datatype="bibtex" glob="false">posters.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="4">
     <bcf:citekey order="0" nocite="1">*</bcf:citekey>
