@@ -51,6 +51,7 @@
     </requires>
     <requires type="static">
       <file>blx-dm.def</file>
+      <file>blx-unicode.def</file>
       <file>blx-compat.def</file>
       <file>biblatex.def</file>
       <file>blx-natbib.def</file>
@@ -82,6 +83,7 @@
       <file>cv.bcf</file>
     </requires>
     <requires type="editable">
+      <file>preprints.bib</file>
       <file>pubs.bib</file>
       <file>talks.bib</file>
       <file>posters.bib</file>

@@ -1,3 +1,4 @@
+% !TEX program = xelatex
 \documentclass{article}
 
 \usepackage[utf8]{inputenc}
@@ -13,6 +14,9 @@
 % Use biblatex-publist for publication and presentation lists
 \usepackage[bibstyle=publist, backend=biber, plauthorhandling=highlight, defernumbers=true, linktitleall=true, doi=false, isbn=false, url=false, boldyear=true, marginyear=false, plnumbered=false, sorting=ydmdnt, natbib=true, minbibnames=3, maxbibnames=3]{biblatex}
 
+\usepackage{fontspec}
+    \setmainfont{Avenir Light}
+
 % Bibiography formatting
 \setlength{\bibitemsep}{.75\baselineskip plus 0.5\baselineskip}
 % \setlength{\bibhang}{.5em}
@@ -20,6 +24,7 @@
 \AtEveryCitekey{\clearfield{extradate}}
 \AtEveryBibitem{\clearfield{extradate}}
 
+\addbibresource{preprints.bib}
 \addbibresource{pubs.bib}
 \addbibresource{talks.bib}
 \addbibresource{posters.bib}
@@ -37,7 +42,7 @@
 
 % Define function for changing margin size (for publist)
 \def\changemargin#1#2{\list{}{\rightmargin#2\leftmargin#1}\item[]}
-\let\endchangemargin=\endlist 
+\let\endchangemargin=\endlist
 
 % Define the default entry command - year, content
 \newcommand{\entry}[5]{
@@ -157,7 +162,7 @@
 {2020 -- Now}
 {PhD Student}
 {\cu}{Ithaca, New York}
-{Advisor: Daniel Casasanto. Major in Developmental Psychology, minor in Cognitive Science.}
+{Advisor: Daniel Casasanto. Major in Psychology, minor in Cognitive Science.}
 
 \entry
 {2013 -- 2017}
@@ -179,21 +184,25 @@
 {Yale Medical School}{New Haven, CT}
 {Studied conscious visual perception under the mentorship of Hal Blumenfeld, MD, PhD.}
 
-\entry
-{2014 -- 2017}
-{Lab Assistant}
-{\sjc}{Annapolis, MD}
-{Worked with professor to lead class discussions; set up, demonstrated, and explained historical experiments from biology, physics, and chemistry.}
-
 \section{Publications}
 
-
 % Change margins for publist's marginal years
-% \begin{changemargin}{0in}{0in} 
+% \begin{changemargin}{0in}{0in}
 
+% \newrefsection[pubs]
+% \nocite{*}
+% \printbibliography[heading=none]
+
+\subsection{Preprints}
+\newrefsection[preprints]
+\nocite{*}
+\printbibliography[heading=none]
+
+\subsection{Peer-reviewed Papers}
 \newrefsection[pubs]
 \nocite{*}
 \printbibliography[heading=none]
+
 
 % Restore margins
 % \end{changemargin}
@@ -215,8 +224,8 @@
 
 \section{Honors and Awards}
 
-\awardentry{2020}{Travel Award for 9th Ataxia Investigators Meeting (postponed to May 2021, virtual)}
-{Awarded to abstracts selected for “hot chair” presentation.}
+\awardentry{2020}{Travel Award for 9th Ataxia Investigators Meeting}
+{Awarded to abstracts selected for “hot chair” presentation. Award returned because the meeting was postponed and held virtually (May 2021)}
 
 \awardentry{Summer 2017}{Pathways Fellowship}
 {Awarded to qualified students from St. John’s College for special or prerequisite courses for graduate study or careers. Funded Neurobiology course at Harvard Extension Summer School.}
@@ -226,6 +235,10 @@
 
 \section{Teaching and Mentorship}
 
+\entry{Spring 2022}{TA, Gender and Psychopathology (HD 3320)}
+{\cu}{Ithaca, New York}
+{Instructor: Lauren Korfine.}
+
 \entry{Fall 2021}{TA, Research Methods (HD 2380)}
 {\cu}{Ithaca, New York}
 {Instructor: Lauren Korfine.}
@@ -234,13 +247,19 @@
 {\cu}{Ithaca, New York}
 {Instructor: Robert Sternberg.}
 
-\entry{Fall 2020}{TA, Human Brain and Mind: Introduction to Cognitive Neuroscience\linebreak(HD 2200)}
+\entry{Fall 2020}{TA, Human Brain and Mind: Introduction to Cognitive Neuroscience (HD 2200)}
 {\cu}{Ithaca, New York}
 {Instructor: Daniel Casasanto.}
 
 \entry{2018 -- 2020}{Research Assistant Mentorship}
 {\jhusom}{Baltimore, Maryland}
 {Supervised and mentored Bronte Wen, Deeya Bhattacharya, Nikita Gupta on fMRI analysis projects.}
+
+\entry
+{2014 -- 2017}
+{Lab Assistant}
+{\sjc}{Annapolis, MD}
+{Worked with professor to lead class discussions; set up, demonstrated, and explained historical experiments from biology, physics, and chemistry.}
 
 
 \section{Technical Skills}
