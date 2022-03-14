@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 3.1 $
+% $ biblatex bbl format version 3.2 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -206,6 +206,318 @@
 
 \refsection{2}
   \datalist[entry]{ydmdnt/global//global/global}
+    \entry{iannuzzelli_association_2022}{article}{}
+      \name{author}{18}{}{%
+        {{hash=da63f2b3adc3087e8aa6e35ee13458d3}{%
+           family={Iannuzzelli},
+           familyi={I\bibinitperiod},
+           given={Katherine},
+           giveni={K\bibinitperiod}}}%
+        {{hash=9a97a3ab08ed6e3b7d4861e674007299}{%
+           family={Shi},
+           familyi={S\bibinitperiod},
+           given={Rosa},
+           giveni={R\bibinitperiod}}}%
+        {{hash=cdc8234169f82717ec17e45ffbfdee1f}{%
+           family={Carter},
+           familyi={C\bibinitperiod},
+           given={Reece},
+           giveni={R\bibinitperiod}}}%
+        {{hash=bf5548782d392d93bc37b4a66c410d8b}{%
+           family={Huynh},
+           familyi={H\bibinitperiod},
+           given={Rachel},
+           giveni={R\bibinitperiod}}}%
+        {{hash=106e99b39a6865e6eae2b6094e23c8ef}{%
+           family={Morgan},
+           familyi={M\bibinitperiod},
+           given={Owen\bibnamedelima P.},
+           giveni={O\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=9517af5b99567632d0dfb412c1f1c998}{%
+           family={Kuo},
+           familyi={K\bibinitperiod},
+           given={Sheng-Han},
+           giveni={S\bibinithyphendelim H\bibinitperiod}}}%
+        {{hash=490728a3be399fed018352a7487e2000}{%
+           family={Bang},
+           familyi={B\bibinitperiod},
+           given={Jee},
+           giveni={J\bibinitperiod}}}%
+        {{hash=534534b4b438a16c5cc8bfb869ccfc1b}{%
+           family={Mills},
+           familyi={M\bibinitperiod},
+           given={Kelly\bibnamedelima A.},
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=4ac5613d2dca3d3126e783d869e26b2a}{%
+           family={Baranano},
+           familyi={B\bibinitperiod},
+           given={Kristin},
+           giveni={K\bibinitperiod}}}%
+        {{hash=187437ecaf05486b22bb8e1c88e51305}{%
+           family={Zee},
+           familyi={Z\bibinitperiod},
+           given={David\bibnamedelima S.},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=49306d622ed342cf5edf2745013763b2}{%
+           family={Moukheiber},
+           familyi={M\bibinitperiod},
+           given={Emile},
+           giveni={E\bibinitperiod}}}%
+        {{hash=03c2b8bd25bb67385241a7c61b84cac2}{%
+           family={Roda},
+           familyi={R\bibinitperiod},
+           given={Ricardo},
+           giveni={R\bibinitperiod}}}%
+        {{hash=5f9c95a2e88e506e9399033cc472f59d}{%
+           family={Butala},
+           familyi={B\bibinitperiod},
+           given={Ankur},
+           giveni={A\bibinitperiod}}}%
+        {{hash=abb75ad42db775097410e0a8991c9a04}{%
+           family={Marvel},
+           familyi={M\bibinitperiod},
+           given={Cherie},
+           giveni={C\bibinitperiod}}}%
+        {{hash=7c48465f27c4215e6b80c156c0af5ddc}{%
+           family={Joyce},
+           familyi={J\bibinitperiod},
+           given={Michelle},
+           giveni={M\bibinitperiod}}}%
+        {{hash=f7fe19e964964670e8d7f4be7680ab1c}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Ximin},
+           giveni={X\bibinitperiod}}}%
+        {{hash=ecadd9ed1239f5ae1f98f556bad234fa}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Jiangxia},
+           giveni={J\bibinitperiod}}}%
+        {{hash=194dbe4507216ae64c0b56ee06c03731}{%
+           family={Rosenthal},
+           familyi={R\bibinitperiod},
+           given={Liana\bibnamedelima S.},
+           giveni={L\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \name{shortauthor}{1}{}{%
+        {{hash=b59c67bf196a4758191e42f76670ceba}{%
+           family={1111},
+           familyi={1\bibinitperiod}}}%
+      }
+      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{fullhash}{ac31b64e1216662e2f16996c4df1105b}
+      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{authorbibnamehash}{3ad595154bae1128e349f2338843e9d5}
+      \strng{authornamehash}{41c117b84d4d6326d36f482ca6d89693}
+      \strng{authorfullhash}{ac31b64e1216662e2f16996c4df1105b}
+      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{shortauthor}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Background: The number of trinucleotide {CAG} repeats is inversely correlated with the age at onset ({AAO}) of motor symptoms in individuals with Spinocerebellar Ataxia type 3 ({SCA} 3) and may cause 50\% to 60\% of variability in {AAO}. Drawing from a social determinants of health model, we sought to determine if educational attainment further contributes to the {AAO} and motor symptom progression of {SCA} 3. Methods: We performed a retrospective chart review in which twenty individuals met criteria for inclusion and had been seen by an ataxia specialist at our hospital between January 2005 and July 2019. {AAO} of motor symptoms and Scale for Assessment and Rating of Ataxia ({SARA}) scores were used as primary outcome measures. Journal Pre-proof Results: Using a linear regression, we found that having greater {CAG} repeat length and greater than 16 years of education results in an earlier {AAO}. The importance of the {CAG} repeat length on {AAO}, however, is greater amongst individuals with lower education. Using a linear mixed model evaluating {SARA} score over time with {AAO}, we found that less than 16 years of education is associated with faster progression of the disease. Conclusion: In our group of {SCA} 3 patients, level of education correlated with both the {AAO} and {SARA} scores. Though our findings need to be confirmed with a larger cohort, our study suggests that level of education can have a strong influence on health outcomes in {SCA} 3 and possibly other groups of patients with ataxia.}
+      \field{issn}{13538020}
+      \field{journaltitle}{Parkinsonism \& Related Disorders}
+      \field{langid}{english}
+      \field{shortjournal}{Parkinsonism \& Related Disorders}
+      \field{title}{\usebibmacro{bpl:linked}{The association between educational attainment and {SCA} 3 age of onset and disease course}\usebibmacro{bpl:linked}{}}
+      \field{urlday}{14}
+      \field{urlmonth}{3}
+      \field{urlyear}{2022}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{in press}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1016/j.parkreldis.2022.02.025
+      \endverb
+      \verb{file}
+      \verb Iannuzzelli et al. - 2022 - The association between educational attainment and.pdf:/home/om/gdrive/Zotero_files/I/Iannuzzelli et al. - 2022 - The association between educational attainment and.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S135380202200058X
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S135380202200058X
+      \endverb
+    \endentry
+    \entry{joyce_quality_2022}{article}{}
+      \name{author}{9}{}{%
+        {{hash=0e77cb6ee5a60ecc6c741b03fb41a89c}{%
+           family={Joyce},
+           familyi={J\bibinitperiod},
+           given={Michelle\bibnamedelima R.},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=163ed68f0fcdacd53e317ce47f0e93c9}{%
+           family={Nadkami},
+           familyi={N\bibinitperiod},
+           given={Prianca\bibnamedelima A.},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=835e8d5a4063aa0263d336aabd02f2e4}{%
+           family={Kronemer},
+           familyi={K\bibinitperiod},
+           given={Sharif\bibnamedelima I.},
+           giveni={S\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=40dd28ff096e8563e3bbc9ec6df006bd}{%
+           family={Margron},
+           familyi={M\bibinitperiod},
+           given={Michael\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=d3c2915d29b76c164874fabc125e86de}{%
+           family={Slapik},
+           familyi={S\bibinitperiod},
+           given={Mitchell\bibnamedelima B.},
+           giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=106e99b39a6865e6eae2b6094e23c8ef}{%
+           family={Morgan},
+           familyi={M\bibinitperiod},
+           given={Owen\bibnamedelima P.},
+           giveni={O\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=194dbe4507216ae64c0b56ee06c03731}{%
+           family={Rosenthal},
+           familyi={R\bibinitperiod},
+           given={Liana\bibnamedelima S.},
+           giveni={L\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=4b00e289145ab712ab796140719316cf}{%
+           family={Onyike},
+           familyi={O\bibinitperiod},
+           given={Chiadi\bibnamedelima U.},
+           giveni={C\bibinitperiod\bibinitdelim U\bibinitperiod}}}%
+        {{hash=924696054ee767c9a7e1a12be9ceea89}{%
+           family={Marvel},
+           familyi={M\bibinitperiod},
+           given={Cherie\bibnamedelima L.},
+           giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \name{shortauthor}{1}{}{%
+        {{hash=b59c67bf196a4758191e42f76670ceba}{%
+           family={1111},
+           familyi={1\bibinitperiod}}}%
+      }
+      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{fullhash}{32354b386cebaab09a44fa476420435e}
+      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{authorbibnamehash}{b66f71dfec6c16889163554b64833f0c}
+      \strng{authornamehash}{65c06feef56f7fb4a4c9b2dc583d6523}
+      \strng{authorfullhash}{32354b386cebaab09a44fa476420435e}
+      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{shortauthor}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Semi-structured interviews of patient accounts and caregiver, or informant, perspectives are a beneficial resource for patients suffering from diseases with complex symptomatology, such as cerebellar ataxia. The aim of this study was to identify, quantify, and compare the ways in which cerebellar ataxia patients’ and informants’ quality of life had changed as a result of living with ataxia. Using a semi- structured interview, responses were collected from patients and informants regarding motor, cognitive, and psychosocial variables. Responses were also collected from patients and informants to open-ended questions that were subsequently categorized into 15 quality of life themes that best represented changes experienced by the patients and informants. Ataxia patients and informants agreed as to the severity of posture/gait, daily activities/fine motor tasks, and speech/feeding/swallowing impairment; however, informants felt that oculomotor/vision impairments were more severe than the ataxia patients did. It was also demonstrated that severity ratings for specific motor-related functions strongly correlated with corresponding functions within the International Cooperative Ataxia Rating Scale ({ICARS}), and that this interview identified frequency associations between motor impairments and specific psychosocial difficulties, which could be useful for prognostic purposes. Overall, the information obtained from this study characterized the symptoms and challenges to ataxia patients and their caregivers, which could serve as a useful educational resource for those affected by ataxia, clinicians, and researchers.}
+      \field{journaltitle}{The Cerebellum}
+      \field{title}{\usebibmacro{bpl:linked}{Quality of life changes following the onset of cerebellar ataxia: Symptoms and concerns self-reported by ataxia patients and informants}\usebibmacro{bpl:linked}{}}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \true{nocite}
+      \field{pages}{in press}
+      \range{pages}{-1}
+    \endentry
+    \entry{monick_characterization_2022}{article}{}
+      \name{author}{7}{}{%
+        {{hash=febe5e500ecc5e0caa64bb21b9068be0}{%
+           family={Monick},
+           familyi={M\bibinitperiod},
+           given={Andrew\bibnamedelima J.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=0e77cb6ee5a60ecc6c741b03fb41a89c}{%
+           family={Joyce},
+           familyi={J\bibinitperiod},
+           given={Michelle\bibnamedelima R.},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=3a95e5a59609abf6512d28c98c8c67e2}{%
+           family={Chugh},
+           familyi={C\bibinitperiod},
+           given={Natasha},
+           giveni={N\bibinitperiod}}}%
+        {{hash=6c3d8d205df3b2f7521138f305811e00}{%
+           family={Creighton},
+           familyi={C\bibinitperiod},
+           given={Jason\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=106e99b39a6865e6eae2b6094e23c8ef}{%
+           family={Morgan},
+           familyi={M\bibinitperiod},
+           given={Owen\bibnamedelima P.},
+           giveni={O\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=38f33c4c99960c4b9bce4e9d545ccb17}{%
+           family={Strain},
+           familyi={S\bibinitperiod},
+           given={Eric\bibnamedelima C.},
+           giveni={E\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=924696054ee767c9a7e1a12be9ceea89}{%
+           family={Marvel},
+           familyi={M\bibinitperiod},
+           given={Cherie\bibnamedelima L.},
+           giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \name{shortauthor}{1}{}{%
+        {{hash=b59c67bf196a4758191e42f76670ceba}{%
+           family={1111},
+           familyi={1\bibinitperiod}}}%
+      }
+      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{fullhash}{d438253db65e2e76db75f349f3853b5f}
+      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{authorbibnamehash}{0e4d0c20530c405c134da981c39528df}
+      \strng{authornamehash}{e7bb8e8257a30845b85d143e705459e7}
+      \strng{authorfullhash}{d438253db65e2e76db75f349f3853b5f}
+      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
+      \field{extraname}{3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{shortauthor}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Abstract {HIV} and psychoactive substances can impact the integrity of the basal ganglia ({BG}), a neural substrate of cognition, motor control, and reward-seeking behaviors. This study assessed {BG} gray matter ({GM}) volume as a function of polysubstance (stimulant and opioid) use and {HIV} status. We hypothesized that comorbid polysubstance use and {HIV} seropositivity would alter {BG} {GM} volume differently than would polysubstance use or {HIV} status alone. We collected structural {MRI} scans, substance use history, and {HIV} diagnoses. Participants who had {HIV} ({HIV} +), a history of polysubstance dependence ({POLY} +), both, or neither completed assessments for cognition, motor function, and risk-taking behaviors ( N  = 93). All three clinical groups showed a left-lateralized pattern of {GM} reduction in the {BG} relative to controls. However, in the {HIV} + /{POLY} + group, stimulant use was associated with increased {GM} volume within the globus pallidus and putamen. This surpassed the effects from opioid use, as indicated by decreased {GM} volume throughout the {BG} in the {HIV}-/{POLY} + group. Motor learning was impaired in all three clinical groups, and in the {HIV} + /{POLY} + group, motor learning was associated with increased caudate and putamen {GM} volume. We also observed associations between {BG} {GM} volume and risk-taking behaviors in the {HIV} + /{POLY}- and {HIV}-/{POLY} + groups. The effects of substance use on the {BG} differed as a function of substance type used, {HIV} seropositivity, and {BG} subregion. Although {BG} volume decreased in association with {HIV} and opioid use, stimulants can, inversely, lead to {BG} volume increases within the context of {HIV}.}
+      \field{issn}{2045-2322}
+      \field{journaltitle}{Scientific Reports}
+      \field{langid}{english}
+      \field{number}{1}
+      \field{shortjournal}{Sci Rep}
+      \field{title}{\usebibmacro{bpl:linked}{Characterization of basal ganglia volume changes in the context of {HIV} and polysubstance use}\usebibmacro{bpl:linked}{}}
+      \field{urlday}{14}
+      \field{urlmonth}{3}
+      \field{urlyear}{2022}
+      \field{volume}{12}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{4357}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1038/s41598-022-08364-0
+      \endverb
+      \verb{file}
+      \verb Monick et al. - 2022 - Characterization of basal ganglia volume changes i.pdf:/home/om/gdrive/Zotero_files/M/Monick et al. - 2022 - Characterization of basal ganglia volume changes i.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.nature.com/articles/s41598-022-08364-0
+      \endverb
+      \verb{url}
+      \verb https://www.nature.com/articles/s41598-022-08364-0
+      \endverb
+    \endentry
     \entry{kronemer_neuropsychiatric_2021}{article}{}
       \name{author}{9}{}{%
         {{hash=835e8d5a4063aa0263d336aabd02f2e4}{%
@@ -268,7 +580,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{1}
+      \field{extraname}{4}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{1}
@@ -368,7 +680,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{2}
+      \field{extraname}{5}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{2}
@@ -433,7 +745,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{3}
+      \field{extraname}{6}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{1}
@@ -468,7 +780,7 @@
       \verb{url}
       \verb http://www.sciencedirect.com/science/article/pii/S0149763418306468
       \endverb
-      \keyw{Basal ganglia,Cerebellum,Cognition,{FMRI},Motor,Motor trace,Movement disorders,Premotor cortex,Sternberg,Supplementary motor area,Working memory}
+      \keyw{Cerebellum,Cognition,Basal ganglia,{FMRI},Motor,Motor trace,Movement disorders,Premotor cortex,Sternberg,Supplementary motor area,Working memory}
     \endentry
     \entry{slapik_visuospatial_2019}{article}{}
       \name{author}{8}{}{%
@@ -527,7 +839,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{4}
+      \field{extraname}{7}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{2}
@@ -564,7 +876,7 @@
       \verb{url}
       \verb https://doi.org/10.1007/s12311-018-0948-z
       \endverb
-      \keyw{Ataxia,Cerebellum,Cognition,Memory,Organization,Visuospatial}
+      \keyw{Cerebellum,Ataxia,Cognition,Memory,Organization,Visuospatial}
     \endentry
   \enddatalist
 \endrefsection
