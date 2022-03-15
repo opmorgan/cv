@@ -2411,8 +2411,10 @@
   <bcf:bibdata section="0">
     <bcf:datasource type="file" datatype="bibtex" glob="false">preprints.bib</bcf:datasource>
     <bcf:datasource type="file" datatype="bibtex" glob="false">pubs.bib</bcf:datasource>
-    <bcf:datasource type="file" datatype="bibtex" glob="false">talks.bib</bcf:datasource>
-    <bcf:datasource type="file" datatype="bibtex" glob="false">posters.bib</bcf:datasource>
+    <bcf:datasource type="file" datatype="bibtex" glob="false">talks-presented.bib</bcf:datasource>
+    <bcf:datasource type="file" datatype="bibtex" glob="false">talks-contributed.bib</bcf:datasource>
+    <bcf:datasource type="file" datatype="bibtex" glob="false">posters-presented.bib</bcf:datasource>
+    <bcf:datasource type="file" datatype="bibtex" glob="false">posters-contributed.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
   </bcf:section>
@@ -2438,7 +2440,7 @@
   </bcf:section>
   <!-- SECTION 3 -->
   <bcf:bibdata section="3">
-    <bcf:datasource type="file" datatype="bibtex" glob="false">talks.bib</bcf:datasource>
+    <bcf:datasource type="file" datatype="bibtex" glob="false">talks-presented.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="3">
     <bcf:citekey order="0" nocite="1">*</bcf:citekey>
@@ -2448,9 +2450,29 @@
   </bcf:section>
   <!-- SECTION 4 -->
   <bcf:bibdata section="4">
-    <bcf:datasource type="file" datatype="bibtex" glob="false">posters.bib</bcf:datasource>
+    <bcf:datasource type="file" datatype="bibtex" glob="false">talks-contributed.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="4">
+    <bcf:citekey order="0" nocite="1">*</bcf:citekey>
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
+  </bcf:section>
+  <!-- SECTION 5 -->
+  <bcf:bibdata section="5">
+    <bcf:datasource type="file" datatype="bibtex" glob="false">posters-presented.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="5">
+    <bcf:citekey order="0" nocite="1">*</bcf:citekey>
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
+  </bcf:section>
+  <!-- SECTION 6 -->
+  <bcf:bibdata section="6">
+    <bcf:datasource type="file" datatype="bibtex" glob="false">posters-contributed.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="6">
     <bcf:citekey order="0" nocite="1">*</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
@@ -2519,6 +2541,24 @@
                 labelalphanametemplatename="global">
   </bcf:datalist>
   <bcf:datalist section="4"
+                name="ydmdnt/global//global/global"
+                type="entry"
+                sortingtemplatename="ydmdnt"
+                sortingnamekeytemplatename="global"
+                labelprefix=""
+                uniquenametemplatename="global"
+                labelalphanametemplatename="global">
+  </bcf:datalist>
+  <bcf:datalist section="5"
+                name="ydmdnt/global//global/global"
+                type="entry"
+                sortingtemplatename="ydmdnt"
+                sortingnamekeytemplatename="global"
+                labelprefix=""
+                uniquenametemplatename="global"
+                labelalphanametemplatename="global">
+  </bcf:datalist>
+  <bcf:datalist section="6"
                 name="ydmdnt/global//global/global"
                 type="entry"
                 sortingtemplatename="ydmdnt"

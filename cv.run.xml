@@ -86,8 +86,10 @@
     <requires type="editable">
       <file>preprints.bib</file>
       <file>pubs.bib</file>
-      <file>talks.bib</file>
-      <file>posters.bib</file>
+      <file>talks-presented.bib</file>
+      <file>talks-contributed.bib</file>
+      <file>posters-presented.bib</file>
+      <file>posters-contributed.bib</file>
     </requires>
   </external>
 </requests>
