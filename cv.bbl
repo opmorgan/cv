@@ -356,8 +356,8 @@
            familyi={J\bibinitperiod},
            given={Michelle\bibnamedelima R.},
            giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
-        {{hash=163ed68f0fcdacd53e317ce47f0e93c9}{%
-           family={Nadkami},
+        {{hash=adf19605156048dd2de1bb4b84a8850e}{%
+           family={Nadkarni},
            familyi={N\bibinitperiod},
            given={Prianca\bibnamedelima A.},
            giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
@@ -403,11 +403,11 @@
            familyi={1\bibinitperiod}}}%
       }
       \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{fullhash}{32354b386cebaab09a44fa476420435e}
+      \strng{fullhash}{4fe08cadb37d5af7f31c82636bc0ed71}
       \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{authorbibnamehash}{b66f71dfec6c16889163554b64833f0c}
+      \strng{authorbibnamehash}{43a03374aafc2d7441b71e4ce69dfb85}
       \strng{authornamehash}{65c06feef56f7fb4a4c9b2dc583d6523}
-      \strng{authorfullhash}{32354b386cebaab09a44fa476420435e}
+      \strng{authorfullhash}{4fe08cadb37d5af7f31c82636bc0ed71}
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
@@ -418,15 +418,33 @@
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{shortauthor}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Semi-structured interviews of patient accounts and caregiver, or informant, perspectives are a beneficial resource for patients suffering from diseases with complex symptomatology, such as cerebellar ataxia. The aim of this study was to identify, quantify, and compare the ways in which cerebellar ataxia patients’ and informants’ quality of life had changed as a result of living with ataxia. Using a semi- structured interview, responses were collected from patients and informants regarding motor, cognitive, and psychosocial variables. Responses were also collected from patients and informants to open-ended questions that were subsequently categorized into 15 quality of life themes that best represented changes experienced by the patients and informants. Ataxia patients and informants agreed as to the severity of posture/gait, daily activities/fine motor tasks, and speech/feeding/swallowing impairment; however, informants felt that oculomotor/vision impairments were more severe than the ataxia patients did. It was also demonstrated that severity ratings for specific motor-related functions strongly correlated with corresponding functions within the International Cooperative Ataxia Rating Scale ({ICARS}), and that this interview identified frequency associations between motor impairments and specific psychosocial difficulties, which could be useful for prognostic purposes. Overall, the information obtained from this study characterized the symptoms and challenges to ataxia patients and their caregivers, which could serve as a useful educational resource for those affected by ataxia, clinicians, and researchers.}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Semi-structured interviews of patient accounts and caregiver, or informant, perspectives are a beneficial resource for patients suffering from diseases with complex symptomatology, such as cerebellar ataxia. The aim of this study was to identify, quantify, and compare the ways in which cerebellar ataxia patients’ and informants’ quality of life had changed as a result of living with ataxia. Using a semi-structured interview, responses were collected from patients and informants regarding motor, cognitive, and psychosocial variables. Responses were also collected from patients and informants to open-ended questions that were subsequently categorized into 15 quality of life themes that best represented changes experienced by the patients and informants. Ataxia patients and informants agreed as to the severity of posture/gait, daily activities/fine motor tasks, speech/feeding/swallowing, and oculomotor/vision impairment. It was also demonstrated that severity ratings for specific motor-related functions strongly correlated with corresponding functions within the International Cooperative Ataxia Rating Scale ({ICARS}), and that this interview identified frequency associations between motor impairments and specific psychosocial difficulties, which could be useful for prognostic purposes. Overall, the information obtained from this study characterized the symptoms and challenges to ataxia patients and their caregivers, which could serve as a useful educational resource for those affected by ataxia, clinicians, and researchers.}
+      \field{issn}{1473-4230}
       \field{journaltitle}{The Cerebellum}
+      \field{langid}{english}
+      \field{shortjournal}{Cerebellum}
+      \field{shorttitle}{Quality of Life Changes Following the Onset of Cerebellar Ataxia}
       \field{title}{\usebibmacro{bpl:linked}{Quality of life changes following the onset of cerebellar ataxia: Symptoms and concerns self-reported by ataxia patients and informants}\usebibmacro{bpl:linked}{}}
+      \field{urlday}{30}
+      \field{urlmonth}{3}
+      \field{urlyear}{2022}
       \field{year}{2022}
       \field{dateera}{ce}
+      \field{urldateera}{ce}
       \true{nocite}
-      \field{pages}{in press}
-      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1007/s12311-022-01393-5
+      \endverb
+      \verb{file}
+      \verb Joyce et al. - 2022 - Quality of life changes following the onset of cer.pdf:/home/om/gdrive/Zotero_files/J/Joyce et al. - 2022 - Quality of life changes following the onset of cer.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://link.springer.com/10.1007/s12311-022-01393-5
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/10.1007/s12311-022-01393-5
+      \endverb
     \endentry
     \entry{monick_characterization_2022}{article}{}
       \name{author}{7}{}{%
@@ -593,7 +611,7 @@
       \field{journaltitle}{The Cerebellum}
       \field{number}{2}
       \field{shortjournal}{The Cerebellum}
-      \field{title}{\usebibmacro{bpl:linked}{Neuropsychiatric Symptoms as a Reliable Phenomenology of Cerebellar Ataxia}\usebibmacro{bpl:linked}{}}
+      \field{title}{\usebibmacro{bpl:linked}{Neuropsychiatric symptoms as a reliable phenomenology of cerebellar ataxia}\usebibmacro{bpl:linked}{}}
       \field{volume}{20}
       \field{year}{2021}
       \field{dateera}{ce}
@@ -693,7 +711,7 @@
       \field{journaltitle}{The Cerebellum}
       \field{number}{2}
       \field{shortjournal}{The Cerebellum}
-      \field{title}{\usebibmacro{bpl:linked}{The Cerebellum and Implicit Sequencing: Evidence from Cerebellar Ataxia}\usebibmacro{bpl:linked}{}}
+      \field{title}{\usebibmacro{bpl:linked}{The cerebellum and implicit sequencing: Evidence from cerebellar ataxia}\usebibmacro{bpl:linked}{}}
       \field{volume}{20}
       \field{year}{2021}
       \field{dateera}{ce}
@@ -853,7 +871,7 @@
       \field{langid}{english}
       \field{number}{1}
       \field{shortjournal}{Cerebellum}
-      \field{title}{\usebibmacro{bpl:linked}{Visuospatial Organization and Recall in Cerebellar Ataxia}\usebibmacro{bpl:linked}{}}
+      \field{title}{\usebibmacro{bpl:linked}{Visuospatial organization and recall in cerebellar ataxia}\usebibmacro{bpl:linked}{}}
       \field{urlday}{11}
       \field{urlmonth}{3}
       \field{urlyear}{2019}
@@ -876,7 +894,7 @@
       \verb{url}
       \verb https://doi.org/10.1007/s12311-018-0948-z
       \endverb
-      \keyw{Cerebellum,Ataxia,Cognition,Memory,Organization,Visuospatial}
+      \keyw{Ataxia,Cerebellum,Cognition,Memory,Organization,Visuospatial}
     \endentry
   \enddatalist
 \endrefsection
