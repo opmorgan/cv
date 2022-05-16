@@ -15,7 +15,13 @@
 \usepackage[bibstyle=publist, backend=biber, plauthorhandling=highlight, defernumbers=true, linktitleall=true, doi=false, isbn=false, url=false, boldyear=true, marginyear=false, plnumbered=false, sorting=ydmdnt, natbib=true, minbibnames=3, maxbibnames=3]{biblatex}
 
 \usepackage{fontspec}
-    \setmainfont{Avenir Light}
+  \setmainfont{Avenir Light}
+  %% Set bold font
+  %% https://tex.stackexchange.com/questions/25184/set-the-font-weight-lighter-bolder/27402#27402
+  %\setmainfont[BoldFont={* Demi Bold}]{Avenir Next}
+  %\newfontfamily\semibold{Avenir Next Demi Bold}
+  %\newfontfamily\regsemi[BoldFont={* Demi Bold}]{Avenir Next}
+
 
 % Bibiography formatting
 \setlength{\bibitemsep}{.75\baselineskip plus 0.5\baselineskip}
@@ -247,7 +253,7 @@
 
 \entry{Fall 2021}{TA, Research Methods (HD 2380)}
 {\cu}{Ithaca, New York}
-{Instructor: Lauren Korfine.}
+{Instructor: Lauren Korfine. Gave guest lecture on scientific writing.}
 
 \entry{Spring 2021}{TA, Adolescence (HD 1170)}
 {\cu}{Ithaca, New York}

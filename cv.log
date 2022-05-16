@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.3.16)  30 MAR 2022 14:28
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.3.16)  16 MAY 2022 15:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -544,30 +544,30 @@ Package csquotes Info: Redefining alias 'default' -> 'american'.
  (./cv.aux)
 \openout1 = `cv.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 157.
-LaTeX Font Info:    ... okay on input line 157.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 157.
-LaTeX Font Info:    ... okay on input line 157.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 157.
-LaTeX Font Info:    ... okay on input line 157.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 157.
-LaTeX Font Info:    ... okay on input line 157.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 157.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 157.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 163.
+LaTeX Font Info:    ... okay on input line 163.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 163.
+LaTeX Font Info:    ... okay on input line 163.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 163.
+LaTeX Font Info:    ... okay on input line 163.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 163.
+LaTeX Font Info:    ... okay on input line 163.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 163.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 163.
  (/home/om/.TinyTeX/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 157.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 157.
-LaTeX Font Info:    ... okay on input line 157.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 157.
-LaTeX Font Info:    ... okay on input line 157.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 157.
-LaTeX Font Info:    ... okay on input line 157.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 157.
-LaTeX Font Info:    ... okay on input line 157.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 157.
-LaTeX Font Info:    ... okay on input line 157.
+LaTeX Font Info:    ... okay on input line 163.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 163.
+LaTeX Font Info:    ... okay on input line 163.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 163.
+LaTeX Font Info:    ... okay on input line 163.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 163.
+LaTeX Font Info:    ... okay on input line 163.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 163.
+LaTeX Font Info:    ... okay on input line 163.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 163.
+LaTeX Font Info:    ... okay on input line 163.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -603,7 +603,7 @@ LaTeX Font Info:    ... okay on input line 157.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 157.
+Package hyperref Info: Link coloring OFF on input line 163.
 (/home/om/.TinyTeX/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (/home/om/.TinyTeX/texmf-dist/tex/latex/refcount/refcount.sty
@@ -613,9 +613,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count432
 )
-LaTeX Info: Redefining \ref on input line 157.
-LaTeX Info: Redefining \pageref on input line 157.
-LaTeX Info: Redefining \nameref on input line 157.
+LaTeX Info: Redefining \ref on input line 163.
+LaTeX Info: Redefining \pageref on input line 163.
+LaTeX Info: Redefining \nameref on input line 163.
  (./cv.out) (./cv.out)
 \@outlinefile=\write4
 \openout4 = `cv.out'.
@@ -643,108 +643,108 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'cv.bbl' found.
  (./cv.bbl)
-Package biblatex Info: Reference section=0 on input line 157.
-Package biblatex Info: Reference segment=0 on input line 157.
+Package biblatex Info: Reference section=0 on input line 163.
+Package biblatex Info: Reference segment=0 on input line 163.
 
 Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
 (fontspec)             this).
 
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 157.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 157.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 157.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 157.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 157.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 157.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 157.
-LaTeX Font Info:    Redeclaring math accent \check on input line 157.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 157.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 157.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 157.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 157.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 157.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 157.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 157.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 157.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 157.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 157.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 157.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 157.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 157.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 157.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 157.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 157.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 157.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 163.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 163.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 163.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 163.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 163.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 163.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 163.
+LaTeX Font Info:    Redeclaring math accent \check on input line 163.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 163.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 163.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 163.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 163.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 163.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 163.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 163.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 163.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 163.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 163.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 163.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 163.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 163.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 163.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 163.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 163.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 163.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 157.
+(Font)              `operators' in the math version `normal' on input line 163.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/AvenirLight(0)/m/n on input line 157.
+(Font)                  OT1/cmr/m/n --> TU/AvenirLight(0)/m/n on input line 163.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 157.
+(Font)              `operators' in the math version `bold' on input line 163.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/AvenirLight(0)/m/n on input line 157.
+(Font)                  OT1/cmr/bx/n --> TU/AvenirLight(0)/m/n on input line 163.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/AvenirLight(0)/m/n --> TU/AvenirLight(0)/m/n on input line 157.
+(Font)                  TU/AvenirLight(0)/m/n --> TU/AvenirLight(0)/m/n on input line 163.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/AvenirLight(0)/m/it on input line 157.
+(Font)                  OT1/cmr/m/it --> TU/AvenirLight(0)/m/it on input line 163.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/AvenirLight(0)/b/n on input line 157.
+(Font)                  OT1/cmr/bx/n --> TU/AvenirLight(0)/b/n on input line 163.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 157.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 163.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 157.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 163.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/AvenirLight(0)/m/n --> TU/AvenirLight(0)/b/n on input line 157.
+(Font)                  TU/AvenirLight(0)/m/n --> TU/AvenirLight(0)/b/n on input line 163.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/AvenirLight(0)/b/it on input line 157.
+(Font)                  OT1/cmr/bx/it --> TU/AvenirLight(0)/b/it on input line 163.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 157.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 163.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 157.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 163.
 
-Overfull \hbox (1.73332pt too wide) in paragraph at lines 159--160
+Overfull \hbox (1.73332pt too wide) in paragraph at lines 165--166
 [][] [] 
  []
 
 \c@blx@maxsegment@1=\count433
 \c@blx@sectionciteorder@1=\count434
-Package biblatex Info: Reference section=1 on input line 195.
-Package biblatex Info: Setting label 'refsection:1' on input line 195.
-Package biblatex Info: Reference section=0 on input line 200.
+Package biblatex Info: Reference section=1 on input line 201.
+Package biblatex Info: Setting label 'refsection:1' on input line 201.
+Package biblatex Info: Reference section=0 on input line 206.
 \c@blx@maxsegment@2=\count435
 \c@blx@sectionciteorder@2=\count436
-Package biblatex Info: Reference section=2 on input line 200.
-Package biblatex Info: Setting label 'refsection:2' on input line 200.
+Package biblatex Info: Reference section=2 on input line 206.
+Package biblatex Info: Setting label 'refsection:2' on input line 206.
 [1
 
 ]
-Package biblatex Info: Reference section=0 on input line 211.
+Package biblatex Info: Reference section=0 on input line 217.
 \c@blx@maxsegment@3=\count437
 \c@blx@sectionciteorder@3=\count438
-Package biblatex Info: Reference section=3 on input line 211.
-Package biblatex Info: Setting label 'refsection:3' on input line 211.
-Package biblatex Info: Reference section=0 on input line 216.
+Package biblatex Info: Reference section=3 on input line 217.
+Package biblatex Info: Setting label 'refsection:3' on input line 217.
+Package biblatex Info: Reference section=0 on input line 222.
 \c@blx@maxsegment@4=\count439
 \c@blx@sectionciteorder@4=\count440
-Package biblatex Info: Reference section=4 on input line 216.
-Package biblatex Info: Setting label 'refsection:4' on input line 216.
-Package biblatex Info: Reference section=0 on input line 221.
+Package biblatex Info: Reference section=4 on input line 222.
+Package biblatex Info: Setting label 'refsection:4' on input line 222.
+ [2]
+Package biblatex Info: Reference section=0 on input line 227.
 \c@blx@maxsegment@5=\count441
 \c@blx@sectionciteorder@5=\count442
-Package biblatex Info: Reference section=5 on input line 221.
-Package biblatex Info: Setting label 'refsection:5' on input line 221.
- [2]
-Package biblatex Info: Reference section=0 on input line 226.
+Package biblatex Info: Reference section=5 on input line 227.
+Package biblatex Info: Setting label 'refsection:5' on input line 227.
+Package biblatex Info: Reference section=0 on input line 232.
 \c@blx@maxsegment@6=\count443
 \c@blx@sectionciteorder@6=\count444
-Package biblatex Info: Reference section=6 on input line 226.
-Package biblatex Info: Setting label 'refsection:6' on input line 226.
+Package biblatex Info: Reference section=6 on input line 232.
+Package biblatex Info: Setting label 'refsection:6' on input line 232.
  [3]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 285.
+(Font)              <7> on input line 291.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 285.
+(Font)              <5> on input line 291.
  [4] (./cv.aux)
 Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: 864787D24B3F1330DADE7DCA5AF55612;1783.
@@ -754,11 +754,11 @@ Package logreq Info: Writing requests to 'cv.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  21197 strings out of 478179
- 424286 string characters out of 5854595
- 1265156 words of memory out of 5000000
+ 424311 string characters out of 5854595
+ 1265182 words of memory out of 5000000
  41599 multiletter control sequences out of 15000+600000
  469795 words of font info for 51 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  60i,5n,73p,2536b,4992s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on cv.xdv (4 pages, 110044 bytes).
+Output written on cv.xdv (4 pages, 110268 bytes).

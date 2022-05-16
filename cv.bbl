@@ -208,11 +208,11 @@
   \datalist[entry]{ydmdnt/global//global/global}
     \entry{iannuzzelli_association_2022}{article}{}
       \name{author}{18}{}{%
-        {{hash=da63f2b3adc3087e8aa6e35ee13458d3}{%
+        {{hash=ce843ac18131ba942aba27631754ffa6}{%
            family={Iannuzzelli},
            familyi={I\bibinitperiod},
-           given={Katherine},
-           giveni={K\bibinitperiod}}}%
+           given={Katherine\bibnamedelima I.},
+           giveni={K\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
         {{hash=9a97a3ab08ed6e3b7d4861e674007299}{%
            family={Shi},
            familyi={S\bibinitperiod},
@@ -273,16 +273,16 @@
            familyi={B\bibinitperiod},
            given={Ankur},
            giveni={A\bibinitperiod}}}%
-        {{hash=abb75ad42db775097410e0a8991c9a04}{%
+        {{hash=924696054ee767c9a7e1a12be9ceea89}{%
            family={Marvel},
            familyi={M\bibinitperiod},
-           given={Cherie},
-           giveni={C\bibinitperiod}}}%
-        {{hash=7c48465f27c4215e6b80c156c0af5ddc}{%
+           given={Cherie\bibnamedelima L.},
+           giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=0e77cb6ee5a60ecc6c741b03fb41a89c}{%
            family={Joyce},
            familyi={J\bibinitperiod},
-           given={Michelle},
-           giveni={M\bibinitperiod}}}%
+           given={Michelle\bibnamedelima R.},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
         {{hash=f7fe19e964964670e8d7f4be7680ab1c}{%
            family={Li},
            familyi={L\bibinitperiod},
@@ -305,11 +305,11 @@
            familyi={1\bibinitperiod}}}%
       }
       \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{fullhash}{ac31b64e1216662e2f16996c4df1105b}
+      \strng{fullhash}{8dcac7b7753899c5d7811f8bf7252e49}
       \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{authorbibnamehash}{3ad595154bae1128e349f2338843e9d5}
-      \strng{authornamehash}{41c117b84d4d6326d36f482ca6d89693}
-      \strng{authorfullhash}{ac31b64e1216662e2f16996c4df1105b}
+      \strng{authorbibnamehash}{a2e75cf36fde94fe39481970fea2d57c}
+      \strng{authornamehash}{c33edfe86e1477b474e489c5f991a8ba}
+      \strng{authorfullhash}{8dcac7b7753899c5d7811f8bf7252e49}
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
@@ -334,8 +334,6 @@
       \field{dateera}{ce}
       \field{urldateera}{ce}
       \true{nocite}
-      \field{pages}{in press}
-      \range{pages}{-1}
       \verb{doi}
       \verb 10.1016/j.parkreldis.2022.02.025
       \endverb
@@ -894,13 +892,59 @@
       \verb{url}
       \verb https://doi.org/10.1007/s12311-018-0948-z
       \endverb
-      \keyw{Ataxia,Cerebellum,Cognition,Memory,Organization,Visuospatial}
+      \keyw{Cerebellum,Ataxia,Cognition,Memory,Organization,Visuospatial}
     \endentry
   \enddatalist
 \endrefsection
 
 \refsection{3}
   \datalist[entry]{ydmdnt/global//global/global}
+    \entry{morgan_handedness_2022}{unpublished}{}
+      \name{author}{2}{}{%
+        {{hash=106e99b39a6865e6eae2b6094e23c8ef}{%
+           family={Morgan},
+           familyi={M\bibinitperiod},
+           given={Owen\bibnamedelima P.},
+           giveni={O\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=a86687810612d76555265e7a49fee101}{%
+           family={Casanto},
+           familyi={C\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+      }
+      \name{shortauthor}{1}{}{%
+        {{hash=b59c67bf196a4758191e42f76670ceba}{%
+           family={1111},
+           familyi={1\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cornell University, Ithaca, {USA}}%
+      }
+      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{fullhash}{c36d474f90e78a42333beecc4773fead}
+      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{authorbibnamehash}{c36d474f90e78a42333beecc4773fead}
+      \strng{authornamehash}{c36d474f90e78a42333beecc4773fead}
+      \strng{authorfullhash}{c36d474f90e78a42333beecc4773fead}
+      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{shortauthor}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Talk}
+      \field{month}{5}
+      \field{note}{The Art and Science of Thinking: A Transdisciplinary Workshop}
+      \field{title}{\usebibmacro{bpl:linked}{Handedness and creativity: Facts and fictions}\usebibmacro{bpl:linked}{}}
+      \field{type}{Talk}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \true{nocite}
+    \endentry
     \entry{morgan_motor_2021}{unpublished}{}
       \name{author}{9}{}{%
         {{hash=106e99b39a6865e6eae2b6094e23c8ef}{%
@@ -966,7 +1010,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{1}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -1047,7 +1091,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{2}
+      \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -1069,16 +1113,16 @@
            familyi={M\bibinitperiod},
            given={Owen\bibnamedelima P.},
            giveni={O\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
-        {{hash=92a3103779136d6e45287bac1706cebc}{%
+        {{hash=fbc078cdea4926652b717f36c9c1f34a}{%
            family={Lisinski},
            familyi={L\bibinitperiod},
-           given={Jonathan},
-           giveni={J\bibinitperiod}}}%
-        {{hash=3e72c670ceac226521574d794bb4c34f}{%
+           given={Jonathan\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=57a5f85162225c5819288047a1c1769c}{%
            family={{LaConte}},
            familyi={L\bibinitperiod},
-           given={Stephen},
-           giveni={S\bibinitperiod}}}%
+           given={Stephen\bibnamedelima M.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
         {{hash=924696054ee767c9a7e1a12be9ceea89}{%
            family={Marvel},
            familyi={M\bibinitperiod},
@@ -1094,15 +1138,15 @@
         {Baltimore, {USA}}%
       }
       \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{fullhash}{5fa7a972f9a0db813e8f6e8cb9e02373}
+      \strng{fullhash}{5fb2bc38dcdfae6747436b2612d137cc}
       \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{authorbibnamehash}{6154602ee124ec838a8496f754f181ec}
+      \strng{authorbibnamehash}{3ba326f210c9b7b97c31c8d39b7edb53}
       \strng{authornamehash}{e14267cb5000090d3f0eeb37a12095c1}
-      \strng{authorfullhash}{5fa7a972f9a0db813e8f6e8cb9e02373}
+      \strng{authorfullhash}{5fb2bc38dcdfae6747436b2612d137cc}
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{3}
+      \field{extraname}{4}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{1}
@@ -1125,16 +1169,16 @@
            familyi={M\bibinitperiod},
            given={Owen\bibnamedelima P.},
            giveni={O\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
-        {{hash=92a3103779136d6e45287bac1706cebc}{%
+        {{hash=fbc078cdea4926652b717f36c9c1f34a}{%
            family={Lisinski},
            familyi={L\bibinitperiod},
-           given={Jonathan},
-           giveni={J\bibinitperiod}}}%
-        {{hash=3e72c670ceac226521574d794bb4c34f}{%
+           given={Jonathan\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=57a5f85162225c5819288047a1c1769c}{%
            family={{LaConte}},
            familyi={L\bibinitperiod},
-           given={Stephen},
-           giveni={S\bibinitperiod}}}%
+           given={Stephen\bibnamedelima M.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
         {{hash=924696054ee767c9a7e1a12be9ceea89}{%
            family={Marvel},
            familyi={M\bibinitperiod},
@@ -1150,15 +1194,15 @@
         {Rome, Italy}%
       }
       \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{fullhash}{5fa7a972f9a0db813e8f6e8cb9e02373}
+      \strng{fullhash}{5fb2bc38dcdfae6747436b2612d137cc}
       \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{authorbibnamehash}{6154602ee124ec838a8496f754f181ec}
+      \strng{authorbibnamehash}{3ba326f210c9b7b97c31c8d39b7edb53}
       \strng{authornamehash}{e14267cb5000090d3f0eeb37a12095c1}
-      \strng{authorfullhash}{5fa7a972f9a0db813e8f6e8cb9e02373}
+      \strng{authorfullhash}{5fb2bc38dcdfae6747436b2612d137cc}
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{4}
+      \field{extraname}{5}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{2}
@@ -1177,11 +1221,11 @@
     \endentry
     \entry{morgan_motor-cognitive_2018}{unpublished}{}
       \name{author}{9}{}{%
-        {{hash=e31db1b7373142fac69a46ad8bf3f1f2}{%
+        {{hash=106e99b39a6865e6eae2b6094e23c8ef}{%
            family={Morgan},
            familyi={M\bibinitperiod},
-           given={Owen},
-           giveni={O\bibinitperiod}}}%
+           given={Owen\bibnamedelima P.},
+           giveni={O\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
         {{hash=d3c2915d29b76c164874fabc125e86de}{%
            family={Slapik},
            familyi={S\bibinitperiod},
@@ -1212,11 +1256,11 @@
            familyi={H\bibinitperiod},
            given={Kira},
            giveni={K\bibinitperiod}}}%
-        {{hash=83df8d38f1150a59a97912e18a1d8996}{%
+        {{hash=194dbe4507216ae64c0b56ee06c03731}{%
            family={Rosenthal},
            familyi={R\bibinitperiod},
-           given={Liana},
-           giveni={L\bibinitperiod}}}%
+           given={Liana\bibnamedelima S.},
+           giveni={L\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
         {{hash=924696054ee767c9a7e1a12be9ceea89}{%
            family={Marvel},
            familyi={M\bibinitperiod},
@@ -1232,15 +1276,15 @@
         {Baltimore, {USA}}%
       }
       \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{fullhash}{9f5ae0afa306e891340d6d4135d3c807}
+      \strng{fullhash}{b89e4f4feb2f57c7c6fc6f92e127a002}
       \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{authorbibnamehash}{744f9b217ee16f24b52e08fae097c4a2}
-      \strng{authornamehash}{beb84e1c9420b136ae3d74c80c67b24d}
-      \strng{authorfullhash}{9f5ae0afa306e891340d6d4135d3c807}
+      \strng{authorbibnamehash}{e73fa6ba236009b3e863df7b8c4a5d21}
+      \strng{authornamehash}{e14267cb5000090d3f0eeb37a12095c1}
+      \strng{authorfullhash}{b89e4f4feb2f57c7c6fc6f92e127a002}
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{5}
+      \field{extraname}{6}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{1}
@@ -1301,7 +1345,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{6}
+      \field{extraname}{7}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{2}
@@ -1462,16 +1506,16 @@
            familyi={C\bibinitperiod},
            given={Jason\bibnamedelima A.},
            giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=3e72c670ceac226521574d794bb4c34f}{%
+        {{hash=57a5f85162225c5819288047a1c1769c}{%
            family={{LaConte}},
            familyi={L\bibinitperiod},
-           given={Stephen},
-           giveni={S\bibinitperiod}}}%
-        {{hash=92a3103779136d6e45287bac1706cebc}{%
+           given={Stephen\bibnamedelima M.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=fbc078cdea4926652b717f36c9c1f34a}{%
            family={Lisinski},
            familyi={L\bibinitperiod},
-           given={Jonathan},
-           giveni={J\bibinitperiod}}}%
+           given={Jonathan\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
         {{hash=924696054ee767c9a7e1a12be9ceea89}{%
            family={Marvel},
            familyi={M\bibinitperiod},
@@ -1487,11 +1531,11 @@
         {San Diego, {USA}}%
       }
       \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{fullhash}{e9dbe7cc1a3557abd9a2c049c88f057d}
+      \strng{fullhash}{4a9a87226cac3c64ee5179667c543c8a}
       \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{authorbibnamehash}{12c2c782fbd765372e0fe15b059cb673}
       \strng{authornamehash}{79de48dbb8e86dc91ab7dd9af4edb41e}
-      \strng{authorfullhash}{e9dbe7cc1a3557abd9a2c049c88f057d}
+      \strng{authorfullhash}{4a9a87226cac3c64ee5179667c543c8a}
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
@@ -1826,87 +1870,6 @@
 
 \refsection{5}
   \datalist[entry]{ydmdnt/global//global/global}
-    \entry{morgan_motor_2021}{unpublished}{}
-      \name{author}{9}{}{%
-        {{hash=106e99b39a6865e6eae2b6094e23c8ef}{%
-           family={Morgan},
-           familyi={M\bibinitperiod},
-           given={Owen\bibnamedelima P.},
-           giveni={O\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
-        {{hash=d3c2915d29b76c164874fabc125e86de}{%
-           family={Slapik},
-           familyi={S\bibinitperiod},
-           given={Mitchell\bibnamedelima B.},
-           giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
-        {{hash=8cae3f8795a08aae39802a41c86a57f3}{%
-           family={Iannuzzelli},
-           familyi={I\bibinitperiod},
-           given={Katherine\bibnamedelima G.},
-           giveni={K\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
-        {{hash=57a5f85162225c5819288047a1c1769c}{%
-           family={{LaConte}},
-           familyi={L\bibinitperiod},
-           given={Stephen\bibnamedelima M.},
-           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-        {{hash=fbc078cdea4926652b717f36c9c1f34a}{%
-           family={Lisinski},
-           familyi={L\bibinitperiod},
-           given={Jonathan\bibnamedelima M.},
-           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-        {{hash=b5dbbcbbe12df111045fc8850e9c4520}{%
-           family={Nopoulos},
-           familyi={N\bibinitperiod},
-           given={Peg\bibnamedelima C.},
-           giveni={P\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
-        {{hash=3d6e69d235e092d07e8efd71b1ced3a1}{%
-           family={Cochran},
-           familyi={C\bibinitperiod},
-           given={Ashley},
-           giveni={A\bibinitperiod}}}%
-        {{hash=194dbe4507216ae64c0b56ee06c03731}{%
-           family={Rosenthal},
-           familyi={R\bibinitperiod},
-           given={Liana\bibnamedelima S.},
-           giveni={L\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
-        {{hash=924696054ee767c9a7e1a12be9ceea89}{%
-           family={Marvel},
-           familyi={M\bibinitperiod},
-           given={Cherie\bibnamedelima L.},
-           giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
-      }
-      \name{shortauthor}{1}{}{%
-        {{hash=b59c67bf196a4758191e42f76670ceba}{%
-           family={1111},
-           familyi={1\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Virtual}%
-      }
-      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{fullhash}{2b2fbaa546a781f4afa3939b317b5d6e}
-      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{authorbibnamehash}{83b4945e8c5b4225f31a8499045cf81e}
-      \strng{authornamehash}{e14267cb5000090d3f0eeb37a12095c1}
-      \strng{authorfullhash}{2b2fbaa546a781f4afa3939b317b5d6e}
-      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{1}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{shortauthor}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{Poster Session}
-      \field{month}{5}
-      \field{note}{National Ataxia Foundation’s 9th Ataxia Investigators Meeting}
-      \field{title}{\usebibmacro{bpl:linked}{Motor and cognitive sequencing in cerebellar ataxia}\usebibmacro{bpl:linked}{}}
-      \field{type}{Poster Session}
-      \field{year}{2021}
-      \field{dateera}{ce}
-      \true{nocite}
-    \endentry
     \entry{morgan_motor-cognitive_2019}{unpublished}{}
       \name{author}{8}{}{%
         {{hash=106e99b39a6865e6eae2b6094e23c8ef}{%
@@ -1967,7 +1930,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{2}
+      \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -1985,11 +1948,11 @@
     \endentry
     \entry{morgan_motor-cognitive_2018}{unpublished}{}
       \name{author}{9}{}{%
-        {{hash=e31db1b7373142fac69a46ad8bf3f1f2}{%
+        {{hash=106e99b39a6865e6eae2b6094e23c8ef}{%
            family={Morgan},
            familyi={M\bibinitperiod},
-           given={Owen},
-           giveni={O\bibinitperiod}}}%
+           given={Owen\bibnamedelima P.},
+           giveni={O\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
         {{hash=d3c2915d29b76c164874fabc125e86de}{%
            family={Slapik},
            familyi={S\bibinitperiod},
@@ -2020,11 +1983,11 @@
            familyi={H\bibinitperiod},
            given={Kira},
            giveni={K\bibinitperiod}}}%
-        {{hash=83df8d38f1150a59a97912e18a1d8996}{%
+        {{hash=194dbe4507216ae64c0b56ee06c03731}{%
            family={Rosenthal},
            familyi={R\bibinitperiod},
-           given={Liana},
-           giveni={L\bibinitperiod}}}%
+           given={Liana\bibnamedelima S.},
+           giveni={L\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
         {{hash=924696054ee767c9a7e1a12be9ceea89}{%
            family={Marvel},
            familyi={M\bibinitperiod},
@@ -2040,15 +2003,15 @@
         {Philadelphia, {USA}}%
       }
       \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{fullhash}{9f5ae0afa306e891340d6d4135d3c807}
+      \strng{fullhash}{b89e4f4feb2f57c7c6fc6f92e127a002}
       \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{authorbibnamehash}{744f9b217ee16f24b52e08fae097c4a2}
-      \strng{authornamehash}{beb84e1c9420b136ae3d74c80c67b24d}
-      \strng{authorfullhash}{9f5ae0afa306e891340d6d4135d3c807}
+      \strng{authorbibnamehash}{e73fa6ba236009b3e863df7b8c4a5d21}
+      \strng{authornamehash}{e14267cb5000090d3f0eeb37a12095c1}
+      \strng{authorfullhash}{b89e4f4feb2f57c7c6fc6f92e127a002}
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{3}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -2057,7 +2020,7 @@
       \field{labeltitlesource}{title}
       \field{howpublished}{Poster Session}
       \field{month}{4}
-      \field{note}{National Ataxia Foundation’s 8th Ataxia Investigators Meeting}
+      \field{note}{National Ataxia Foundation’s 7th Ataxia Investigators Meeting}
       \field{title}{\usebibmacro{bpl:linked}{Motor-cognitive multitasking in cerebellar ataxia}\usebibmacro{bpl:linked}{}}
       \field{type}{Poster Session}
       \field{year}{2018}
