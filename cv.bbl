@@ -19,6 +19,109 @@
 
 \refsection{1}
   \datalist[entry]{ydmdnt/global//global/global}
+    \entry{marvel_multimodal_2022}{article}{}
+      \name{author}{11}{}{%
+        {{hash=924696054ee767c9a7e1a12be9ceea89}{%
+           family={Marvel},
+           familyi={M\bibinitperiod},
+           given={Cherie\bibnamedelima L.},
+           giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=aac116536e1312ad141637f314ad42cc}{%
+           family={Alm},
+           familyi={A\bibinitperiod},
+           given={Kylie\bibnamedelima H.},
+           giveni={K\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=0d97774355aa76f59c3d077e7f3ce942}{%
+           family={Bhattacharya},
+           familyi={B\bibinitperiod},
+           given={Deeya},
+           giveni={D\bibinitperiod}}}%
+        {{hash=fd02f528b41cd0c88c7e11b8107af5cc}{%
+           family={Rebman},
+           familyi={R\bibinitperiod},
+           given={Alison\bibnamedelima W.},
+           giveni={A\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=0214947f4c07d78a44fa52bbff75ed44}{%
+           family={Bakker},
+           familyi={B\bibinitperiod},
+           given={Arnold},
+           giveni={A\bibinitperiod}}}%
+        {{hash=106e99b39a6865e6eae2b6094e23c8ef}{%
+           family={Morgan},
+           familyi={M\bibinitperiod},
+           given={Owen\bibnamedelima P.},
+           giveni={O\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=6c3d8d205df3b2f7521138f305811e00}{%
+           family={Creighton},
+           familyi={C\bibinitperiod},
+           given={Jason\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=8a6810038e067d9770f921e0e9fdf217}{%
+           family={Kozero},
+           familyi={K\bibinitperiod},
+           given={Erica\bibnamedelima A.},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=646c0c6ca593488527800583059a9749}{%
+           family={Venkatesan},
+           familyi={V\bibinitperiod},
+           given={Arun},
+           giveni={A\bibinitperiod}}}%
+        {{hash=adf19605156048dd2de1bb4b84a8850e}{%
+           family={Nadkarni},
+           familyi={N\bibinitperiod},
+           given={Prianca\bibnamedelima A.},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=28340e278e4740211e73fcb8fa864d32}{%
+           family={Aucott},
+           familyi={A\bibinitperiod},
+           given={John\bibnamedelima N.},
+           giveni={J\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \name{shortauthor}{1}{}{%
+        {{hash=b59c67bf196a4758191e42f76670ceba}{%
+           family={1111},
+           familyi={1\bibinitperiod}}}%
+      }
+      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{fullhash}{8db6755035b501c853ef97214a6fdbaf}
+      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{authorbibnamehash}{fe4606e5a4f9aaf68a12b6b5b2748bde}
+      \strng{authornamehash}{beccbf077bd8c68391aeb25e0172cd63}
+      \strng{authorfullhash}{8db6755035b501c853ef97214a6fdbaf}
+      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{shortauthor}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Abstract Lyme disease is the most common vector-borne infectious disease in the United States. Post-treatment Lyme disease ({PTLD}) is a condition affecting 10-20\% of patients in which symptoms persist despite antibiotic treatment. Cognitive complaints are common among those with {PTLD}, suggesting that brain changes are associated with the course of the illness. However, there has been a paucity of evidence to explain the cognitive difficulties expressed by patients with {PTLD}. This study administered a working memory task to a carefully screened group of 12 patients with well-characterized {PTLD} and 18 healthy controls while undergoing functional {MRI} ({fMRI}). A subset of 12 controls and all 12 {PTLD} participants also received diffusion tensor imaging ({DTI}) to measure white matter integrity. Clinical variables were also assessed and correlated with these multimodal {MRI} findings. On the working memory task, the patients with {PTLD} responded more slowly, but no less accurately, than did controls. {FMRI} activations were observed in expected regions by the controls, and to a lesser extent, by the {PTLD} participants. The {PTLD} group also hypoactivated several regions relevant to the task. Conversely, novel regions were activated by the {PTLD} group that were not observed in controls, suggesting a compensatory mechanism. Notably, three activations were located in white matter of the frontal lobe. {DTI} measures applied to these three regions of interest revealed that higher axial diffusivity correlated with fewer cognitive and neurological symptoms. Whole-brain {DTI} analyses revealed several frontal lobe regions in which higher axial diffusivity in the patients with {PTLD} correlated with longer duration of illness. Together, these results show that the brain is altered by {PTLD}, involving changes to white matter within the frontal lobe. Higher axial diffusivity may reflect white matter repair and healing over time, rather than pathology, and cognition appears to be dynamically affected throughout this repair process.}
+      \field{journaltitle}{{medRxiv}}
+      \field{langid}{english}
+      \field{title}{\usebibmacro{bpl:linked}{A multimodal neuroimaging study of brain abnormalities and clinical correlates in post treatment Lyme disease}\usebibmacro{bpl:linked}{}}
+      \field{urlday}{1}
+      \field{urlmonth}{8}
+      \field{urlyear}{2022}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1101/2022.07.01.22277150
+      \endverb
+      \verb{file}
+      \verb Marvel et al. - 2022 - A multimodal neuroimaging study of brain abnormali.pdf:/home/om/gdrive/Zotero_files/M/Marvel et al. - 2022 - A multimodal neuroimaging study of brain abnormali.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://medrxiv.org/lookup/doi/10.1101/2022.07.01.22277150
+      \endverb
+      \verb{url}
+      \verb http://medrxiv.org/lookup/doi/10.1101/2022.07.01.22277150
+      \endverb
+    \endentry
     \entry{kronemer_brain_2021}{article}{}
       \name{author}{28}{}{%
         {{hash=835e8d5a4063aa0263d336aabd02f2e4}{%
@@ -176,6 +279,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -192,7 +296,7 @@
       \verb 10.1101/2021.10.04.462661
       \endverb
       \verb{file}
-      \verb Kronemer et al. - 2021 - Brain networks in human conscious visual perceptio.pdf:/home/om/gdrive/Zotero_files/K/Kronemer et al. - 2021 - Brain networks in human conscious visual perceptio.pdf:application/pdf
+      \verb Kronemer et al. - 2021 - Brain networks in human conscious visual perceptio.pdf:/home/om/gdrive/Zotero_files/K/Kronemer et al. - 2021 - Brain networks in human conscious visual perceptio2.pdf:application/pdf
       \endverb
       \verb{urlraw}
       \verb https://www.biorxiv.org/content/early/2021/10/05/2021.10.04.462661
@@ -206,147 +310,6 @@
 
 \refsection{2}
   \datalist[entry]{ydmdnt/global//global/global}
-    \entry{iannuzzelli_association_2022}{article}{}
-      \name{author}{18}{}{%
-        {{hash=ce843ac18131ba942aba27631754ffa6}{%
-           family={Iannuzzelli},
-           familyi={I\bibinitperiod},
-           given={Katherine\bibnamedelima I.},
-           giveni={K\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
-        {{hash=9a97a3ab08ed6e3b7d4861e674007299}{%
-           family={Shi},
-           familyi={S\bibinitperiod},
-           given={Rosa},
-           giveni={R\bibinitperiod}}}%
-        {{hash=cdc8234169f82717ec17e45ffbfdee1f}{%
-           family={Carter},
-           familyi={C\bibinitperiod},
-           given={Reece},
-           giveni={R\bibinitperiod}}}%
-        {{hash=bf5548782d392d93bc37b4a66c410d8b}{%
-           family={Huynh},
-           familyi={H\bibinitperiod},
-           given={Rachel},
-           giveni={R\bibinitperiod}}}%
-        {{hash=106e99b39a6865e6eae2b6094e23c8ef}{%
-           family={Morgan},
-           familyi={M\bibinitperiod},
-           given={Owen\bibnamedelima P.},
-           giveni={O\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
-        {{hash=9517af5b99567632d0dfb412c1f1c998}{%
-           family={Kuo},
-           familyi={K\bibinitperiod},
-           given={Sheng-Han},
-           giveni={S\bibinithyphendelim H\bibinitperiod}}}%
-        {{hash=490728a3be399fed018352a7487e2000}{%
-           family={Bang},
-           familyi={B\bibinitperiod},
-           given={Jee},
-           giveni={J\bibinitperiod}}}%
-        {{hash=534534b4b438a16c5cc8bfb869ccfc1b}{%
-           family={Mills},
-           familyi={M\bibinitperiod},
-           given={Kelly\bibnamedelima A.},
-           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=4ac5613d2dca3d3126e783d869e26b2a}{%
-           family={Baranano},
-           familyi={B\bibinitperiod},
-           given={Kristin},
-           giveni={K\bibinitperiod}}}%
-        {{hash=187437ecaf05486b22bb8e1c88e51305}{%
-           family={Zee},
-           familyi={Z\bibinitperiod},
-           given={David\bibnamedelima S.},
-           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
-        {{hash=49306d622ed342cf5edf2745013763b2}{%
-           family={Moukheiber},
-           familyi={M\bibinitperiod},
-           given={Emile},
-           giveni={E\bibinitperiod}}}%
-        {{hash=03c2b8bd25bb67385241a7c61b84cac2}{%
-           family={Roda},
-           familyi={R\bibinitperiod},
-           given={Ricardo},
-           giveni={R\bibinitperiod}}}%
-        {{hash=5f9c95a2e88e506e9399033cc472f59d}{%
-           family={Butala},
-           familyi={B\bibinitperiod},
-           given={Ankur},
-           giveni={A\bibinitperiod}}}%
-        {{hash=924696054ee767c9a7e1a12be9ceea89}{%
-           family={Marvel},
-           familyi={M\bibinitperiod},
-           given={Cherie\bibnamedelima L.},
-           giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
-        {{hash=0e77cb6ee5a60ecc6c741b03fb41a89c}{%
-           family={Joyce},
-           familyi={J\bibinitperiod},
-           given={Michelle\bibnamedelima R.},
-           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
-        {{hash=f7fe19e964964670e8d7f4be7680ab1c}{%
-           family={Li},
-           familyi={L\bibinitperiod},
-           given={Ximin},
-           giveni={X\bibinitperiod}}}%
-        {{hash=ecadd9ed1239f5ae1f98f556bad234fa}{%
-           family={Wang},
-           familyi={W\bibinitperiod},
-           given={Jiangxia},
-           giveni={J\bibinitperiod}}}%
-        {{hash=194dbe4507216ae64c0b56ee06c03731}{%
-           family={Rosenthal},
-           familyi={R\bibinitperiod},
-           given={Liana\bibnamedelima S.},
-           giveni={L\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
-      }
-      \name{shortauthor}{1}{}{%
-        {{hash=b59c67bf196a4758191e42f76670ceba}{%
-           family={1111},
-           familyi={1\bibinitperiod}}}%
-      }
-      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{fullhash}{8dcac7b7753899c5d7811f8bf7252e49}
-      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{authorbibnamehash}{a2e75cf36fde94fe39481970fea2d57c}
-      \strng{authornamehash}{c33edfe86e1477b474e489c5f991a8ba}
-      \strng{authorfullhash}{8dcac7b7753899c5d7811f8bf7252e49}
-      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{1}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradate}{1}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{shortauthor}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Background: The number of trinucleotide {CAG} repeats is inversely correlated with the age at onset ({AAO}) of motor symptoms in individuals with Spinocerebellar Ataxia type 3 ({SCA} 3) and may cause 50\% to 60\% of variability in {AAO}. Drawing from a social determinants of health model, we sought to determine if educational attainment further contributes to the {AAO} and motor symptom progression of {SCA} 3. Methods: We performed a retrospective chart review in which twenty individuals met criteria for inclusion and had been seen by an ataxia specialist at our hospital between January 2005 and July 2019. {AAO} of motor symptoms and Scale for Assessment and Rating of Ataxia ({SARA}) scores were used as primary outcome measures. Journal Pre-proof Results: Using a linear regression, we found that having greater {CAG} repeat length and greater than 16 years of education results in an earlier {AAO}. The importance of the {CAG} repeat length on {AAO}, however, is greater amongst individuals with lower education. Using a linear mixed model evaluating {SARA} score over time with {AAO}, we found that less than 16 years of education is associated with faster progression of the disease. Conclusion: In our group of {SCA} 3 patients, level of education correlated with both the {AAO} and {SARA} scores. Though our findings need to be confirmed with a larger cohort, our study suggests that level of education can have a strong influence on health outcomes in {SCA} 3 and possibly other groups of patients with ataxia.}
-      \field{issn}{13538020}
-      \field{journaltitle}{Parkinsonism \& Related Disorders}
-      \field{langid}{english}
-      \field{shortjournal}{Parkinsonism \& Related Disorders}
-      \field{title}{\usebibmacro{bpl:linked}{The association between educational attainment and {SCA} 3 age of onset and disease course}\usebibmacro{bpl:linked}{}}
-      \field{urlday}{14}
-      \field{urlmonth}{3}
-      \field{urlyear}{2022}
-      \field{year}{2022}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \true{nocite}
-      \verb{doi}
-      \verb 10.1016/j.parkreldis.2022.02.025
-      \endverb
-      \verb{file}
-      \verb Iannuzzelli et al. - 2022 - The association between educational attainment and.pdf:/home/om/gdrive/Zotero_files/I/Iannuzzelli et al. - 2022 - The association between educational attainment and.pdf:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://linkinghub.elsevier.com/retrieve/pii/S135380202200058X
-      \endverb
-      \verb{url}
-      \verb https://linkinghub.elsevier.com/retrieve/pii/S135380202200058X
-      \endverb
-    \endentry
     \entry{joyce_quality_2022}{article}{}
       \name{author}{9}{}{%
         {{hash=0e77cb6ee5a60ecc6c741b03fb41a89c}{%
@@ -409,10 +372,10 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{2}
+      \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradate}{2}
+      \field{extradate}{1}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{shortauthor}
@@ -442,6 +405,85 @@
       \endverb
       \verb{url}
       \verb https://link.springer.com/10.1007/s12311-022-01393-5
+      \endverb
+    \endentry
+    \entry{marvel_quantitative_2022}{article}{}
+      \name{author}{9}{}{%
+        {{hash=924696054ee767c9a7e1a12be9ceea89}{%
+           family={Marvel},
+           familyi={M\bibinitperiod},
+           given={Cherie\bibnamedelima L.},
+           giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=17e889465f015f567550ebf95e2ff125}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Lin},
+           giveni={L\bibinitperiod}}}%
+        {{hash=0e77cb6ee5a60ecc6c741b03fb41a89c}{%
+           family={Joyce},
+           familyi={J\bibinitperiod},
+           given={Michelle\bibnamedelima R.},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=106e99b39a6865e6eae2b6094e23c8ef}{%
+           family={Morgan},
+           familyi={M\bibinitperiod},
+           given={Owen\bibnamedelima P.},
+           giveni={O\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=8cae3f8795a08aae39802a41c86a57f3}{%
+           family={Iannuzzelli},
+           familyi={I\bibinitperiod},
+           given={Katherine\bibnamedelima G.},
+           giveni={K\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=57a5f85162225c5819288047a1c1769c}{%
+           family={{LaConte}},
+           familyi={L\bibinitperiod},
+           given={Stephen\bibnamedelima M.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=fbc078cdea4926652b717f36c9c1f34a}{%
+           family={Lisinski},
+           familyi={L\bibinitperiod},
+           given={Jonathan\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=194dbe4507216ae64c0b56ee06c03731}{%
+           family={Rosenthal},
+           familyi={R\bibinitperiod},
+           given={Liana\bibnamedelima S.},
+           giveni={L\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=a93782691326c94093b6bede1a5b9913}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Xu},
+           giveni={X\bibinitperiod}}}%
+      }
+      \name{shortauthor}{1}{}{%
+        {{hash=b59c67bf196a4758191e42f76670ceba}{%
+           family={1111},
+           familyi={1\bibinitperiod}}}%
+      }
+      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{fullhash}{da780af2394acfec2b8dc6afb4443c9a}
+      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{authorbibnamehash}{3afeaee06b92ae472f70c33f785811a9}
+      \strng{authornamehash}{beccbf077bd8c68391aeb25e0172cd63}
+      \strng{authorfullhash}{da780af2394acfec2b8dc6afb4443c9a}
+      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{shortauthor}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Frontiers in Neuroscience}
+      \field{title}{\usebibmacro{bpl:linked}{Quantitative susceptibility mapping of basal ganglia iron is associated with cognitive and motor functions that distinguish spinocerebellar ataxia type 6 and type 3}\usebibmacro{bpl:linked}{}}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.3389/fnins.2022.919765
       \endverb
     \endentry
     \entry{monick_characterization_2022}{article}{}
@@ -534,6 +576,151 @@
       \verb https://www.nature.com/articles/s41598-022-08364-0
       \endverb
     \endentry
+    \entry{iannuzzelli_association_2022}{article}{}
+      \name{author}{18}{}{%
+        {{hash=da63f2b3adc3087e8aa6e35ee13458d3}{%
+           family={Iannuzzelli},
+           familyi={I\bibinitperiod},
+           given={Katherine},
+           giveni={K\bibinitperiod}}}%
+        {{hash=9a97a3ab08ed6e3b7d4861e674007299}{%
+           family={Shi},
+           familyi={S\bibinitperiod},
+           given={Rosa},
+           giveni={R\bibinitperiod}}}%
+        {{hash=cdc8234169f82717ec17e45ffbfdee1f}{%
+           family={Carter},
+           familyi={C\bibinitperiod},
+           given={Reece},
+           giveni={R\bibinitperiod}}}%
+        {{hash=bf5548782d392d93bc37b4a66c410d8b}{%
+           family={Huynh},
+           familyi={H\bibinitperiod},
+           given={Rachel},
+           giveni={R\bibinitperiod}}}%
+        {{hash=106e99b39a6865e6eae2b6094e23c8ef}{%
+           family={Morgan},
+           familyi={M\bibinitperiod},
+           given={Owen\bibnamedelima P.},
+           giveni={O\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=9517af5b99567632d0dfb412c1f1c998}{%
+           family={Kuo},
+           familyi={K\bibinitperiod},
+           given={Sheng-Han},
+           giveni={S\bibinithyphendelim H\bibinitperiod}}}%
+        {{hash=490728a3be399fed018352a7487e2000}{%
+           family={Bang},
+           familyi={B\bibinitperiod},
+           given={Jee},
+           giveni={J\bibinitperiod}}}%
+        {{hash=534534b4b438a16c5cc8bfb869ccfc1b}{%
+           family={Mills},
+           familyi={M\bibinitperiod},
+           given={Kelly\bibnamedelima A.},
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=4ac5613d2dca3d3126e783d869e26b2a}{%
+           family={Baranano},
+           familyi={B\bibinitperiod},
+           given={Kristin},
+           giveni={K\bibinitperiod}}}%
+        {{hash=187437ecaf05486b22bb8e1c88e51305}{%
+           family={Zee},
+           familyi={Z\bibinitperiod},
+           given={David\bibnamedelima S.},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=49306d622ed342cf5edf2745013763b2}{%
+           family={Moukheiber},
+           familyi={M\bibinitperiod},
+           given={Emile},
+           giveni={E\bibinitperiod}}}%
+        {{hash=03c2b8bd25bb67385241a7c61b84cac2}{%
+           family={Roda},
+           familyi={R\bibinitperiod},
+           given={Ricardo},
+           giveni={R\bibinitperiod}}}%
+        {{hash=5f9c95a2e88e506e9399033cc472f59d}{%
+           family={Butala},
+           familyi={B\bibinitperiod},
+           given={Ankur},
+           giveni={A\bibinitperiod}}}%
+        {{hash=abb75ad42db775097410e0a8991c9a04}{%
+           family={Marvel},
+           familyi={M\bibinitperiod},
+           given={Cherie},
+           giveni={C\bibinitperiod}}}%
+        {{hash=7c48465f27c4215e6b80c156c0af5ddc}{%
+           family={Joyce},
+           familyi={J\bibinitperiod},
+           given={Michelle},
+           giveni={M\bibinitperiod}}}%
+        {{hash=f7fe19e964964670e8d7f4be7680ab1c}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Ximin},
+           giveni={X\bibinitperiod}}}%
+        {{hash=ecadd9ed1239f5ae1f98f556bad234fa}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Jiangxia},
+           giveni={J\bibinitperiod}}}%
+        {{hash=194dbe4507216ae64c0b56ee06c03731}{%
+           family={Rosenthal},
+           familyi={R\bibinitperiod},
+           given={Liana\bibnamedelima S.},
+           giveni={L\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \name{shortauthor}{1}{}{%
+        {{hash=b59c67bf196a4758191e42f76670ceba}{%
+           family={1111},
+           familyi={1\bibinitperiod}}}%
+      }
+      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{fullhash}{ac31b64e1216662e2f16996c4df1105b}
+      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{authorbibnamehash}{3ad595154bae1128e349f2338843e9d5}
+      \strng{authornamehash}{41c117b84d4d6326d36f482ca6d89693}
+      \strng{authorfullhash}{ac31b64e1216662e2f16996c4df1105b}
+      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
+      \field{extraname}{4}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{shortauthor}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Background: The number of trinucleotide {CAG} repeats is inversely correlated with the age at onset ({AAO}) of motor symptoms in individuals with Spinocerebellar Ataxia type 3 ({SCA} 3) and may be responsible for 50\%–60\% of the variability in {AAO}. Drawing from a social determinants of health model, we sought to determine if educational attainment further contributes to the {AAO} and motor symptom progression of {SCA} 3. Methods: We performed a retrospective chart review in which twenty individuals met criteria for inclusion and had been seen by an ataxia specialist at our hospital between January 2005 and July 2019. {AAO} of motor symptoms and Scale for Assessment and Rating of Ataxia ({SARA}) scores were used as primary outcome measures. Results: Using a linear regression, we found that having greater {CAG} repeat length and greater than 16 years of education results in an earlier {AAO}. The importance of the {CAG} repeat length on {AAO}, however, is greater amongst individuals with lower education. Using a linear mixed model evaluating {SARA} score over time with {AAO}, we found that less than 16 years of education is associated with faster progression of the disease. Conclusion: In our group of {SCA} 3 patients, level of education correlated with both the {AAO} and {SARA} scores. Though our findings need to be confirmed with a larger cohort, our study suggests that level of education can have a strong influence on health outcomes in {SCA} 3 and possibly other groups of patients with ataxia.}
+      \field{issn}{13538020}
+      \field{journaltitle}{Parkinsonism \& Related Disorders}
+      \field{langid}{english}
+      \field{month}{5}
+      \field{shortjournal}{Parkinsonism \& Related Disorders}
+      \field{title}{\usebibmacro{bpl:linked}{The association between educational attainment and {SCA} 3 age of onset and disease course}\usebibmacro{bpl:linked}{}}
+      \field{urlday}{27}
+      \field{urlmonth}{5}
+      \field{urlyear}{2022}
+      \field{volume}{98}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{99\bibrangedash 102}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1016/j.parkreldis.2022.02.025
+      \endverb
+      \verb{file}
+      \verb Iannuzzelli et al. - 2022 - The association between educational attainment and.pdf:/home/om/gdrive/Zotero_files/I/Iannuzzelli et al. - 2022 - The association between educational attainment and2.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S135380202200058X
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S135380202200058X
+      \endverb
+    \endentry
     \entry{kronemer_neuropsychiatric_2021}{article}{}
       \name{author}{9}{}{%
         {{hash=835e8d5a4063aa0263d336aabd02f2e4}{%
@@ -596,7 +783,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{4}
+      \field{extraname}{5}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{1}
@@ -696,7 +883,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{5}
+      \field{extraname}{6}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{2}
@@ -761,7 +948,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{6}
+      \field{extraname}{7}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{1}
@@ -788,7 +975,7 @@
       \verb 10.1016/j.neubiorev.2019.04.017
       \endverb
       \verb{file}
-      \verb ScienceDirect Snapshot:/home/om/.Zotero/storage/J42WFBT2/S0149763418306468.html:text/html;MarvelC_ea - How the motor system integrates with working - 2019.pdf:/home/om/gdrive/Zotero_files/M/MarvelC_ea - How the motor system integrates with working - 22.pdf:application/pdf;ScienceDirect Snapshot:/home/om/.Zotero/storage/TET4G9P4/S0149763418306468.html:text/html
+      \verb MarvelC_ea - How the motor system integrates with working - 2019.pdf:/home/om/gdrive/Zotero_files/M/MarvelC_ea - How the motor system integrates with working - 22.pdf:application/pdf;ScienceDirect Snapshot:/home/om/.Zotero/storage/J42WFBT2/S0149763418306468.html:text/html;ScienceDirect Snapshot:/home/om/.Zotero/storage/TET4G9P4/S0149763418306468.html:text/html
       \endverb
       \verb{urlraw}
       \verb http://www.sciencedirect.com/science/article/pii/S0149763418306468
@@ -855,7 +1042,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{7}
+      \field{extraname}{8}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{2}
@@ -1870,6 +2057,52 @@
 
 \refsection{5}
   \datalist[entry]{ydmdnt/global//global/global}
+    \entry{morgan_handedness_2022}{unpublished}{}
+      \name{author}{2}{}{%
+        {{hash=106e99b39a6865e6eae2b6094e23c8ef}{%
+           family={Morgan},
+           familyi={M\bibinitperiod},
+           given={Owen\bibnamedelima P.},
+           giveni={O\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=c27e82d07b01a5b1c9e78a8d5b4ff6ee}{%
+           family={Casasanto},
+           familyi={C\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+      }
+      \name{shortauthor}{1}{}{%
+        {{hash=b59c67bf196a4758191e42f76670ceba}{%
+           family={1111},
+           familyi={1\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Toronto, Canada}%
+      }
+      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{fullhash}{efcf46efd9f5b4f7bdcc622f8ab2a77d}
+      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{authorbibnamehash}{efcf46efd9f5b4f7bdcc622f8ab2a77d}
+      \strng{authornamehash}{efcf46efd9f5b4f7bdcc622f8ab2a77d}
+      \strng{authorfullhash}{efcf46efd9f5b4f7bdcc622f8ab2a77d}
+      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{shortauthor}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Poster Session}
+      \field{month}{7}
+      \field{note}{44th Annual Conference of the Cognitive Science Society}
+      \field{title}{\usebibmacro{bpl:linked}{Handedness and creativity: Facts and fictions}\usebibmacro{bpl:linked}{}}
+      \field{type}{Poster Session}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \true{nocite}
+    \endentry
     \entry{morgan_motor-cognitive_2019}{unpublished}{}
       \name{author}{8}{}{%
         {{hash=106e99b39a6865e6eae2b6094e23c8ef}{%
@@ -1930,7 +2163,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{1}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -2011,7 +2244,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{2}
+      \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}

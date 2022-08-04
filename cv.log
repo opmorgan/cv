@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.3.16)  16 MAY 2022 15:11
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.3.16)  4 AUG 2022 14:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -740,12 +740,12 @@ Package biblatex Info: Reference section=0 on input line 232.
 \c@blx@sectionciteorder@6=\count444
 Package biblatex Info: Reference section=6 on input line 232.
 Package biblatex Info: Setting label 'refsection:6' on input line 232.
- [3]
+ [3] [4]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 291.
+(Font)              <7> on input line 301.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 291.
- [4] (./cv.aux)
+(Font)              <5> on input line 301.
+ [5] (./cv.aux)
 Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: 864787D24B3F1330DADE7DCA5AF55612;1783.
 Package logreq Info: Writing requests to 'cv.run.xml'.
@@ -753,12 +753,12 @@ Package logreq Info: Writing requests to 'cv.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 21197 strings out of 478179
- 424311 string characters out of 5854595
- 1265182 words of memory out of 5000000
- 41599 multiletter control sequences out of 15000+600000
+ 21215 strings out of 478179
+ 425161 string characters out of 5854595
+ 1264450 words of memory out of 5000000
+ 41617 multiletter control sequences out of 15000+600000
  469795 words of font info for 51 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  60i,5n,73p,2536b,4992s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on cv.xdv (4 pages, 110268 bytes).
+Output written on cv.xdv (5 pages, 121380 bytes).
