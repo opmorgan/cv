@@ -19,563 +19,6 @@
 
 \refsection{1}
   \datalist[entry]{ydmdnt/global//global/global}
-    \entry{marvel_multimodal_2022}{article}{}
-      \name{author}{11}{}{%
-        {{hash=924696054ee767c9a7e1a12be9ceea89}{%
-           family={Marvel},
-           familyi={M\bibinitperiod},
-           given={Cherie\bibnamedelima L.},
-           giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
-        {{hash=aac116536e1312ad141637f314ad42cc}{%
-           family={Alm},
-           familyi={A\bibinitperiod},
-           given={Kylie\bibnamedelima H.},
-           giveni={K\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
-        {{hash=0d97774355aa76f59c3d077e7f3ce942}{%
-           family={Bhattacharya},
-           familyi={B\bibinitperiod},
-           given={Deeya},
-           giveni={D\bibinitperiod}}}%
-        {{hash=fd02f528b41cd0c88c7e11b8107af5cc}{%
-           family={Rebman},
-           familyi={R\bibinitperiod},
-           given={Alison\bibnamedelima W.},
-           giveni={A\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
-        {{hash=0214947f4c07d78a44fa52bbff75ed44}{%
-           family={Bakker},
-           familyi={B\bibinitperiod},
-           given={Arnold},
-           giveni={A\bibinitperiod}}}%
-        {{hash=106e99b39a6865e6eae2b6094e23c8ef}{%
-           family={Morgan},
-           familyi={M\bibinitperiod},
-           given={Owen\bibnamedelima P.},
-           giveni={O\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
-        {{hash=6c3d8d205df3b2f7521138f305811e00}{%
-           family={Creighton},
-           familyi={C\bibinitperiod},
-           given={Jason\bibnamedelima A.},
-           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=8a6810038e067d9770f921e0e9fdf217}{%
-           family={Kozero},
-           familyi={K\bibinitperiod},
-           given={Erica\bibnamedelima A.},
-           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=646c0c6ca593488527800583059a9749}{%
-           family={Venkatesan},
-           familyi={V\bibinitperiod},
-           given={Arun},
-           giveni={A\bibinitperiod}}}%
-        {{hash=adf19605156048dd2de1bb4b84a8850e}{%
-           family={Nadkarni},
-           familyi={N\bibinitperiod},
-           given={Prianca\bibnamedelima A.},
-           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=28340e278e4740211e73fcb8fa864d32}{%
-           family={Aucott},
-           familyi={A\bibinitperiod},
-           given={John\bibnamedelima N.},
-           giveni={J\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
-      }
-      \name{shortauthor}{1}{}{%
-        {{hash=b59c67bf196a4758191e42f76670ceba}{%
-           family={1111},
-           familyi={1\bibinitperiod}}}%
-      }
-      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{fullhash}{8db6755035b501c853ef97214a6fdbaf}
-      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{authorbibnamehash}{fe4606e5a4f9aaf68a12b6b5b2748bde}
-      \strng{authornamehash}{beccbf077bd8c68391aeb25e0172cd63}
-      \strng{authorfullhash}{8db6755035b501c853ef97214a6fdbaf}
-      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{1}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{shortauthor}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Abstract Lyme disease is the most common vector-borne infectious disease in the United States. Post-treatment Lyme disease ({PTLD}) is a condition affecting 10-20\% of patients in which symptoms persist despite antibiotic treatment. Cognitive complaints are common among those with {PTLD}, suggesting that brain changes are associated with the course of the illness. However, there has been a paucity of evidence to explain the cognitive difficulties expressed by patients with {PTLD}. This study administered a working memory task to a carefully screened group of 12 patients with well-characterized {PTLD} and 18 healthy controls while undergoing functional {MRI} ({fMRI}). A subset of 12 controls and all 12 {PTLD} participants also received diffusion tensor imaging ({DTI}) to measure white matter integrity. Clinical variables were also assessed and correlated with these multimodal {MRI} findings. On the working memory task, the patients with {PTLD} responded more slowly, but no less accurately, than did controls. {FMRI} activations were observed in expected regions by the controls, and to a lesser extent, by the {PTLD} participants. The {PTLD} group also hypoactivated several regions relevant to the task. Conversely, novel regions were activated by the {PTLD} group that were not observed in controls, suggesting a compensatory mechanism. Notably, three activations were located in white matter of the frontal lobe. {DTI} measures applied to these three regions of interest revealed that higher axial diffusivity correlated with fewer cognitive and neurological symptoms. Whole-brain {DTI} analyses revealed several frontal lobe regions in which higher axial diffusivity in the patients with {PTLD} correlated with longer duration of illness. Together, these results show that the brain is altered by {PTLD}, involving changes to white matter within the frontal lobe. Higher axial diffusivity may reflect white matter repair and healing over time, rather than pathology, and cognition appears to be dynamically affected throughout this repair process.}
-      \field{journaltitle}{{medRxiv}}
-      \field{langid}{english}
-      \field{title}{\usebibmacro{bpl:linked}{A multimodal neuroimaging study of brain abnormalities and clinical correlates in post treatment Lyme disease}\usebibmacro{bpl:linked}{}}
-      \field{urlday}{1}
-      \field{urlmonth}{8}
-      \field{urlyear}{2022}
-      \field{year}{2022}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \true{nocite}
-      \verb{doi}
-      \verb 10.1101/2022.07.01.22277150
-      \endverb
-      \verb{file}
-      \verb Marvel et al. - 2022 - A multimodal neuroimaging study of brain abnormali.pdf:/home/om/gdrive/Zotero_files/M/Marvel et al. - 2022 - A multimodal neuroimaging study of brain abnormali.pdf:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb http://medrxiv.org/lookup/doi/10.1101/2022.07.01.22277150
-      \endverb
-      \verb{url}
-      \verb http://medrxiv.org/lookup/doi/10.1101/2022.07.01.22277150
-      \endverb
-    \endentry
-    \entry{kronemer_brain_2021}{article}{}
-      \name{author}{28}{}{%
-        {{hash=835e8d5a4063aa0263d336aabd02f2e4}{%
-           family={Kronemer},
-           familyi={K\bibinitperiod},
-           given={Sharif\bibnamedelima I.},
-           giveni={S\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
-        {{hash=ae13dcb5b65fdb44cdd7f9a31a9d99fc}{%
-           family={Aksen},
-           familyi={A\bibinitperiod},
-           given={Mark},
-           giveni={M\bibinitperiod}}}%
-        {{hash=29dd87ea186c5757da2fe055b216955f}{%
-           family={Ding},
-           familyi={D\bibinitperiod},
-           given={Julia},
-           giveni={J\bibinitperiod}}}%
-        {{hash=72d63cca1c345f53c40ab457667fdc6d}{%
-           family={Ryu},
-           familyi={R\bibinitperiod},
-           given={Jun\bibnamedelima Hwan},
-           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
-        {{hash=d9aa479390bc0ddc548497538001d52b}{%
-           family={Xin},
-           familyi={X\bibinitperiod},
-           given={Qilong},
-           giveni={Q\bibinitperiod}}}%
-        {{hash=b8c63a29dedb2be955819c5871498da1}{%
-           family={Ding},
-           familyi={D\bibinitperiod},
-           given={Zhaoxiong},
-           giveni={Z\bibinitperiod}}}%
-        {{hash=36f12bc6ef665d22b48d69b4fc5b1d87}{%
-           family={Prince},
-           familyi={P\bibinitperiod},
-           given={Jacob\bibnamedelima S.},
-           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
-        {{hash=8e0a88a94051622b02ba587a84660344}{%
-           family={Kwon},
-           familyi={K\bibinitperiod},
-           given={Hunki},
-           giveni={H\bibinitperiod}}}%
-        {{hash=64195ba36207439a94f1ac5959eb914e}{%
-           family={Khalaf},
-           familyi={K\bibinitperiod},
-           given={Aya},
-           giveni={A\bibinitperiod}}}%
-        {{hash=93244dca1f1593beff6acf27bb0efe2e}{%
-           family={Forman},
-           familyi={F\bibinitperiod},
-           given={Sarit},
-           giveni={S\bibinitperiod}}}%
-        {{hash=265194c102a073a98d3bd2635a323711}{%
-           family={Jin},
-           familyi={J\bibinitperiod},
-           given={David},
-           giveni={D\bibinitperiod}}}%
-        {{hash=069dc336b3fb2f586b29076e5ab0d101}{%
-           family={Wang},
-           familyi={W\bibinitperiod},
-           given={Kevin},
-           giveni={K\bibinitperiod}}}%
-        {{hash=f26d677e95e02af461a90472a71ac167}{%
-           family={Chen},
-           familyi={C\bibinitperiod},
-           given={Kaylie},
-           giveni={K\bibinitperiod}}}%
-        {{hash=910b4df57134ef669dd07bd6e5063851}{%
-           family={Hu},
-           familyi={H\bibinitperiod},
-           given={Claire},
-           giveni={C\bibinitperiod}}}%
-        {{hash=5ff63685f2e40bb62b91d7709d09ea5d}{%
-           family={Agarwal},
-           familyi={A\bibinitperiod},
-           given={Akshar},
-           giveni={A\bibinitperiod}}}%
-        {{hash=22a75ecb1621d5a19cdd799820c77df5}{%
-           family={Saberski},
-           familyi={S\bibinitperiod},
-           given={Erik},
-           giveni={E\bibinitperiod}}}%
-        {{hash=bbcaa7344e6b8a61ceccb32bd08d44c2}{%
-           family={Wafa},
-           familyi={W\bibinitperiod},
-           given={Syed\bibnamedelimb Mohammad\bibnamedelima Adil},
-           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=106e99b39a6865e6eae2b6094e23c8ef}{%
-           family={Morgan},
-           familyi={M\bibinitperiod},
-           given={Owen\bibnamedelima P.},
-           giveni={O\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
-        {{hash=9cecf65b3c7f3407db3d54a3f9966210}{%
-           family={Wu},
-           familyi={W\bibinitperiod},
-           given={Jia},
-           giveni={J\bibinitperiod}}}%
-        {{hash=a76a7f7d9530197d2259e4ab036c0c67}{%
-           family={Christison-Lagay},
-           familyi={C\bibinithyphendelim L\bibinitperiod},
-           given={Kate\bibnamedelima L.},
-           giveni={K\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
-        {{hash=09f2b09966d1cd38612b85254e6bdb1e}{%
-           family={Hasulak},
-           familyi={H\bibinitperiod},
-           given={Nicholas},
-           giveni={N\bibinitperiod}}}%
-        {{hash=d60604065ddc622851da62070f3a953e}{%
-           family={Morrell},
-           familyi={M\bibinitperiod},
-           given={Martha},
-           giveni={M\bibinitperiod}}}%
-        {{hash=6b87444b4d1cc20fd184a0cfeca49f6c}{%
-           family={Urban},
-           familyi={U\bibinitperiod},
-           given={Alexandra},
-           giveni={A\bibinitperiod}}}%
-        {{hash=16a66f2c232f6f3ff62d26228789f26d}{%
-           family={Constable},
-           familyi={C\bibinitperiod},
-           given={R.\bibnamedelimi Todd},
-           giveni={R\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
-        {{hash=293eec39175f563695ec8298a5ec4dd0}{%
-           family={Pitts},
-           familyi={P\bibinitperiod},
-           given={Michael},
-           giveni={M\bibinitperiod}}}%
-        {{hash=9a5e5df9c9fe0c6122dd5de4f41e88e9}{%
-           family={Richardson},
-           familyi={R\bibinitperiod},
-           given={R.\bibnamedelimi Mark},
-           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-        {{hash=0cfed57c8735562d06e944a1d8aac9fa}{%
-           family={Crowley},
-           familyi={C\bibinitperiod},
-           given={Michael\bibnamedelima J.},
-           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-        {{hash=81ea1150828d9dd3a5088f4bc622058d}{%
-           family={Blumenfeld},
-           familyi={B\bibinitperiod},
-           given={Hal},
-           giveni={H\bibinitperiod}}}%
-      }
-      \name{shortauthor}{1}{}{%
-        {{hash=b59c67bf196a4758191e42f76670ceba}{%
-           family={1111},
-           familyi={1\bibinitperiod}}}%
-      }
-      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{fullhash}{5efb95c7084adb844b6a6bf5979cea30}
-      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{authorbibnamehash}{fe12d80d6159bd58c54a251d0f40f5df}
-      \strng{authornamehash}{07956c494198e2a9c623d3f70cbfba15}
-      \strng{authorfullhash}{5efb95c7084adb844b6a6bf5979cea30}
-      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{2}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{shortauthor}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Consciousness is not explained by a single mechanism, rather it involves multiple specialized neural systems overlapping in space and time. We hypothesize that synergistic, large-scale subcortical and cortical attention and signal processing networks encode conscious experiences. To identify brain activity in conscious perception without overt report, we classified visual stimuli as perceived or not using eye measurements. Report-independent event-related potentials and functional magnetic resonance imaging ({fMRI}) signals both occurred at early times after stimuli. Direct recordings revealed a novel thalamic awareness potential linked to conscious visual perception based on report. {fMRI} showed thalamic and cortical detection, arousal, attentional salience, task-positive, and default mode networks were involved independent of overt report. These findings identify a specific sequence of neural mechanisms in human conscious visual perception.One-Sentence Summary Human conscious visual perception engages large-scale subcortical and cortical networks even without overt report.Competing Interest {StatementThe} authors have declared no competing interest.}
-      \field{journaltitle}{{bioRxiv}}
-      \field{title}{\usebibmacro{bpl:linked}{Brain networks in human conscious visual perception}\usebibmacro{bpl:linked}{}}
-      \field{year}{2021}
-      \field{dateera}{ce}
-      \true{nocite}
-      \verb{doi}
-      \verb 10.1101/2021.10.04.462661
-      \endverb
-      \verb{file}
-      \verb Kronemer et al. - 2021 - Brain networks in human conscious visual perceptio.pdf:/home/om/gdrive/Zotero_files/K/Kronemer et al. - 2021 - Brain networks in human conscious visual perceptio2.pdf:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://www.biorxiv.org/content/early/2021/10/05/2021.10.04.462661
-      \endverb
-      \verb{url}
-      \verb https://www.biorxiv.org/content/early/2021/10/05/2021.10.04.462661
-      \endverb
-    \endentry
-  \enddatalist
-\endrefsection
-
-\refsection{2}
-  \datalist[entry]{ydmdnt/global//global/global}
-    \entry{joyce_quality_2022}{article}{}
-      \name{author}{9}{}{%
-        {{hash=0e77cb6ee5a60ecc6c741b03fb41a89c}{%
-           family={Joyce},
-           familyi={J\bibinitperiod},
-           given={Michelle\bibnamedelima R.},
-           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
-        {{hash=adf19605156048dd2de1bb4b84a8850e}{%
-           family={Nadkarni},
-           familyi={N\bibinitperiod},
-           given={Prianca\bibnamedelima A.},
-           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=835e8d5a4063aa0263d336aabd02f2e4}{%
-           family={Kronemer},
-           familyi={K\bibinitperiod},
-           given={Sharif\bibnamedelima I.},
-           giveni={S\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
-        {{hash=40dd28ff096e8563e3bbc9ec6df006bd}{%
-           family={Margron},
-           familyi={M\bibinitperiod},
-           given={Michael\bibnamedelima J.},
-           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-        {{hash=d3c2915d29b76c164874fabc125e86de}{%
-           family={Slapik},
-           familyi={S\bibinitperiod},
-           given={Mitchell\bibnamedelima B.},
-           giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
-        {{hash=106e99b39a6865e6eae2b6094e23c8ef}{%
-           family={Morgan},
-           familyi={M\bibinitperiod},
-           given={Owen\bibnamedelima P.},
-           giveni={O\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
-        {{hash=194dbe4507216ae64c0b56ee06c03731}{%
-           family={Rosenthal},
-           familyi={R\bibinitperiod},
-           given={Liana\bibnamedelima S.},
-           giveni={L\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
-        {{hash=4b00e289145ab712ab796140719316cf}{%
-           family={Onyike},
-           familyi={O\bibinitperiod},
-           given={Chiadi\bibnamedelima U.},
-           giveni={C\bibinitperiod\bibinitdelim U\bibinitperiod}}}%
-        {{hash=924696054ee767c9a7e1a12be9ceea89}{%
-           family={Marvel},
-           familyi={M\bibinitperiod},
-           given={Cherie\bibnamedelima L.},
-           giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
-      }
-      \name{shortauthor}{1}{}{%
-        {{hash=b59c67bf196a4758191e42f76670ceba}{%
-           family={1111},
-           familyi={1\bibinitperiod}}}%
-      }
-      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{fullhash}{4fe08cadb37d5af7f31c82636bc0ed71}
-      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{authorbibnamehash}{43a03374aafc2d7441b71e4ce69dfb85}
-      \strng{authornamehash}{65c06feef56f7fb4a4c9b2dc583d6523}
-      \strng{authorfullhash}{4fe08cadb37d5af7f31c82636bc0ed71}
-      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{1}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradate}{1}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{shortauthor}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{Semi-structured interviews of patient accounts and caregiver, or informant, perspectives are a beneficial resource for patients suffering from diseases with complex symptomatology, such as cerebellar ataxia. The aim of this study was to identify, quantify, and compare the ways in which cerebellar ataxia patients’ and informants’ quality of life had changed as a result of living with ataxia. Using a semi-structured interview, responses were collected from patients and informants regarding motor, cognitive, and psychosocial variables. Responses were also collected from patients and informants to open-ended questions that were subsequently categorized into 15 quality of life themes that best represented changes experienced by the patients and informants. Ataxia patients and informants agreed as to the severity of posture/gait, daily activities/fine motor tasks, speech/feeding/swallowing, and oculomotor/vision impairment. It was also demonstrated that severity ratings for specific motor-related functions strongly correlated with corresponding functions within the International Cooperative Ataxia Rating Scale ({ICARS}), and that this interview identified frequency associations between motor impairments and specific psychosocial difficulties, which could be useful for prognostic purposes. Overall, the information obtained from this study characterized the symptoms and challenges to ataxia patients and their caregivers, which could serve as a useful educational resource for those affected by ataxia, clinicians, and researchers.}
-      \field{issn}{1473-4230}
-      \field{journaltitle}{The Cerebellum}
-      \field{langid}{english}
-      \field{shortjournal}{Cerebellum}
-      \field{shorttitle}{Quality of Life Changes Following the Onset of Cerebellar Ataxia}
-      \field{title}{\usebibmacro{bpl:linked}{Quality of life changes following the onset of cerebellar ataxia: Symptoms and concerns self-reported by ataxia patients and informants}\usebibmacro{bpl:linked}{}}
-      \field{urlday}{30}
-      \field{urlmonth}{3}
-      \field{urlyear}{2022}
-      \field{year}{2022}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \true{nocite}
-      \verb{doi}
-      \verb 10.1007/s12311-022-01393-5
-      \endverb
-      \verb{file}
-      \verb Joyce et al. - 2022 - Quality of life changes following the onset of cer.pdf:/home/om/gdrive/Zotero_files/J/Joyce et al. - 2022 - Quality of life changes following the onset of cer.pdf:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://link.springer.com/10.1007/s12311-022-01393-5
-      \endverb
-      \verb{url}
-      \verb https://link.springer.com/10.1007/s12311-022-01393-5
-      \endverb
-    \endentry
-    \entry{marvel_quantitative_2022}{article}{}
-      \name{author}{9}{}{%
-        {{hash=924696054ee767c9a7e1a12be9ceea89}{%
-           family={Marvel},
-           familyi={M\bibinitperiod},
-           given={Cherie\bibnamedelima L.},
-           giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
-        {{hash=17e889465f015f567550ebf95e2ff125}{%
-           family={Chen},
-           familyi={C\bibinitperiod},
-           given={Lin},
-           giveni={L\bibinitperiod}}}%
-        {{hash=0e77cb6ee5a60ecc6c741b03fb41a89c}{%
-           family={Joyce},
-           familyi={J\bibinitperiod},
-           given={Michelle\bibnamedelima R.},
-           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
-        {{hash=106e99b39a6865e6eae2b6094e23c8ef}{%
-           family={Morgan},
-           familyi={M\bibinitperiod},
-           given={Owen\bibnamedelima P.},
-           giveni={O\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
-        {{hash=8cae3f8795a08aae39802a41c86a57f3}{%
-           family={Iannuzzelli},
-           familyi={I\bibinitperiod},
-           given={Katherine\bibnamedelima G.},
-           giveni={K\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
-        {{hash=57a5f85162225c5819288047a1c1769c}{%
-           family={{LaConte}},
-           familyi={L\bibinitperiod},
-           given={Stephen\bibnamedelima M.},
-           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-        {{hash=fbc078cdea4926652b717f36c9c1f34a}{%
-           family={Lisinski},
-           familyi={L\bibinitperiod},
-           given={Jonathan\bibnamedelima M.},
-           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-        {{hash=194dbe4507216ae64c0b56ee06c03731}{%
-           family={Rosenthal},
-           familyi={R\bibinitperiod},
-           given={Liana\bibnamedelima S.},
-           giveni={L\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
-        {{hash=a93782691326c94093b6bede1a5b9913}{%
-           family={Li},
-           familyi={L\bibinitperiod},
-           given={Xu},
-           giveni={X\bibinitperiod}}}%
-      }
-      \name{shortauthor}{1}{}{%
-        {{hash=b59c67bf196a4758191e42f76670ceba}{%
-           family={1111},
-           familyi={1\bibinitperiod}}}%
-      }
-      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{fullhash}{da780af2394acfec2b8dc6afb4443c9a}
-      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{authorbibnamehash}{3afeaee06b92ae472f70c33f785811a9}
-      \strng{authornamehash}{beccbf077bd8c68391aeb25e0172cd63}
-      \strng{authorfullhash}{da780af2394acfec2b8dc6afb4443c9a}
-      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{2}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradate}{2}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{shortauthor}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Frontiers in Neuroscience}
-      \field{title}{\usebibmacro{bpl:linked}{Quantitative susceptibility mapping of basal ganglia iron is associated with cognitive and motor functions that distinguish spinocerebellar ataxia type 6 and type 3}\usebibmacro{bpl:linked}{}}
-      \field{year}{2022}
-      \field{dateera}{ce}
-      \true{nocite}
-      \verb{doi}
-      \verb 10.3389/fnins.2022.919765
-      \endverb
-    \endentry
-    \entry{monick_characterization_2022}{article}{}
-      \name{author}{7}{}{%
-        {{hash=febe5e500ecc5e0caa64bb21b9068be0}{%
-           family={Monick},
-           familyi={M\bibinitperiod},
-           given={Andrew\bibnamedelima J.},
-           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-        {{hash=0e77cb6ee5a60ecc6c741b03fb41a89c}{%
-           family={Joyce},
-           familyi={J\bibinitperiod},
-           given={Michelle\bibnamedelima R.},
-           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
-        {{hash=3a95e5a59609abf6512d28c98c8c67e2}{%
-           family={Chugh},
-           familyi={C\bibinitperiod},
-           given={Natasha},
-           giveni={N\bibinitperiod}}}%
-        {{hash=6c3d8d205df3b2f7521138f305811e00}{%
-           family={Creighton},
-           familyi={C\bibinitperiod},
-           given={Jason\bibnamedelima A.},
-           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=106e99b39a6865e6eae2b6094e23c8ef}{%
-           family={Morgan},
-           familyi={M\bibinitperiod},
-           given={Owen\bibnamedelima P.},
-           giveni={O\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
-        {{hash=38f33c4c99960c4b9bce4e9d545ccb17}{%
-           family={Strain},
-           familyi={S\bibinitperiod},
-           given={Eric\bibnamedelima C.},
-           giveni={E\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
-        {{hash=924696054ee767c9a7e1a12be9ceea89}{%
-           family={Marvel},
-           familyi={M\bibinitperiod},
-           given={Cherie\bibnamedelima L.},
-           giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
-      }
-      \name{shortauthor}{1}{}{%
-        {{hash=b59c67bf196a4758191e42f76670ceba}{%
-           family={1111},
-           familyi={1\bibinitperiod}}}%
-      }
-      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{fullhash}{d438253db65e2e76db75f349f3853b5f}
-      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{authorbibnamehash}{0e4d0c20530c405c134da981c39528df}
-      \strng{authornamehash}{e7bb8e8257a30845b85d143e705459e7}
-      \strng{authorfullhash}{d438253db65e2e76db75f349f3853b5f}
-      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{3}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradate}{3}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{shortauthor}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Abstract {HIV} and psychoactive substances can impact the integrity of the basal ganglia ({BG}), a neural substrate of cognition, motor control, and reward-seeking behaviors. This study assessed {BG} gray matter ({GM}) volume as a function of polysubstance (stimulant and opioid) use and {HIV} status. We hypothesized that comorbid polysubstance use and {HIV} seropositivity would alter {BG} {GM} volume differently than would polysubstance use or {HIV} status alone. We collected structural {MRI} scans, substance use history, and {HIV} diagnoses. Participants who had {HIV} ({HIV} +), a history of polysubstance dependence ({POLY} +), both, or neither completed assessments for cognition, motor function, and risk-taking behaviors ( N  = 93). All three clinical groups showed a left-lateralized pattern of {GM} reduction in the {BG} relative to controls. However, in the {HIV} + /{POLY} + group, stimulant use was associated with increased {GM} volume within the globus pallidus and putamen. This surpassed the effects from opioid use, as indicated by decreased {GM} volume throughout the {BG} in the {HIV}-/{POLY} + group. Motor learning was impaired in all three clinical groups, and in the {HIV} + /{POLY} + group, motor learning was associated with increased caudate and putamen {GM} volume. We also observed associations between {BG} {GM} volume and risk-taking behaviors in the {HIV} + /{POLY}- and {HIV}-/{POLY} + groups. The effects of substance use on the {BG} differed as a function of substance type used, {HIV} seropositivity, and {BG} subregion. Although {BG} volume decreased in association with {HIV} and opioid use, stimulants can, inversely, lead to {BG} volume increases within the context of {HIV}.}
-      \field{issn}{2045-2322}
-      \field{journaltitle}{Scientific Reports}
-      \field{langid}{english}
-      \field{number}{1}
-      \field{shortjournal}{Sci Rep}
-      \field{title}{\usebibmacro{bpl:linked}{Characterization of basal ganglia volume changes in the context of {HIV} and polysubstance use}\usebibmacro{bpl:linked}{}}
-      \field{urlday}{14}
-      \field{urlmonth}{3}
-      \field{urlyear}{2022}
-      \field{volume}{12}
-      \field{year}{2022}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \true{nocite}
-      \field{pages}{4357}
-      \range{pages}{1}
-      \verb{doi}
-      \verb 10.1038/s41598-022-08364-0
-      \endverb
-      \verb{file}
-      \verb Monick et al. - 2022 - Characterization of basal ganglia volume changes i.pdf:/home/om/gdrive/Zotero_files/M/Monick et al. - 2022 - Characterization of basal ganglia volume changes i.pdf:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://www.nature.com/articles/s41598-022-08364-0
-      \endverb
-      \verb{url}
-      \verb https://www.nature.com/articles/s41598-022-08364-0
-      \endverb
-    \endentry
     \entry{iannuzzelli_association_2022}{article}{}
       \name{author}{18}{}{%
         {{hash=da63f2b3adc3087e8aa6e35ee13458d3}{%
@@ -683,10 +126,10 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{4}
+      \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradate}{4}
+      \field{extradate}{1}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{shortauthor}
@@ -695,9 +138,8 @@
       \field{issn}{13538020}
       \field{journaltitle}{Parkinsonism \& Related Disorders}
       \field{langid}{english}
-      \field{month}{5}
       \field{shortjournal}{Parkinsonism \& Related Disorders}
-      \field{title}{\usebibmacro{bpl:linked}{The association between educational attainment and {SCA} 3 age of onset and disease course}\usebibmacro{bpl:linked}{}}
+      \field{title}{The association between educational attainment and {SCA} 3 age of onset and disease course}
       \field{urlday}{27}
       \field{urlmonth}{5}
       \field{urlyear}{2022}
@@ -719,6 +161,583 @@
       \endverb
       \verb{url}
       \verb https://linkinghub.elsevier.com/retrieve/pii/S135380202200058X
+      \endverb
+    \endentry
+    \entry{joyce_quality_2022}{article}{}
+      \name{author}{9}{}{%
+        {{hash=0e77cb6ee5a60ecc6c741b03fb41a89c}{%
+           family={Joyce},
+           familyi={J\bibinitperiod},
+           given={Michelle\bibnamedelima R.},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=adf19605156048dd2de1bb4b84a8850e}{%
+           family={Nadkarni},
+           familyi={N\bibinitperiod},
+           given={Prianca\bibnamedelima A.},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=835e8d5a4063aa0263d336aabd02f2e4}{%
+           family={Kronemer},
+           familyi={K\bibinitperiod},
+           given={Sharif\bibnamedelima I.},
+           giveni={S\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=40dd28ff096e8563e3bbc9ec6df006bd}{%
+           family={Margron},
+           familyi={M\bibinitperiod},
+           given={Michael\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=d3c2915d29b76c164874fabc125e86de}{%
+           family={Slapik},
+           familyi={S\bibinitperiod},
+           given={Mitchell\bibnamedelima B.},
+           giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=106e99b39a6865e6eae2b6094e23c8ef}{%
+           family={Morgan},
+           familyi={M\bibinitperiod},
+           given={Owen\bibnamedelima P.},
+           giveni={O\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=194dbe4507216ae64c0b56ee06c03731}{%
+           family={Rosenthal},
+           familyi={R\bibinitperiod},
+           given={Liana\bibnamedelima S.},
+           giveni={L\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=4b00e289145ab712ab796140719316cf}{%
+           family={Onyike},
+           familyi={O\bibinitperiod},
+           given={Chiadi\bibnamedelima U.},
+           giveni={C\bibinitperiod\bibinitdelim U\bibinitperiod}}}%
+        {{hash=924696054ee767c9a7e1a12be9ceea89}{%
+           family={Marvel},
+           familyi={M\bibinitperiod},
+           given={Cherie\bibnamedelima L.},
+           giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \name{shortauthor}{1}{}{%
+        {{hash=b59c67bf196a4758191e42f76670ceba}{%
+           family={1111},
+           familyi={1\bibinitperiod}}}%
+      }
+      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{fullhash}{4fe08cadb37d5af7f31c82636bc0ed71}
+      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{authorbibnamehash}{43a03374aafc2d7441b71e4ce69dfb85}
+      \strng{authornamehash}{65c06feef56f7fb4a4c9b2dc583d6523}
+      \strng{authorfullhash}{4fe08cadb37d5af7f31c82636bc0ed71}
+      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{shortauthor}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Semi-structured interviews of patient accounts and caregiver, or informant, perspectives are a beneficial resource for patients suffering from diseases with complex symptomatology, such as cerebellar ataxia. The aim of this study was to identify, quantify, and compare the ways in which cerebellar ataxia patients’ and informants’ quality of life had changed as a result of living with ataxia. Using a semi-structured interview, responses were collected from patients and informants regarding motor, cognitive, and psychosocial variables. Responses were also collected from patients and informants to open-ended questions that were subsequently categorized into 15 quality of life themes that best represented changes experienced by the patients and informants. Ataxia patients and informants agreed as to the severity of posture/gait, daily activities/fine motor tasks, speech/feeding/swallowing, and oculomotor/vision impairment. It was also demonstrated that severity ratings for specific motor-related functions strongly correlated with corresponding functions within the International Cooperative Ataxia Rating Scale ({ICARS}), and that this interview identified frequency associations between motor impairments and specific psychosocial difficulties, which could be useful for prognostic purposes. Overall, the information obtained from this study characterized the symptoms and challenges to ataxia patients and their caregivers, which could serve as a useful educational resource for those affected by ataxia, clinicians, and researchers.}
+      \field{issn}{1473-4230}
+      \field{journaltitle}{The Cerebellum}
+      \field{langid}{english}
+      \field{number}{4}
+      \field{shortjournal}{Cerebellum}
+      \field{shorttitle}{Quality of Life Changes Following the Onset of Cerebellar Ataxia}
+      \field{title}{Quality of life changes following the onset of cerebellar ataxia: Symptoms and concerns self-reported by ataxia patients and informants}
+      \field{urlday}{30}
+      \field{urlmonth}{3}
+      \field{urlyear}{2022}
+      \field{volume}{21}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{592\bibrangedash 605}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1007/s12311-022-01393-5
+      \endverb
+      \verb{file}
+      \verb Joyce et al. - 2022 - Quality of life changes following the onset of cer.pdf:/home/om/gdrive/Zotero_files/J/Joyce et al. - 2022 - Quality of life changes following the onset of cer.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://link.springer.com/10.1007/s12311-022-01393-5
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/10.1007/s12311-022-01393-5
+      \endverb
+    \endentry
+    \entry{kronemer_human_2022}{article}{}
+      \name{author}{28}{}{%
+        {{hash=835e8d5a4063aa0263d336aabd02f2e4}{%
+           family={Kronemer},
+           familyi={K\bibinitperiod},
+           given={Sharif\bibnamedelima I.},
+           giveni={S\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=ae13dcb5b65fdb44cdd7f9a31a9d99fc}{%
+           family={Aksen},
+           familyi={A\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e558388ecce5317bf431c80302e7746f}{%
+           family={Ding},
+           familyi={D\bibinitperiod},
+           given={Julia\bibnamedelima Z.},
+           giveni={J\bibinitperiod\bibinitdelim Z\bibinitperiod}}}%
+        {{hash=72d63cca1c345f53c40ab457667fdc6d}{%
+           family={Ryu},
+           familyi={R\bibinitperiod},
+           given={Jun\bibnamedelima Hwan},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=d9aa479390bc0ddc548497538001d52b}{%
+           family={Xin},
+           familyi={X\bibinitperiod},
+           given={Qilong},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=b8c63a29dedb2be955819c5871498da1}{%
+           family={Ding},
+           familyi={D\bibinitperiod},
+           given={Zhaoxiong},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=36f12bc6ef665d22b48d69b4fc5b1d87}{%
+           family={Prince},
+           familyi={P\bibinitperiod},
+           given={Jacob\bibnamedelima S.},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=8e0a88a94051622b02ba587a84660344}{%
+           family={Kwon},
+           familyi={K\bibinitperiod},
+           given={Hunki},
+           giveni={H\bibinitperiod}}}%
+        {{hash=64195ba36207439a94f1ac5959eb914e}{%
+           family={Khalaf},
+           familyi={K\bibinitperiod},
+           given={Aya},
+           giveni={A\bibinitperiod}}}%
+        {{hash=93244dca1f1593beff6acf27bb0efe2e}{%
+           family={Forman},
+           familyi={F\bibinitperiod},
+           given={Sarit},
+           giveni={S\bibinitperiod}}}%
+        {{hash=e4fa5aebdba10434f504144e49f300cb}{%
+           family={Jin},
+           familyi={J\bibinitperiod},
+           given={David\bibnamedelima S.},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=069dc336b3fb2f586b29076e5ab0d101}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod}}}%
+        {{hash=f26d677e95e02af461a90472a71ac167}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Kaylie},
+           giveni={K\bibinitperiod}}}%
+        {{hash=910b4df57134ef669dd07bd6e5063851}{%
+           family={Hu},
+           familyi={H\bibinitperiod},
+           given={Claire},
+           giveni={C\bibinitperiod}}}%
+        {{hash=5ff63685f2e40bb62b91d7709d09ea5d}{%
+           family={Agarwal},
+           familyi={A\bibinitperiod},
+           given={Akshar},
+           giveni={A\bibinitperiod}}}%
+        {{hash=22a75ecb1621d5a19cdd799820c77df5}{%
+           family={Saberski},
+           familyi={S\bibinitperiod},
+           given={Erik},
+           giveni={E\bibinitperiod}}}%
+        {{hash=bbcaa7344e6b8a61ceccb32bd08d44c2}{%
+           family={Wafa},
+           familyi={W\bibinitperiod},
+           given={Syed\bibnamedelimb Mohammad\bibnamedelima Adil},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=106e99b39a6865e6eae2b6094e23c8ef}{%
+           family={Morgan},
+           familyi={M\bibinitperiod},
+           given={Owen\bibnamedelima P.},
+           giveni={O\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=9cecf65b3c7f3407db3d54a3f9966210}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Jia},
+           giveni={J\bibinitperiod}}}%
+        {{hash=a76a7f7d9530197d2259e4ab036c0c67}{%
+           family={Christison-Lagay},
+           familyi={C\bibinithyphendelim L\bibinitperiod},
+           given={Kate\bibnamedelima L.},
+           giveni={K\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=09f2b09966d1cd38612b85254e6bdb1e}{%
+           family={Hasulak},
+           familyi={H\bibinitperiod},
+           given={Nicholas},
+           giveni={N\bibinitperiod}}}%
+        {{hash=d60604065ddc622851da62070f3a953e}{%
+           family={Morrell},
+           familyi={M\bibinitperiod},
+           given={Martha},
+           giveni={M\bibinitperiod}}}%
+        {{hash=6b87444b4d1cc20fd184a0cfeca49f6c}{%
+           family={Urban},
+           familyi={U\bibinitperiod},
+           given={Alexandra},
+           giveni={A\bibinitperiod}}}%
+        {{hash=4f53c510fc48e6edbcca2e869cf3b803}{%
+           family={Todd\bibnamedelima Constable},
+           familyi={T\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=293eec39175f563695ec8298a5ec4dd0}{%
+           family={Pitts},
+           familyi={P\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e9e042928ba496db2b541d5a4587406c}{%
+           family={Mark\bibnamedelima Richardson},
+           familyi={M\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=0cfed57c8735562d06e944a1d8aac9fa}{%
+           family={Crowley},
+           familyi={C\bibinitperiod},
+           given={Michael\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=81ea1150828d9dd3a5088f4bc622058d}{%
+           family={Blumenfeld},
+           familyi={B\bibinitperiod},
+           given={Hal},
+           giveni={H\bibinitperiod}}}%
+      }
+      \name{shortauthor}{1}{}{%
+        {{hash=b59c67bf196a4758191e42f76670ceba}{%
+           family={1111},
+           familyi={1\bibinitperiod}}}%
+      }
+      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{fullhash}{86fce3353ad5e95cc2a06c30e040c1c0}
+      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{authorbibnamehash}{57c7c4b82400733cbd3c21ef6600c5b0}
+      \strng{authornamehash}{07956c494198e2a9c623d3f70cbfba15}
+      \strng{authorfullhash}{86fce3353ad5e95cc2a06c30e040c1c0}
+      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
+      \field{extraname}{3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{shortauthor}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Abstract The full neural circuits of conscious perception remain unknown. Using a visual perception task, we directly recorded a subcortical thalamic awareness potential ({TAP}). We also developed a unique paradigm to classify perceived versus not perceived stimuli using eye measurements to remove confounding signals related to reporting on conscious experiences. Using {fMRI}, we discovered three major brain networks driving conscious visual perception independent of report: first, increases in signal detection regions in visual, fusiform cortex, and frontal eye fields; and in arousal/salience networks involving midbrain, thalamus, nucleus accumbens, anterior cingulate, and anterior insula; second, increases in frontoparietal attention and executive control networks and in the cerebellum; finally, decreases in the default mode network. These results were largely maintained after excluding eye movement-based {fMRI} changes. Our findings provide evidence that the neurophysiology of consciousness is complex even without overt report, involving multiple cortical and subcortical networks overlapping in space and time.}
+      \field{issn}{2041-1723}
+      \field{journaltitle}{Nature Communications}
+      \field{langid}{english}
+      \field{number}{1}
+      \field{shortjournal}{Nat Commun}
+      \field{title}{Human visual consciousness involves large scale cortical and subcortical networks independent of task report and eye movement activity}
+      \field{urlday}{1}
+      \field{urlmonth}{12}
+      \field{urlyear}{2022}
+      \field{volume}{13}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{7342}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1038/s41467-022-35117-4
+      \endverb
+      \verb{file}
+      \verb Kronemer et al. - 2022 - Human visual consciousness involves large scale co.pdf:/home/om/gdrive/Zotero_files/K/Kronemer et al. - 2022 - Human visual consciousness involves large scale co.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.nature.com/articles/s41467-022-35117-4
+      \endverb
+      \verb{url}
+      \verb https://www.nature.com/articles/s41467-022-35117-4
+      \endverb
+    \endentry
+    \entry{marvel_multimodal_2022}{article}{}
+      \name{author}{11}{}{%
+        {{hash=924696054ee767c9a7e1a12be9ceea89}{%
+           family={Marvel},
+           familyi={M\bibinitperiod},
+           given={Cherie\bibnamedelima L.},
+           giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=aac116536e1312ad141637f314ad42cc}{%
+           family={Alm},
+           familyi={A\bibinitperiod},
+           given={Kylie\bibnamedelima H.},
+           giveni={K\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=0d97774355aa76f59c3d077e7f3ce942}{%
+           family={Bhattacharya},
+           familyi={B\bibinitperiod},
+           given={Deeya},
+           giveni={D\bibinitperiod}}}%
+        {{hash=fd02f528b41cd0c88c7e11b8107af5cc}{%
+           family={Rebman},
+           familyi={R\bibinitperiod},
+           given={Alison\bibnamedelima W.},
+           giveni={A\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=0214947f4c07d78a44fa52bbff75ed44}{%
+           family={Bakker},
+           familyi={B\bibinitperiod},
+           given={Arnold},
+           giveni={A\bibinitperiod}}}%
+        {{hash=106e99b39a6865e6eae2b6094e23c8ef}{%
+           family={Morgan},
+           familyi={M\bibinitperiod},
+           given={Owen\bibnamedelima P.},
+           giveni={O\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=6c3d8d205df3b2f7521138f305811e00}{%
+           family={Creighton},
+           familyi={C\bibinitperiod},
+           given={Jason\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=8a6810038e067d9770f921e0e9fdf217}{%
+           family={Kozero},
+           familyi={K\bibinitperiod},
+           given={Erica\bibnamedelima A.},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=646c0c6ca593488527800583059a9749}{%
+           family={Venkatesan},
+           familyi={V\bibinitperiod},
+           given={Arun},
+           giveni={A\bibinitperiod}}}%
+        {{hash=adf19605156048dd2de1bb4b84a8850e}{%
+           family={Nadkarni},
+           familyi={N\bibinitperiod},
+           given={Prianca\bibnamedelima A.},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=28340e278e4740211e73fcb8fa864d32}{%
+           family={Aucott},
+           familyi={A\bibinitperiod},
+           given={John\bibnamedelima N.},
+           giveni={J\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \name{shortauthor}{1}{}{%
+        {{hash=b59c67bf196a4758191e42f76670ceba}{%
+           family={1111},
+           familyi={1\bibinitperiod}}}%
+      }
+      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{fullhash}{8db6755035b501c853ef97214a6fdbaf}
+      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{authorbibnamehash}{fe4606e5a4f9aaf68a12b6b5b2748bde}
+      \strng{authornamehash}{beccbf077bd8c68391aeb25e0172cd63}
+      \strng{authorfullhash}{8db6755035b501c853ef97214a6fdbaf}
+      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
+      \field{extraname}{4}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{shortauthor}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Lyme disease is the most common vector-borne infectious disease in the United States. Post-treatment Lyme disease ({PTLD}) is a condition affecting 10–20\% of patients in which symptoms persist despite antibiotic treatment. Cognitive complaints are common among those with {PTLD}, suggesting that brain changes are associated with the course of the illness. However, there has been a paucity of evidence to explain the cognitive difficulties expressed by patients with {PTLD}. This study administered a working memory task to a carefully screened group of 12 patients with well-characterized {PTLD} and 18 healthy controls while undergoing functional {MRI} ({fMRI}). A subset of 12 controls and all 12 {PTLD} participants also received diffusion tensor imaging ({DTI}) to measure white matter integrity. Clinical variables were also assessed and correlated with these multimodal {MRI} findings. On the working memory task, the patients with {PTLD} responded more slowly, but no less accurately, than did controls. {FMRI} activations were observed in expected regions by the controls, and to a lesser extent, by the {PTLD} participants. The {PTLD} group also hypoactivated several regions relevant to the task. Conversely, novel regions were activated by the {PTLD} group that were not observed in controls, suggesting a compensatory mechanism. Notably, three activations were located in white matter of the frontal lobe. {DTI} measures applied to these three regions of interest revealed that higher axial diffusivity correlated with fewer cognitive and neurological symptoms. Whole-brain {DTI} analyses revealed several frontal lobe regions in which higher axial diffusivity in the patients with {PTLD} correlated with longer duration of illness. Together, these results show that the brain is altered by {PTLD}, involving changes to white matter within the frontal lobe. Higher axial diffusivity may reflect white matter repair and healing over time, rather than pathology, and cognition appears to be dynamically affected throughout this repair process.}
+      \field{issn}{1932-6203}
+      \field{journaltitle}{{PLOS} {ONE}}
+      \field{langid}{english}
+      \field{number}{10}
+      \field{shortjournal}{{PLoS} {ONE}}
+      \field{title}{A multimodal neuroimaging study of brain abnormalities and clinical correlates in post treatment Lyme disease}
+      \field{urlday}{27}
+      \field{urlmonth}{10}
+      \field{urlyear}{2022}
+      \field{volume}{17}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{e0271425}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1371/journal.pone.0271425
+      \endverb
+      \verb{file}
+      \verb Marvel et al. - 2022 - A multimodal neuroimaging study of brain abnormali.pdf:/home/om/gdrive/Zotero_files/M/Marvel et al. - 2022 - A multimodal neuroimaging study of brain abnormali2.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://dx.plos.org/10.1371/journal.pone.0271425
+      \endverb
+      \verb{url}
+      \verb https://dx.plos.org/10.1371/journal.pone.0271425
+      \endverb
+    \endentry
+    \entry{marvel_quantitative_2022}{article}{}
+      \name{author}{9}{}{%
+        {{hash=924696054ee767c9a7e1a12be9ceea89}{%
+           family={Marvel},
+           familyi={M\bibinitperiod},
+           given={Cherie\bibnamedelima L.},
+           giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=17e889465f015f567550ebf95e2ff125}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Lin},
+           giveni={L\bibinitperiod}}}%
+        {{hash=0e77cb6ee5a60ecc6c741b03fb41a89c}{%
+           family={Joyce},
+           familyi={J\bibinitperiod},
+           given={Michelle\bibnamedelima R.},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=106e99b39a6865e6eae2b6094e23c8ef}{%
+           family={Morgan},
+           familyi={M\bibinitperiod},
+           given={Owen\bibnamedelima P.},
+           giveni={O\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=8cae3f8795a08aae39802a41c86a57f3}{%
+           family={Iannuzzelli},
+           familyi={I\bibinitperiod},
+           given={Katherine\bibnamedelima G.},
+           giveni={K\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=57a5f85162225c5819288047a1c1769c}{%
+           family={{LaConte}},
+           familyi={L\bibinitperiod},
+           given={Stephen\bibnamedelima M.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=fbc078cdea4926652b717f36c9c1f34a}{%
+           family={Lisinski},
+           familyi={L\bibinitperiod},
+           given={Jonathan\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=194dbe4507216ae64c0b56ee06c03731}{%
+           family={Rosenthal},
+           familyi={R\bibinitperiod},
+           given={Liana\bibnamedelima S.},
+           giveni={L\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=a93782691326c94093b6bede1a5b9913}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Xu},
+           giveni={X\bibinitperiod}}}%
+      }
+      \name{shortauthor}{1}{}{%
+        {{hash=b59c67bf196a4758191e42f76670ceba}{%
+           family={1111},
+           familyi={1\bibinitperiod}}}%
+      }
+      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{fullhash}{da780af2394acfec2b8dc6afb4443c9a}
+      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{authorbibnamehash}{3afeaee06b92ae472f70c33f785811a9}
+      \strng{authornamehash}{beccbf077bd8c68391aeb25e0172cd63}
+      \strng{authorfullhash}{da780af2394acfec2b8dc6afb4443c9a}
+      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
+      \field{extraname}{5}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{shortauthor}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Frontiers in Neuroscience}
+      \field{number}{919765}
+      \field{title}{Quantitative susceptibility mapping of basal ganglia iron is associated with cognitive and motor functions that distinguish spinocerebellar ataxia type 6 and type 3}
+      \field{volume}{16}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.3389/fnins.2022.919765
+      \endverb
+    \endentry
+    \entry{monick_characterization_2022}{article}{}
+      \name{author}{7}{}{%
+        {{hash=febe5e500ecc5e0caa64bb21b9068be0}{%
+           family={Monick},
+           familyi={M\bibinitperiod},
+           given={Andrew\bibnamedelima J.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=0e77cb6ee5a60ecc6c741b03fb41a89c}{%
+           family={Joyce},
+           familyi={J\bibinitperiod},
+           given={Michelle\bibnamedelima R.},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=3a95e5a59609abf6512d28c98c8c67e2}{%
+           family={Chugh},
+           familyi={C\bibinitperiod},
+           given={Natasha},
+           giveni={N\bibinitperiod}}}%
+        {{hash=6c3d8d205df3b2f7521138f305811e00}{%
+           family={Creighton},
+           familyi={C\bibinitperiod},
+           given={Jason\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=106e99b39a6865e6eae2b6094e23c8ef}{%
+           family={Morgan},
+           familyi={M\bibinitperiod},
+           given={Owen\bibnamedelima P.},
+           giveni={O\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=38f33c4c99960c4b9bce4e9d545ccb17}{%
+           family={Strain},
+           familyi={S\bibinitperiod},
+           given={Eric\bibnamedelima C.},
+           giveni={E\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=924696054ee767c9a7e1a12be9ceea89}{%
+           family={Marvel},
+           familyi={M\bibinitperiod},
+           given={Cherie\bibnamedelima L.},
+           giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \name{shortauthor}{1}{}{%
+        {{hash=b59c67bf196a4758191e42f76670ceba}{%
+           family={1111},
+           familyi={1\bibinitperiod}}}%
+      }
+      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{fullhash}{d438253db65e2e76db75f349f3853b5f}
+      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{authorbibnamehash}{0e4d0c20530c405c134da981c39528df}
+      \strng{authornamehash}{e7bb8e8257a30845b85d143e705459e7}
+      \strng{authorfullhash}{d438253db65e2e76db75f349f3853b5f}
+      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
+      \field{extraname}{6}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{shortauthor}
+      \field{labeltitlesource}{title}
+      \field{abstract}{{HIV} and psychoactive substances can impact the integrity of the basal ganglia ({BG}), a neural substrate of cognition, motor control, and reward-seeking behaviors. This study assessed {BG} gray matter ({GM}) volume as a function of polysubstance (stimulant and opioid) use and {HIV} status. We hypothesized that comorbid polysubstance use and {HIV} seropositivity would alter {BG} {GM} volume differently than would polysubstance use or {HIV} status alone. We collected structural {MRI} scans, substance use history, and {HIV} diagnoses. Participants who had {HIV} ({HIV} +), a history of polysubstance dependence ({POLY} +), both, or neither completed assessments for cognition, motor function, and risk-taking behaviors (N = 93). All three clinical groups showed a left-lateralized pattern of {GM} reduction in the {BG} relative to controls. However, in the {HIV} + /{POLY} + group, stimulant use was associated with increased {GM} volume within the globus pallidus and putamen. This surpassed the effects from opioid use, as indicated by decreased {GM} volume throughout the {BG} in the {HIV}-/{POLY} + group. Motor learning was impaired in all three clinical groups, and in the {HIV} + /{POLY} + group, motor learning was associated with increased caudate and putamen {GM} volume. We also observed associations between {BG} {GM} volume and risk-taking behaviors in the {HIV} + /{POLY}- and {HIV}-/{POLY} + groups. The effects of substance use on the {BG} differed as a function of substance type used, {HIV} seropositivity, and {BG} subregion. Although {BG} volume decreased in association with {HIV} and opioid use, stimulants can, inversely, lead to {BG} volume increases within the context of {HIV}.}
+      \field{issn}{2045-2322}
+      \field{journaltitle}{Scientific Reports}
+      \field{langid}{english}
+      \field{number}{1}
+      \field{shortjournal}{Sci Rep}
+      \field{title}{Characterization of basal ganglia volume changes in the context of {HIV} and polysubstance use}
+      \field{urlday}{14}
+      \field{urlmonth}{3}
+      \field{urlyear}{2022}
+      \field{volume}{12}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{4357}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1038/s41598-022-08364-0
+      \endverb
+      \verb{file}
+      \verb Monick et al. - 2022 - Characterization of basal ganglia volume changes i.pdf:/home/om/gdrive/Zotero_files/M/Monick et al. - 2022 - Characterization of basal ganglia volume changes i.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.nature.com/articles/s41598-022-08364-0
+      \endverb
+      \verb{url}
+      \verb https://www.nature.com/articles/s41598-022-08364-0
       \endverb
     \endentry
     \entry{kronemer_neuropsychiatric_2021}{article}{}
@@ -783,7 +802,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{5}
+      \field{extraname}{7}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{1}
@@ -796,7 +815,7 @@
       \field{journaltitle}{The Cerebellum}
       \field{number}{2}
       \field{shortjournal}{The Cerebellum}
-      \field{title}{\usebibmacro{bpl:linked}{Neuropsychiatric symptoms as a reliable phenomenology of cerebellar ataxia}\usebibmacro{bpl:linked}{}}
+      \field{title}{Neuropsychiatric symptoms as a reliable phenomenology of cerebellar ataxia}
       \field{volume}{20}
       \field{year}{2021}
       \field{dateera}{ce}
@@ -883,7 +902,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{6}
+      \field{extraname}{8}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{2}
@@ -896,7 +915,7 @@
       \field{journaltitle}{The Cerebellum}
       \field{number}{2}
       \field{shortjournal}{The Cerebellum}
-      \field{title}{\usebibmacro{bpl:linked}{The cerebellum and implicit sequencing: Evidence from cerebellar ataxia}\usebibmacro{bpl:linked}{}}
+      \field{title}{The cerebellum and implicit sequencing: Evidence from cerebellar ataxia}
       \field{volume}{20}
       \field{year}{2021}
       \field{dateera}{ce}
@@ -948,7 +967,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{7}
+      \field{extraname}{9}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{1}
@@ -960,7 +979,7 @@
       \field{issn}{0149-7634}
       \field{journaltitle}{Neuroscience \& Biobehavioral Reviews}
       \field{shortjournal}{Neuroscience \& Biobehavioral Reviews}
-      \field{title}{\usebibmacro{bpl:linked}{How the motor system integrates with working memory}\usebibmacro{bpl:linked}{}}
+      \field{title}{How the motor system integrates with working memory}
       \field{urlday}{16}
       \field{urlmonth}{5}
       \field{urlyear}{2019}
@@ -1042,7 +1061,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{8}
+      \field{extraname}{10}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{2}
@@ -1056,7 +1075,7 @@
       \field{langid}{english}
       \field{number}{1}
       \field{shortjournal}{Cerebellum}
-      \field{title}{\usebibmacro{bpl:linked}{Visuospatial organization and recall in cerebellar ataxia}\usebibmacro{bpl:linked}{}}
+      \field{title}{Visuospatial organization and recall in cerebellar ataxia}
       \field{urlday}{11}
       \field{urlmonth}{3}
       \field{urlyear}{2019}
@@ -1084,7 +1103,7 @@
   \enddatalist
 \endrefsection
 
-\refsection{3}
+\refsection{2}
   \datalist[entry]{ydmdnt/global//global/global}
     \entry{morgan_handedness_2022}{unpublished}{}
       \name{author}{2}{}{%
@@ -1126,7 +1145,7 @@
       \field{howpublished}{Talk}
       \field{month}{5}
       \field{note}{The Art and Science of Thinking: A Transdisciplinary Workshop}
-      \field{title}{\usebibmacro{bpl:linked}{Handedness and creativity: Facts and fictions}\usebibmacro{bpl:linked}{}}
+      \field{title}{Handedness and creativity: Facts and fictions}
       \field{type}{Talk}
       \field{year}{2022}
       \field{dateera}{ce}
@@ -1207,7 +1226,7 @@
       \field{howpublished}{Hot Chair Talk}
       \field{month}{5}
       \field{note}{National Ataxia Foundation’s 9th Ataxia Investigators Meeting}
-      \field{title}{\usebibmacro{bpl:linked}{Motor and cognitive sequencing in cerebellar ataxia}\usebibmacro{bpl:linked}{}}
+      \field{title}{Motor and cognitive sequencing in cerebellar ataxia}
       \field{type}{Hot Chair Talk}
       \field{year}{2021}
       \field{dateera}{ce}
@@ -1287,7 +1306,7 @@
       \field{labeltitlesource}{title}
       \field{howpublished}{Talk presented at Sensorimotor Day}
       \field{month}{1}
-      \field{title}{\usebibmacro{bpl:linked}{The cerebellum and sequencing in motor and cognitive domains: Evidence from cerebellar ataxia}\usebibmacro{bpl:linked}{}}
+      \field{title}{The cerebellum and sequencing in motor and cognitive domains: Evidence from cerebellar ataxia}
       \field{type}{Talk presented at Sensorimotor Day}
       \field{year}{2020}
       \field{dateera}{ce}
@@ -1343,7 +1362,7 @@
       \field{labeltitlesource}{title}
       \field{howpublished}{Presentation to the faculty and staff of the Johns Hopkins Ataxia Clinic}
       \field{month}{2}
-      \field{title}{\usebibmacro{bpl:linked}{Cerebellar-basal ganglia interaction in Real-time {fMRI} neurofeedback for rehabilitation}\usebibmacro{bpl:linked}{}}
+      \field{title}{Cerebellar-basal ganglia interaction in Real-time {fMRI} neurofeedback for rehabilitation}
       \field{type}{Presentation to the faculty and staff of the Johns Hopkins Ataxia Clinic}
       \field{year}{2019}
       \field{dateera}{ce}
@@ -1400,7 +1419,7 @@
       \field{howpublished}{Oral Session}
       \field{month}{6}
       \field{note}{Organization for Human Brain Mapping Annual Meeting}
-      \field{title}{\usebibmacro{bpl:linked}{Basal ganglia-cerebellar impact on performance after motor imagery with real-time {fMRI} neurofeedback}\usebibmacro{bpl:linked}{}}
+      \field{title}{Basal ganglia-cerebellar impact on performance after motor imagery with real-time {fMRI} neurofeedback}
       \field{type}{Oral Session}
       \field{year}{2019}
       \field{dateera}{ce}
@@ -1481,7 +1500,7 @@
       \field{labeltitlesource}{title}
       \field{howpublished}{Presentation to the faculty and staff of the Johns Hopkins Ataxia Clinic}
       \field{month}{4}
-      \field{title}{\usebibmacro{bpl:linked}{Motor-cognitive multitasking in cerebellar ataxia}\usebibmacro{bpl:linked}{}}
+      \field{title}{Motor-cognitive multitasking in cerebellar ataxia}
       \field{type}{Presentation to the faculty and staff of the Johns Hopkins Ataxia Clinic}
       \field{year}{2018}
       \field{dateera}{ce}
@@ -1544,7 +1563,7 @@
       \field{howpublished}{Nanosymposium Session}
       \field{month}{11}
       \field{note}{Society for Neuroscience}
-      \field{title}{\usebibmacro{bpl:linked}{Neural correlates of value-driven attentional capture in addiction}\usebibmacro{bpl:linked}{}}
+      \field{title}{Neural correlates of value-driven attentional capture in addiction}
       \field{type}{Nanosymposium Session}
       \field{year}{2018}
       \field{dateera}{ce}
@@ -1553,7 +1572,7 @@
   \enddatalist
 \endrefsection
 
-\refsection{4}
+\refsection{3}
   \datalist[entry]{ydmdnt/global//global/global}
     \entry{marvel_cerebro-cerebellar_2018}{unpublished}{}
       \name{author}{7}{}{%
@@ -1620,7 +1639,7 @@
       \field{labeltitlesource}{title}
       \field{howpublished}{Oral Session}
       \field{note}{International Society of Behavioral Neuroscience}
-      \field{title}{\usebibmacro{bpl:linked}{Cerebro-cerebellar contributions to working memory in early Lyme disease}\usebibmacro{bpl:linked}{}}
+      \field{title}{Cerebro-cerebellar contributions to working memory in early Lyme disease}
       \field{type}{Oral Session}
       \field{year}{2018}
       \field{dateera}{ce}
@@ -1670,7 +1689,7 @@
       \field{labelnamesource}{shortauthor}
       \field{labeltitlesource}{title}
       \field{howpublished}{Presentation to the faculty and staff of the Johns Hopkins Ataxia Clinic}
-      \field{title}{\usebibmacro{bpl:linked}{Language abilities in cerebellar ataxia}\usebibmacro{bpl:linked}{}}
+      \field{title}{Language abilities in cerebellar ataxia}
       \field{type}{Presentation to the faculty and staff of the Johns Hopkins Ataxia Clinic}
       \field{year}{2018}
       \field{dateera}{ce}
@@ -1737,7 +1756,7 @@
       \field{howpublished}{Nanosymposium Session}
       \field{month}{11}
       \field{note}{Society for Neuroscience}
-      \field{title}{\usebibmacro{bpl:linked}{Timing and sequencing in cerebellar ataxia}\usebibmacro{bpl:linked}{}}
+      \field{title}{Timing and sequencing in cerebellar ataxia}
       \field{type}{Nanosymposium Session}
       \field{year}{2018}
       \field{dateera}{ce}
@@ -1812,7 +1831,7 @@
       \field{labeltitlesource}{title}
       \field{howpublished}{Talk presented at Sensorimotor Day}
       \field{month}{1}
-      \field{title}{\usebibmacro{bpl:linked}{Visuospatial organization and recall in cerebellar ataxia}\usebibmacro{bpl:linked}{}}
+      \field{title}{Visuospatial organization and recall in cerebellar ataxia}
       \field{type}{Talk presented at Sensorimotor Day}
       \field{year}{2017}
       \field{dateera}{ce}
@@ -1929,7 +1948,7 @@
       \field{howpublished}{Talk}
       \field{month}{6}
       \field{note}{{ASSC} 20}
-      \field{title}{\usebibmacro{bpl:linked}{The cortical event-related potential and alpha wave signatures for visual consciousness}\usebibmacro{bpl:linked}{}}
+      \field{title}{The cortical event-related potential and alpha wave signatures for visual consciousness}
       \field{type}{Talk}
       \field{year}{2016}
       \field{dateera}{ce}
@@ -2046,7 +2065,7 @@
       \field{howpublished}{Talk}
       \field{month}{6}
       \field{note}{{ASSC} 20}
-      \field{title}{\usebibmacro{bpl:linked}{An organized wave of intracranial broadband gamma activity during the first second of conscious visual perception}\usebibmacro{bpl:linked}{}}
+      \field{title}{An organized wave of intracranial broadband gamma activity during the first second of conscious visual perception}
       \field{type}{Talk}
       \field{year}{2016}
       \field{dateera}{ce}
@@ -2055,7 +2074,7 @@
   \enddatalist
 \endrefsection
 
-\refsection{5}
+\refsection{4}
   \datalist[entry]{ydmdnt/global//global/global}
     \entry{morgan_handedness_2022}{unpublished}{}
       \name{author}{2}{}{%
@@ -2097,7 +2116,7 @@
       \field{howpublished}{Poster Session}
       \field{month}{7}
       \field{note}{44th Annual Conference of the Cognitive Science Society}
-      \field{title}{\usebibmacro{bpl:linked}{Handedness and creativity: Facts and fictions}\usebibmacro{bpl:linked}{}}
+      \field{title}{Handedness and creativity: Facts and fictions}
       \field{type}{Poster Session}
       \field{year}{2022}
       \field{dateera}{ce}
@@ -2173,7 +2192,7 @@
       \field{howpublished}{Poster Session}
       \field{month}{11}
       \field{note}{International {MJD} Research Conference}
-      \field{title}{\usebibmacro{bpl:linked}{Motor-cognitive multitasking in Machado-Joseph's disease}\usebibmacro{bpl:linked}{}}
+      \field{title}{Motor-cognitive multitasking in Machado-Joseph's disease}
       \field{type}{Poster Session}
       \field{year}{2019}
       \field{dateera}{ce}
@@ -2254,7 +2273,7 @@
       \field{howpublished}{Poster Session}
       \field{month}{4}
       \field{note}{National Ataxia Foundation’s 7th Ataxia Investigators Meeting}
-      \field{title}{\usebibmacro{bpl:linked}{Motor-cognitive multitasking in cerebellar ataxia}\usebibmacro{bpl:linked}{}}
+      \field{title}{Motor-cognitive multitasking in cerebellar ataxia}
       \field{type}{Poster Session}
       \field{year}{2018}
       \field{dateera}{ce}
@@ -2263,8 +2282,80 @@
   \enddatalist
 \endrefsection
 
-\refsection{6}
+\refsection{5}
   \datalist[entry]{ydmdnt/global//global/global}
+    \entry{marvel_real-time_2022}{unpublished}{}
+      \name{author}{5}{}{%
+        {{hash=924696054ee767c9a7e1a12be9ceea89}{%
+           family={Marvel},
+           familyi={M\bibinitperiod},
+           given={Cherie\bibnamedelima L.},
+           giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=106e99b39a6865e6eae2b6094e23c8ef}{%
+           family={Morgan},
+           familyi={M\bibinitperiod},
+           given={Owen\bibnamedelima P.},
+           giveni={O\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=fbc078cdea4926652b717f36c9c1f34a}{%
+           family={Lisinski},
+           familyi={L\bibinitperiod},
+           given={Jonathan\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=0e77cb6ee5a60ecc6c741b03fb41a89c}{%
+           family={Joyce},
+           familyi={J\bibinitperiod},
+           given={Michelle\bibnamedelima R.},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=57a5f85162225c5819288047a1c1769c}{%
+           family={{LaConte}},
+           familyi={L\bibinitperiod},
+           given={Stephen\bibnamedelima M.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \name{shortauthor}{1}{}{%
+        {{hash=b59c67bf196a4758191e42f76670ceba}{%
+           family={1111},
+           familyi={1\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New Haven, {USA}}%
+      }
+      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{fullhash}{037d6a17e1f1c39b01632aecbc6d0776}
+      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{authorbibnamehash}{1bea5decb68df916d1fccd96e8ec0e36}
+      \strng{authornamehash}{beccbf077bd8c68391aeb25e0172cd63}
+      \strng{authorfullhash}{037d6a17e1f1c39b01632aecbc6d0776}
+      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{shortauthor}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Background \& Rationale: Motor imagery can be used to improve overt movement. Realtime {fMRI} ({rtfMRI}) neurofeedback can be used to guide individuals towards activating brain regions of interest, such as motor regions affected by neurologic insult, which could potentially improve overt motor performance. As such, {rtfMRI} neurofeedback training is a promising avenue for motor rehabilitation those with movement disorders, including individuals with impaired fine motor skills that impact daily activities and quality of life. Methods: Seventeen right-handed, healthy adults (8 females, mean age = 23 years) completed a motor imagery-based {rtfMRI} neurofeedback paradigm. Run 1: Participants were asked to use their right index finger to tap in sync with a visual cue of a crosshair that flashed at 1, 2, 3, or 4 Hz. A slider bar indicated whether people tapped too fast or slow based on the recorded button presses. Given the {fMRI} data, a support vector machine ({SVM}) model was trained to extract motor patterns of tapping vs rest using 3dsvm [{LaConte} 2005] within {AFNI}’s real-time engine [Cox, 1995]. Run 1 also provided a baseline measure of motor performance. Run 2: participants imagined themselves tapping (i.e., motor imagery) during {rtfMRI}. Visual neurofeedback, presented as the same slider bar, was provided every 2 seconds based on the real-time {fMRI} data of motor imagery and the {SVM} brain patterns associated with overt tapping in Run 1. Run 3: Participants completed another round of overt finger tapping, identical to Run 1. Tapping accuracy (root mean squared error, {RMSE}) measured the difference between actual and target speed. {RMSE} was compared between Run 3 minus Run 1 to evaluate improvement as a function of rt-{fMRI} neurofeedback in Run 2. Results: Motor regions that were activated in Run 2 during motor imagery (relative to rest) correlated with a reduction in errors. This was most apparent at 4 Hz. The bilateral primary motor cortex (M1), right premotor cortex, and supplementary motor area ({SMA}) showed associations between motor imagery and tapping accuracy improvements. Conclusions: This study demonstrates the feasibility of using {rtfMRI} neurofeedback with motor imagery to improve fine motor skills and precision in clinical populations for whom such overt movement is difficult.}
+      \field{howpublished}{Poster Session}
+      \field{month}{10}
+      \field{note}{Real-Time Functional Imaging and Neurofeedback Meeting ({rtFIN}) 2022}
+      \field{title}{Real-time {fMRI} neurofeedback improves finger tapping precision: A feasibility study to improve fine motor skills in movement disorders}
+      \field{type}{Poster Session}
+      \field{urlday}{4}
+      \field{urlmonth}{12}
+      \field{urlyear}{2022}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://rtfin2022.squarespace.com/poster-session-1
+      \endverb
+      \verb{url}
+      \verb https://rtfin2022.squarespace.com/poster-session-1
+      \endverb
+    \endentry
     \entry{laconte_harnessing_2019}{unpublished}{}
       \name{author}{4}{}{%
         {{hash=3e72c670ceac226521574d794bb4c34f}{%
@@ -2305,7 +2396,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{1}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -2315,7 +2406,7 @@
       \field{howpublished}{Poster Session}
       \field{month}{6}
       \field{note}{Organization for Human Brain Mapping Annual Meeting}
-      \field{title}{\usebibmacro{bpl:linked}{Harnessing the imagined: Developing motor imagery for real-time {fMRI}-based therapy}\usebibmacro{bpl:linked}{}}
+      \field{title}{Harnessing the imagined: Developing motor imagery for real-time {fMRI}-based therapy}
       \field{type}{Poster Session}
       \field{year}{2019}
       \field{dateera}{ce}
@@ -2376,7 +2467,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{2}
+      \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{1}
@@ -2387,7 +2478,7 @@
       \field{howpublished}{Poster Session}
       \field{month}{4}
       \field{note}{National Ataxia Foundation’s 8th Ataxia Investigators Meeting}
-      \field{title}{\usebibmacro{bpl:linked}{A Characterization of language impairment in cerebellar ataxia}\usebibmacro{bpl:linked}{}}
+      \field{title}{A Characterization of language impairment in cerebellar ataxia}
       \field{type}{Poster Session}
       \field{year}{2018}
       \field{dateera}{ce}
@@ -2453,7 +2544,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{3}
+      \field{extraname}{4}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{2}
@@ -2464,7 +2555,7 @@
       \field{howpublished}{Poster Session}
       \field{month}{5}
       \field{note}{Society for Neuroscience}
-      \field{title}{\usebibmacro{bpl:linked}{An {fMRI} study of cognition in early post-treatment Lyme disease}\usebibmacro{bpl:linked}{}}
+      \field{title}{An {fMRI} study of cognition in early post-treatment Lyme disease}
       \field{type}{Poster Session}
       \field{year}{2018}
       \field{dateera}{ce}
@@ -2560,7 +2651,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{4}
+      \field{extraname}{5}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -2570,7 +2661,7 @@
       \field{howpublished}{Poster Session}
       \field{month}{11}
       \field{note}{Society for Neuroscience}
-      \field{title}{\usebibmacro{bpl:linked}{Machine learning to predict conscious visual perception using pupillary dynamics}\usebibmacro{bpl:linked}{}}
+      \field{title}{Machine learning to predict conscious visual perception using pupillary dynamics}
       \field{type}{Poster Session}
       \field{year}{2017}
       \field{dateera}{ce}
@@ -2676,7 +2767,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{5}
+      \field{extraname}{6}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{1}
@@ -2687,7 +2778,7 @@
       \field{howpublished}{Poster Session}
       \field{month}{11}
       \field{note}{Society for Neuroscience}
-      \field{title}{\usebibmacro{bpl:linked}{Intracranial cortical event-related potentials and alpha wave gating of visual consciousness}\usebibmacro{bpl:linked}{}}
+      \field{title}{Intracranial cortical event-related potentials and alpha wave gating of visual consciousness}
       \field{type}{Poster Session}
       \field{year}{2016}
       \field{dateera}{ce}
@@ -2778,7 +2869,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{6}
+      \field{extraname}{7}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{2}
@@ -2789,7 +2880,7 @@
       \field{howpublished}{Poster Session}
       \field{month}{11}
       \field{note}{Society for Neuroscience}
-      \field{title}{\usebibmacro{bpl:linked}{Machine learning to predict pupillary dynamics in conscious visual perception}\usebibmacro{bpl:linked}{}}
+      \field{title}{Machine learning to predict pupillary dynamics in conscious visual perception}
       \field{type}{Poster Session}
       \field{year}{2016}
       \field{dateera}{ce}
@@ -2895,7 +2986,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{7}
+      \field{extraname}{8}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{3}
@@ -2906,7 +2997,7 @@
       \field{howpublished}{Poster Session}
       \field{month}{11}
       \field{note}{Society for Neuroscience}
-      \field{title}{\usebibmacro{bpl:linked}{Broadband gamma activity in the formation of a conscious visual experience in humans}\usebibmacro{bpl:linked}{}}
+      \field{title}{Broadband gamma activity in the formation of a conscious visual experience in humans}
       \field{type}{Poster Session}
       \field{year}{2016}
       \field{dateera}{ce}

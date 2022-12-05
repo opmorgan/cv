@@ -9,10 +9,17 @@
 \usepackage{csquotes, xpatch}
 \usepackage{hyperref}
 \usepackage{xcolor}
+\usepackage{hyperref}
+%\usepackage{fancyhdr} % headers and footers
+%\usepackage{bookmark} % To suppress "rerunfilecheck Warning:..."
 % Define base style for publist (before loading biblatex)
 \newcommand*\publistbasestyle{custom-authoryear}
 % Use biblatex-publist for publication and presentation lists
-\usepackage[bibstyle=publist, backend=biber, plauthorhandling=highlight, defernumbers=true, linktitleall=true, doi=false, isbn=false, url=false, boldyear=true, marginyear=false, plnumbered=false, sorting=ydmdnt, natbib=true, minbibnames=3, maxbibnames=3]{biblatex}
+\usepackage[bibstyle=publist, backend=biber, plauthorhandling=highlight, defernumbers=true, linktitleall=false, doi=false, isbn=false, url=false, boldyear=false, marginyear=true, plnumbered=false, sorting=ydmdnt, natbib=true, minbibnames=3, maxbibnames=3]{biblatex}
+
+\renewcommand*\plmarginyear[1]{%
+\raggedleft\textbf{#1}%
+}
 
 \usepackage{fontspec}
   \setmainfont{Avenir Light}
@@ -21,7 +28,6 @@
   %\setmainfont[BoldFont={* Demi Bold}]{Avenir Next}
   %\newfontfamily\semibold{Avenir Next Demi Bold}
   %\newfontfamily\regsemi[BoldFont={* Demi Bold}]{Avenir Next}
-
 
 % Bibiography formatting
 \setlength{\bibitemsep}{.75\baselineskip plus 0.5\baselineskip}
@@ -168,9 +174,9 @@
 
 \entry
 {2020 -- Now}
-{PhD Student}
+{PhD Student, Psychology/Cognitive Science}
 {\cu}{Ithaca, New York}
-{Advisor: Daniel Casasanto. Major in Psychology, minor in Cognitive Science.}
+{Advisor: Daniel Casasanto. Major in Developmental Psychology, Minor in Cognitive Science.}
 
 \entry
 {2013 -- 2017}
@@ -197,12 +203,12 @@
 % Change margins for publist's marginal years
 % \begin{changemargin}{0in}{0in}
 
-\subsection{Preprints}
-\newrefsection[preprints]
-\nocite{*}
-\printbibliography[heading=none]
+% \subsection{Preprints}
+% \newrefsection[preprints]
+% \nocite{*}
+% \printbibliography[heading=none]
 
-\subsection{Peer-reviewed Papers}
+%\subsection{Peer-reviewed Papers}
 \newrefsection[pubs]
 \nocite{*}
 \printbibliography[heading=none]
@@ -253,6 +259,14 @@
 
 \section{Teaching and Mentorship}
 
+\entry{2021 -- now}{Research Assistant Mentorship at Cornell}
+{\cu}{Ithaca, New York}
+{Supervised and mentored Mahek Majithia, Madelyn Minor, and Benjamin Dever-Mendenhall on experimental and meta-analysis projects.}
+
+\entry{Fall 2022, 2020}{TA, Human Brain and Mind: Introduction to Cognitive Neuroscience (HD 2200)}
+{\cu}{Ithaca, New York}
+{Instructor: Daniel Casasanto.}
+
 \entry{Summer 2022}{TA, Introduction to Cognitive Science (COGST 1101)}
 {\cu}{Ithaca, New York}
 {Instructor: Adam Broitman. Gave guest lecture on cognitive neuroscience of consciousness.}
@@ -269,13 +283,9 @@
 {\cu}{Ithaca, New York}
 {Instructor: Robert Sternberg.}
 
-\entry{Fall 2020}{TA, Human Brain and Mind: Introduction to Cognitive Neuroscience (HD 2200)}
-{\cu}{Ithaca, New York}
-{Instructor: Daniel Casasanto.}
-
-\entry{2018 -- 2020}{Research Assistant Mentorship}
+\entry{2018 -- 2020}{Research Assistant Mentorship at JHU}
 {\jhusom}{Baltimore, Maryland}
-{Supervised and mentored Bronte Wen, Deeya Bhattacharya, Nikita Gupta on fMRI analysis projects.}
+{Supervised and mentored Bronte Wen, Deeya Bhattacharya, and Nikita Gupta on fMRI analysis projects.}
 
 \entry
 {2014 -- 2017}
@@ -287,14 +297,17 @@
 \section{Technical Skills}
 
 \skillentry{fMRI}
-{Collection (3T, 7T), preprocessing, whole brain and ROI analyses (SPM)}
+{Collection and quality assurance (3T, 7T), preprocessing, whole brain and ROI analyses (SPM)}
 
 \skillentry{Eye-tracking}{Collection, preprocessing, analysis}
 
-\skillentry{Scripting}{R, Python, MATLAB}
+\skillentry{Scripting}{R/tidyverse, Python, MATLAB}
 
 \skillentry{Task development}
-{Python/PsychoPy, ePrime}
+{Python/PsychoPy, ePrime, Inquisit}
+
+\skillentry{Online data collection}
+{Prolific, Qualtrics, Inquisit Web}
 
 \skillentry{Data visualization}{R/ggplot, Inkscape/Illustrator}
 
@@ -306,6 +319,10 @@
 \skillentry{English}{Native}
 
 \skillentry{Spanish}{Full professional proficiency (ILR scale)}
+
+
+\raggedleft
+\href{https://github.com/opmorgan/cv}{Source code for this CV}
 
 \end{document}
 
