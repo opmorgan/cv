@@ -1105,6 +1105,52 @@
 
 \refsection{2}
   \datalist[entry]{ydmdnt/global//global/global}
+    \entry{morgan_frequeny_2023}{unpublished}{}
+      \name{author}{2}{}{%
+        {{hash=106e99b39a6865e6eae2b6094e23c8ef}{%
+           family={Morgan},
+           familyi={M\bibinitperiod},
+           given={Owen\bibnamedelima P.},
+           giveni={O\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=c27e82d07b01a5b1c9e78a8d5b4ff6ee}{%
+           family={Casasanto},
+           familyi={C\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+      }
+      \name{shortauthor}{1}{}{%
+        {{hash=b59c67bf196a4758191e42f76670ceba}{%
+           family={1111},
+           familyi={1\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Sydney, Australia}%
+      }
+      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{fullhash}{efcf46efd9f5b4f7bdcc622f8ab2a77d}
+      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{authorbibnamehash}{efcf46efd9f5b4f7bdcc622f8ab2a77d}
+      \strng{authornamehash}{efcf46efd9f5b4f7bdcc622f8ab2a77d}
+      \strng{authorfullhash}{efcf46efd9f5b4f7bdcc622f8ab2a77d}
+      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{shortauthor}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Talk}
+      \field{month}{7}
+      \field{note}{Accepted for presentation at the 45th Annual Conference of the Cognitive Science Society}
+      \field{title}{Frequeny Asymmetries in Vision and Action}
+      \field{type}{Talk}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \true{nocite}
+    \endentry
     \entry{morgan_handedness_2022}{unpublished}{}
       \name{author}{2}{}{%
         {{hash=106e99b39a6865e6eae2b6094e23c8ef}{%
@@ -1112,8 +1158,8 @@
            familyi={M\bibinitperiod},
            given={Owen\bibnamedelima P.},
            giveni={O\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
-        {{hash=a86687810612d76555265e7a49fee101}{%
-           family={Casanto},
+        {{hash=c27e82d07b01a5b1c9e78a8d5b4ff6ee}{%
+           family={Casasanto},
            familyi={C\bibinitperiod},
            given={Daniel},
            giveni={D\bibinitperiod}}}%
@@ -1127,15 +1173,15 @@
         {Cornell University, Ithaca, {USA}}%
       }
       \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{fullhash}{c36d474f90e78a42333beecc4773fead}
+      \strng{fullhash}{efcf46efd9f5b4f7bdcc622f8ab2a77d}
       \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
-      \strng{authorbibnamehash}{c36d474f90e78a42333beecc4773fead}
-      \strng{authornamehash}{c36d474f90e78a42333beecc4773fead}
-      \strng{authorfullhash}{c36d474f90e78a42333beecc4773fead}
+      \strng{authorbibnamehash}{efcf46efd9f5b4f7bdcc622f8ab2a77d}
+      \strng{authornamehash}{efcf46efd9f5b4f7bdcc622f8ab2a77d}
+      \strng{authorfullhash}{efcf46efd9f5b4f7bdcc622f8ab2a77d}
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{1}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -1216,7 +1262,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{2}
+      \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -1297,7 +1343,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{3}
+      \field{extraname}{4}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -1352,7 +1398,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{4}
+      \field{extraname}{5}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{1}
@@ -1408,7 +1454,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{5}
+      \field{extraname}{6}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{2}
@@ -1490,7 +1536,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{6}
+      \field{extraname}{7}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{1}
@@ -1551,7 +1597,7 @@
       \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
       \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
-      \field{extraname}{7}
+      \field{extraname}{8}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{2}

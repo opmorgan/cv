@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.3.16)  15 JAN 2023 01:23
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.3.16)  14 APR 2023 20:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -742,18 +742,18 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 321.
  [5] (./cv.aux)
 Package rerunfilecheck Info: File `cv.out' has not changed.
-(rerunfilecheck)             Checksum: DEA56D9E78DC6D6492F3A48C3762442A;1519.
+(rerunfilecheck)             Checksum: 46B314C09CAF4FD472CCAD2AE3CA2B20;1680.
 Package logreq Info: Writing requests to 'cv.run.xml'.
 \openout1 = `cv.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 21199 strings out of 478179
- 425019 string characters out of 5854595
- 1264957 words of memory out of 5000000
- 41600 multiletter control sequences out of 15000+600000
+ 21206 strings out of 478179
+ 425300 string characters out of 5854595
+ 1265236 words of memory out of 5000000
+ 41607 multiletter control sequences out of 15000+600000
  469803 words of font info for 52 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  60i,5n,73p,2536b,4993s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on cv.xdv (5 pages, 130632 bytes).
+Output written on cv.xdv (5 pages, 133640 bytes).
