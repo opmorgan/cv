@@ -84,8 +84,8 @@
       <file>cv.bcf</file>
     </requires>
     <requires type="editable">
-      <file>preprints.bib</file>
-      <file>pubs.bib</file>
+      <file>pubs-conference.bib</file>
+      <file>pubs-journal.bib</file>
       <file>talks-presented.bib</file>
       <file>talks-contributed.bib</file>
       <file>posters-presented.bib</file>

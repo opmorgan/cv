@@ -19,6 +19,58 @@
 
 \refsection{1}
   \datalist[entry]{ddnt/global//global/global}
+    \entry{morgan_frequency_2023}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=106e99b39a6865e6eae2b6094e23c8ef}{%
+           family={Morgan},
+           familyi={M\bibinitperiod},
+           given={Owen\bibnamedelima P.},
+           giveni={O\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=c27e82d07b01a5b1c9e78a8d5b4ff6ee}{%
+           family={Casasanto},
+           familyi={C\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+      }
+      \name{shortauthor}{1}{}{%
+        {{hash=b59c67bf196a4758191e42f76670ceba}{%
+           family={1111},
+           familyi={1\bibinitperiod}}}%
+      }
+      \strng{namehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{fullhash}{efcf46efd9f5b4f7bdcc622f8ab2a77d}
+      \strng{bibnamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{authorbibnamehash}{efcf46efd9f5b4f7bdcc622f8ab2a77d}
+      \strng{authornamehash}{efcf46efd9f5b4f7bdcc622f8ab2a77d}
+      \strng{authorfullhash}{efcf46efd9f5b4f7bdcc622f8ab2a77d}
+      \strng{shortauthorbibnamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthornamehash}{b59c67bf196a4758191e42f76670ceba}
+      \strng{shortauthorfullhash}{b59c67bf196a4758191e42f76670ceba}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{shortauthor}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the Annual Meeting of the Cognitive Science Society}
+      \field{month}{7}
+      \field{title}{Frequency Asymmetries in Vision and Action}
+      \field{volume}{45}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://escholarship.org/uc/item/1cm96186
+      \endverb
+      \verb{url}
+      \verb https://escholarship.org/uc/item/1cm96186
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+
+\refsection{2}
+  \datalist[entry]{ddnt/global//global/global}
     \entry{iannuzzelli_association_2022}{article}{}
       \name{author}{18}{}{%
         {{hash=da63f2b3adc3087e8aa6e35ee13458d3}{%
@@ -1103,7 +1155,7 @@
   \enddatalist
 \endrefsection
 
-\refsection{2}
+\refsection{3}
   \datalist[entry]{ddnt/global//global/global}
     \entry{morgan_frequency_2023-1}{unpublished}{}
       \name{author}{2}{}{%
@@ -1666,7 +1718,7 @@
   \enddatalist
 \endrefsection
 
-\refsection{3}
+\refsection{4}
   \datalist[entry]{ddnt/global//global/global}
     \entry{slapik_timing_2018}{unpublished}{}
       \name{author}{6}{}{%
@@ -2168,7 +2220,7 @@
   \enddatalist
 \endrefsection
 
-\refsection{4}
+\refsection{5}
   \datalist[entry]{ddnt/global//global/global}
     \entry{morgan_handedness_2022}{unpublished}{}
       \name{author}{2}{}{%
@@ -2376,7 +2428,7 @@
   \enddatalist
 \endrefsection
 
-\refsection{5}
+\refsection{6}
   \datalist[entry]{ddnt/global//global/global}
     \entry{marvel_real-time_2022}{unpublished}{}
       \name{author}{5}{}{%

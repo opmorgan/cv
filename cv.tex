@@ -1,6 +1,7 @@
 % !TEX program = xelatex
 \documentclass{article}
 
+
 \usepackage[utf8]{inputenc}
 \usepackage{titlesec}
 \usepackage{titling}
@@ -15,11 +16,9 @@
 % Define base style for publist (before loading biblatex)
 \newcommand*\publistbasestyle{custom-authoryear}
 % Use biblatex-publist for publication and presentation lists
-\usepackage[bibstyle=publist, backend=biber, plauthorhandling=highlight, defernumbers=true, linktitleall=false, doi=false, isbn=false, url=false, boldyear=false, marginyear=true, plnumbered=false, sorting=ddnt, natbib=true, minbibnames=3, maxbibnames=3]{biblatex}
+\usepackage[bibstyle=publist, backend=biber, plauthorhandling=highlight, defernumbers=true, linktitles=none, doi=false, isbn=false, url=false, hlyear=false, marginyear=true, plnumbering=none, sorting=ddnt, natbib=true, minbibnames=3, maxbibnames=3]{biblatex}
 
-\renewcommand*\plmarginyear[1]{%
-\raggedleft\textbf{#1}%
-}
+
 
 \usepackage{fontspec}
   \setmainfont{Avenir Light}
@@ -36,8 +35,9 @@
 \AtEveryCitekey{\clearfield{extradate}}
 \AtEveryBibitem{\clearfield{extradate}}
 
-\addbibresource{preprints.bib}
-\addbibresource{pubs.bib}
+% \addbibresource{preprints.bib}
+\addbibresource{pubs-conference.bib}
+\addbibresource{pubs-journal.bib}
 \addbibresource{talks-presented.bib}
 \addbibresource{talks-contributed.bib}
 \addbibresource{posters-presented.bib}
@@ -47,6 +47,14 @@
 \renewcommand*\plmarginyear[1]{
   \flushright{#1}
 }
+
+% \renewcommand*\plmarginyear[1]{%
+% \raggedleft\textbf{#1}%
+% }
+
+% \renewcommand*\plmarginyear[1]{%
+% \raggedleft\small\textbf{#1}%
+% }
 
 % Specify author name to bold in publication list
 \plauthorname[Owen][]{Morgan}
@@ -201,15 +209,20 @@
 \section{Publications}
 
 % Change margins for publist's marginal years
-% \begin{changemargin}{0in}{0in}
+% \begin{changemargin}{1in}{0in}
 
 % \subsection{Preprints}
 % \newrefsection[preprints]
 % \nocite{*}
 % \printbibliography[heading=none]
 
-\subsection{Peer-reviewed Papers}
-\newrefsection[pubs]
+\subsection{Conference Papers}
+\newrefsection[pubs-conference]
+\nocite{*}
+\printbibliography[heading=none]
+
+\subsection{Journal Articles}
+\newrefsection[pubs-journal]
 \nocite{*}
 \printbibliography[heading=none]
 
@@ -317,7 +330,7 @@
 
 \entry{2021 -- now}{Research Assistant Supervision (Cornell)}
 {\cu}{Ithaca, New York}
-{Mahek Majithia, Madelyn Minor, Benjamin Dever-Mendenhall, Jeffrey Iyamah, Sanyum Dilal, and Kira Pawletko.}
+{Sanyum Dalal, Benjamin Dever-Mendenhall, Jeffrey Iyamah, Rebecca Karpel, Mahek Majithia, Madelyn \mbox{Minor}, and Kira Pawletko.}
 
 \entry{2018 -- 2020}{Research Assistant Supervision (JHU)}
 {\jhusom}{Baltimore, Maryland}
