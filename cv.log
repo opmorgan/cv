@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Arch Linux) (preloaded format=xelatex 2023.6.7)  5 SEP 2023 12:20
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Arch Linux) (preloaded format=xelatex 2023.6.7)  26 OCT 2023 15:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -746,14 +746,14 @@ Package biblatex Info: Reference section=0 on input line 251.
 \blx@sectionciteorder@6=\count446
 Package biblatex Info: Reference section=6 on input line 251.
 Package biblatex Info: Setting label 'refsection:6' on input line 251.
- [3] [4]
+ [3] [4] [5]
 Font mapping `tex-text.tec' for font `Avenir Light' not found.
 Font mapping `tex-text.tec' for font `Avenir Light' not found.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 363.
+(Font)              <7> on input line 366.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 363.
- [5] [6] (./cv.aux)
+(Font)              <5> on input line 366.
+ [6] (./cv.aux)
 Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: 750A8DBB6B3E6932C0F051677F72B7DB;2221.
 Package logreq Info: Writing requests to 'cv.run.xml'.
@@ -769,4 +769,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  72i,5n,76p,2534b,4986s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on cv.xdv (6 pages, 144412 bytes).
+Output written on cv.xdv (6 pages, 145932 bytes).
