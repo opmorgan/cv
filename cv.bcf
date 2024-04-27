@@ -646,6 +646,7 @@
     <bcf:option datatype="boolean">plnumbering</bcf:option>
     <bcf:option datatype="boolean">marginyear</bcf:option>
     <bcf:option datatype="boolean">hlyear</bcf:option>
+    <bcf:option datatype="boolean">fixyear</bcf:option>
     <bcf:option datatype="boolean">pubstateextra</bcf:option>
     <bcf:option datatype="boolean">jifinfo</bcf:option>
     <bcf:option datatype="boolean">oainfo</bcf:option>
