@@ -41,13 +41,14 @@
   \newunit\newblock
   \printfield{version}%
   \newunit\newblock
-  \usebibmacro{in:}%
-  % \usebibmacro{journal+issuetitle}%
+  %\usebibmacro{in:}% %% OM: edited this. Don't use "In"
+  %\usebibmacro{journal+issuetitle}%
   \usebibmacro{journal}%
   \newunit
   \usebibmacro{byeditor+others}%
   \newunit
-  \usebibmacro{note+pages}%
+  %\usebibmacro{note+pages} 
+  \usebibmacro{note} %% OM: edited this. don't show pages.
   \newunit\newblock
   \iftoggle{bbx:isbn}
     {\printfield{issn}}
@@ -307,7 +308,7 @@
   \newunit\newblock
   \usebibmacro{byauthor}%
   \newunit\newblock
-  \usebibmacro{in:}%
+  %\usebibmacro{in:}% %% OM: remove "in:"
   \usebibmacro{maintitle+booktitle}%
   \newunit\newblock
   \usebibmacro{event+venue+date}%
@@ -890,6 +891,10 @@
   \printfield{eid}%
   \setunit{\bibpagespunct}%
   \printfield{pages}%
+  \newunit}
+
+\newbibmacro*{note}{%
+  \printfield{note}%
   \newunit}
 
 \newbibmacro*{note+pages}{%
