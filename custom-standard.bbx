@@ -6,6 +6,8 @@
 \newtoggle{bbx:doi}
 \newtoggle{bbx:eprint}
 \newtoggle{bbx:related}
+%% OM: added this July 1, 2025
+\newtoggle{bbx:pdf}
 
 \DeclareBiblatexOption{global,type,entry}[boolean]{isbn}[true]{%
   \settoggle{bbx:isbn}{#1}}
@@ -17,8 +19,11 @@
   \settoggle{bbx:eprint}{#1}}
 \DeclareBiblatexOption{global,type,entry}[boolean]{related}[true]{%
   \settoggle{bbx:related}{#1}}
+  %% OM: Added this July 1, 2025
+\DeclareBiblatexOption{global,type,entry}[boolean]{pdf}[true]{%
+  \settoggle{bbx:pdf}{#1}}
 
-\ExecuteBibliographyOptions{isbn,url,doi,eprint,related}
+\ExecuteBibliographyOptions{isbn,url,doi,eprint,related, pdf}
 % @online url is shown even if url=false, globally
 \ExecuteBibliographyOptions[online]{url=true}
 
@@ -53,6 +58,9 @@
   \iftoggle{bbx:isbn}
     {\printfield{issn}}
     {}%
+%% OM: added this block, to try to show URL to PDF. Does not work.
+  \newunit\newblock
+  \usebibmacro{pdf}%
   \newunit\newblock
   \usebibmacro{doi+eprint+url}%
   \newunit\newblock
@@ -914,6 +922,13 @@
   \newunit\newblock
   \iftoggle{bbx:url}
     {\usebibmacro{url+urldate}}
+    {}}
+
+
+%% OM: added this section July 1, 2025, to try to add pdf links
+\newbibmacro*{pdf}{%
+\iftoggle{bbx:pdf}
+    {\printfield{pdf}}
     {}}
 
 \newbibmacro*{addendum+pubstate}{%
