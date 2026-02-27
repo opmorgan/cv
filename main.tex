@@ -7,9 +7,8 @@
 \usepackage[margin=1in]{geometry}
 \usepackage[american]{babel}
 \usepackage{csquotes, xpatch}
-\usepackage{hyperref}
 \usepackage{xcolor}
-\usepackage{hyperref}
+\usepackage[hidelinks]{hyperref}
 %\usepackage{fancyhdr} % headers and footers
 %\usepackage{bookmark} % To suppress "rerunfilecheck Warning:..."
 % Define base style for publist (before loading biblatex)
@@ -160,12 +159,12 @@
 {0em}{.25em}{.25em}
 
 \renewcommand{\maketitle}{
-  \begin{minipage}[t]{.5\textwidth}
+  \begin{minipage}[t]{.4\textwidth}
     \begin{flushleft}
       \textit{Last updated \thedate}
     \end{flushleft}
   \end{minipage}
-  \begin{minipage}[t]{.5\textwidth}
+  \begin{minipage}[t]{.6\textwidth}
     \begin{flushright}
       {\huge\bfseries
       \theauthor}
@@ -178,7 +177,8 @@
 
       opm6@cornell.edu
 
-     \href{https://scholar.google.com/citations?user=srf5UFkAAAAJ&hl=en&oi=ao}{Google Scholar} | \href{https://github.com/opmorgan}{Github} | \href{https://orcid.org/0000-0003-3284-9909}{ORCiD} | \href{https://opmorgan.com}{opmorgan.com}
+     \href{https://scholar.google.com/citations?user=srf5UFkAAAAJ&hl=en&oi=ao}{Google Scholar} | \href{https://github.com/opmorgan}{Github} | 
+     \href{https://www.linkedin.com/in/owen-morgan-95a9a8121/}{LinkedIn} | \href{https://orcid.org/0000-0003-3284-9909}{ORCiD} | \href{https://opmorgan.com}{opmorgan.com}
 
     \end{flushright}
   \end{minipage}
@@ -200,7 +200,7 @@
 {2020 -- Now}
 {PhD Candidate, Psychology/Cognitive Science}
 {\cu}{Ithaca, New York}
-{Committee: Daniel Casasanto (chair), Jesse Goldberg, Felix Thoemmes. Major in Developmental Psychology, Minor in Cognitive Science.}
+{Committee: Daniel Casasanto (chair), Felix Thoemmes, Jesse Goldberg. MA, Department of Psychology. Minor in Cognitive Science.}
 
 \entry
 {2013 -- 2017}
@@ -227,16 +227,12 @@
 % Change margins for publist's marginal years
 % \begin{changemargin}{1in}{0in}
 
+% \textit{PDFs can be found at \href{opmorgan.com/papers}{opmorgan.com/papers}.}
+
+\textit{Note: An asterisk [*] denotes an undergraduate mentee. PDFs can be found at \href{opmorgan.com/papers}{opmorgan.com/papers}.}
+
 \subsection{Journal Articles}
-
-\textit{PDFs can be found at \href{opmorgan.com/papers}{opmorgan.com/papers}.}
-
 \newrefsection[pubs-journal]
-\nocite{*}
-\printbibliography[heading=none]
-
-\subsection{Preprints}
-\newrefsection[preprints]
 \nocite{*}
 \printbibliography[heading=none]
 
@@ -244,6 +240,13 @@
 \newrefsection[pubs-conference]
 \nocite{*}
 \printbibliography[heading=none]
+
+% \subsection{Preprints}
+% \newrefsection[preprints]
+% \nocite{*}
+% \printbibliography[heading=none]
+
+
 
 % Restore margins
 % \end{changemargin}
@@ -270,48 +273,50 @@
 \nocite{*}
 \printbibliography[heading=none]
 
-\textit{Note: An asterisk [*] denotes an undergraduate mentee.}
 
-\section{Honors and Awards}
+\section{Grants and Awards}
 
-\awardentry{Summer 2025, 2024, 2023}{College of Human Ecology Summer Fellowship}
-{Departmental fellowship providing funding for Summer research.}
+% \awardentry{Summer 2025, 2024, 2023}{College of Human Ecology Summer Fellowship}
+% {Departmental fellowship providing funding for Summer research.}
 
-\awardentry{2023}{Martha E. Foulk and Ethel B. Waring Fellowships}
-{Departmental fellowship providing funding for Fall Semester.}
+\awardentry{2025}{Cornell Graduate School Travel Grant (\$500)}
+{Funded travel to 47th Conference of the Cognitive Science Society, San Francisco.}
 
-\awardentry{}{Glushko \& Samuelson Student Travel Grant}
+\awardentry{2023}{Martha E. Foulk and Ethel B. Waring Fellowship}
+{Departmental fellowship providing stipend for Fall Semester.}
+
+\awardentry{}{Glushko \& Samuelson Student Travel Grant (\$1,000)}
 {Funded travel to 45th Conference of the Cognitive Science Society, Sydney.}
 
-\awardentry{}{Cognitive Science @ Cornell Travel Award}
+\awardentry{}{Cognitive Science @ Cornell Travel Award (\$1,000)}
 {Funded travel to 45th Conference of the Cognitive Science Society, Sydney.}
 
-\awardentry{}{Cornell Graduate School Travel Grant}
+\awardentry{}{Cornell Graduate School Travel Grant (\$700)}
 {Funded travel to 45th Conference of the Cognitive Science Society, Sydney.}
 
-\awardentry{}{Cognitive Science @ Cornell Graduate Research Award}
+\awardentry{}{Cognitive Science @ Cornell Graduate Research Award (\$1,000)}
 {Funded data collection for a study on frequency asymmetry in vision.}
 
-\awardentry{2022}{Cornell Graduate School Travel Grant}
+\awardentry{2022}{Cornell Graduate School Travel Grant (\$600)}
 {Funded travel to 44th Conference of the Cognitive Science Society, Toronto.}
 
-\awardentry{}{Cognitive Science @ Cornell Travel Award}
+\awardentry{}{Cognitive Science @ Cornell Travel Award (\$250)}
 {Funded travel to 44th Conference of the Cognitive Science Society, Toronto.}
 
 \awardentry{2020}{Travel Award for 9th Ataxia Investigators Meeting (Conference moved online)}
 {Awarded to abstracts selected for “hot chair” presentation. Award cancelled; conference moved online due to COVID-19.}
 
-\awardentry{2017}{Pathways Fellowship}
+\awardentry{2017}{Pathways Fellowship (\$2,500)}
 {Funded Neurobiology course at Harvard Extension Summer School.}
 
-\awardentry{2016 \newline 2015}{Hodson Trust Internship Grant}
+\awardentry{2016 \newline 2015}{Hodson Trust Internship Grant (\$4,000 each)}
 {Funded summer research on conscious visual perception at Yale University.}
 
 \section{Teaching and Mentorship}
 
-\entry{Fall 2025}{Instructor, Freshman Writing Seminar: The Science of Consciousness (PSYCH 1140)}
+\entry{Spring 2026, Fall 2025}{Instructor, Freshman Writing Seminar: The Science of Consciousness (PSYCH 1140)}
 {\cu}{Ithaca, New York}
-{Developed and taught a small discussion- and writing- based seminar on scientific attempts to explain phenomenal consciousness.}
+{Developed and teach a discussion- and writing-based course on philosophy and cognitive neuroscience of consciousness.}
 
 \entry{Spring 2025, 2023}{TA, Human Perception: Applications to Computer Graphics, Art, and Visual Display (COGST 3420)}
 {\cu}{Ithaca, New York}
@@ -382,22 +387,19 @@
 \subsection{Peer Review and Editorial Service}
 
 \entry{2025~\textendash~Now}{Volunteer, REPEAT Network}
-{}
+{}{Psychological Science\\}
 {Conduct reproducibility checks for Psychological Science's Statistics, Transparency, and Rigour (STAR) team}
-
-
-\entry{2025~\textendash~Now}{Ad Hoc reviewer}
-{}
-{Laterality}
 
 \entry{2023~\textendash~Now}{Ad Hoc reviewer}
 {}
-{Proceedings of the Cognitive Science Society}
+{Proceedings of the Cognitive Science Society, Laterality}
 
 \subsection{Outreach and Community}
 
-\entry{2023~\textendash~Now}{Co-host, \textit{Sprocket: The Cognitive Science Film Series} (film seminar series)}
+\entry{2023~\textendash~Now}{Curator and Host, \textit{Sprocket: The Cognitive Science Film Series}}
 {\cu}{Ithaca, New York}
+{Select films, run screenings and lead discussions in a film seminar series open to the public}
+
 
 \entry{Spring 2024}{Co-curator, \textit{The Beautiful Brain} exhibit}
 {\cu}{Ithaca, New York}
