@@ -59,10 +59,13 @@
 \addbibresource{pubs.bib}
 \addbibresource{pubs-conference.bib}
 \addbibresource{pubs-journal.bib}
-\addbibresource{talks-presented.bib}
-\addbibresource{talks-contributed.bib}
-\addbibresource{posters-presented.bib}
-\addbibresource{posters-contributed.bib}
+% \addbibresource{talks-presented.bib}
+% \addbibresource{talks-contributed.bib}
+% \addbibresource{posters-presented.bib}
+% \addbibresource{posters-contributed.bib}
+\addbibresource{talks-conference.bib}
+\addbibresource{talks-departmental.bib}
+\addbibresource{posters.bib}
 
 % Define formatting for publication margin year
 \renewcommand*\plmarginyear[1]{
@@ -81,23 +84,23 @@
 
 % Define the default entry command - year, content
 \newcommand{\entry}[5]{
-
   \begin{minipage}[t]{.15\textwidth}
     \begin{flushright}
-      \hfill {#1}
+      \hfill {#1} % Year
     \end{flushright}
   \end{minipage}
   \hfill\vline\hfill
   \begin{minipage}[t]{.80\textwidth}
-    \textbf{#2}
+    \textbf{#2} % Title (bold)
 
     \ifx&#3&
-      {#3}\textit{#4}
+      {#3}\textit{#4} % Institution, location
     \else
-      {#3, }\textit{#4}
+     % {#3, }\textit{#4}
+     {#3 (}\textit{#4}{)}
 
     \fi
-    \footnotesize{#5}
+    \footnotesize{#5} % Detail note
   \end{minipage}\\\vspace{.25cm}
 }
 
@@ -116,6 +119,28 @@
   \end{minipage}\\\vspace{.25cm}
 }
 
+% Define Invited talk entry command - year, title, details
+% Year, Department, University, Location {1 = year, 2 = Department, 3 = Institution, 4 = location 
+\newcommand{\invitedtalkentry}[4]{
+  \begin{minipage}[t]{.15\textwidth}
+    \begin{flushright}
+      \hfill {#1} % Year
+    \end{flushright}
+  \end{minipage}
+  \hfill\vline\hfill
+  \begin{minipage}[t]{.80\textwidth}
+
+    \ifx&#2&
+      {#2}\textit{#3} % Institution, location
+    \else
+     % {#3, }\textit{#4}
+     {#2 (}\textit{#3}{)}
+
+    \fi
+    \footnotesize{#4} % Detail note
+  \end{minipage}\\\vspace{.25cm}
+}
+
 % Define the skill entry command - title, details
 \newcommand{\skillentry}[2]{
   {\hspace{2em}\textbf{#1}:}
@@ -127,6 +152,7 @@
 \setlength{\parindent}{0in}
 
 % Macros
+\newcommand{\swat}{Swarthmore College}
 \newcommand{\cu}{Cornell University}
 \newcommand{\sjc}{St. John's College}
 \newcommand{\jhusom}{Johns Hopkins University School of Medicine}
@@ -171,11 +197,9 @@
 
       \vspace{.25em}
 
-      \cu, Department of Psychology
+      \swat, Department of Psychology
 
-      Experience and Cognition Lab
-
-      opm6@cornell.edu
+      omorgan1@swarthmore.edu
 
      \href{https://scholar.google.com/citations?user=srf5UFkAAAAJ&hl=en&oi=ao}{Google Scholar} | \href{https://github.com/opmorgan}{Github} | 
      \href{https://www.linkedin.com/in/owen-morgan-95a9a8121/}{LinkedIn} | \href{https://orcid.org/0000-0003-3284-9909}{ORCiD} | \href{https://opmorgan.com}{opmorgan.com}
@@ -197,8 +221,8 @@
 \section{Education}
 
 \entry
-{2020 -- Now}
-{PhD Candidate, Psychology/Cognitive Science}
+{2020 -- 2026}
+{PhD, Psychology}
 {\cu}{Ithaca, New York}
 {Committee: Daniel Casasanto (chair), Felix Thoemmes, Jesse Goldberg. MA, Department of Psychology. Minor in Cognitive Science.}
 
@@ -206,9 +230,15 @@
 {2013 -- 2017}
 {BA in Liberal Arts}
 {\sjc}{Annapolis, Maryland}
-{All-required curriculum based on closely reading original sources; equivalent to a double major in Philosophy, and the History of Mathematics and Science.}
+{All-required curriculum based on closely reading original sources; equivalent to a double major in Philosophy and the History of Mathematics and Science.}
 
 \section{Professional Experience}
+
+\entry
+{2026 -- Now}
+{Visiting Assistant Professor of Psychology}
+{\swat}{Swarthmore, Pennsylvania}
+{}
 
 \entry
 {2017 -- 2020}
@@ -253,31 +283,33 @@
 
 \section{Presentations}
 
-\subsection{Talks}
-\newrefsection[talks-presented]
+\subsection{Conference talks}
+\newrefsection[talks-conference]
 \nocite{*}
 \printbibliography[heading=none]
 
-\subsection{Talks (contributed)}
-\newrefsection[talks-contributed]
+\subsection{Conference posters}
+\newrefsection[posters]
 \nocite{*}
 \printbibliography[heading=none]
 
-\subsection{Posters}
-\newrefsection[posters-presented]
+\subsection{Departmental Talks}
+\newrefsection[talks-departmental]
 \nocite{*}
 \printbibliography[heading=none]
 
-\subsection{Posters (contributed)}
-\newrefsection[posters-contributed]
-\nocite{*}
-\printbibliography[heading=none]
+\subsection{Invited Talks}
+\invitedtalkentry{2026}{Department of Psychology, Swarthmore College}{Philadelphia, PA}{Title: How motor action shapes brains and minds}
 
+\invitedtalkentry{2024}{Subjectivity Lab, Northeastern University}{Boston, MA}{Title: Frequency asymmetries in vision and action}
 
-\section{Grants and Awards}
+\section{Honors and Awards}
 
 % \awardentry{Summer 2025, 2024, 2023}{College of Human Ecology Summer Fellowship}
 % {Departmental fellowship providing funding for Summer research.}
+
+\awardentry{2026}{Graduate Student Teaching Award}
+{Cornell Psychology Departmental award recognizing excellence in teaching.}
 
 \awardentry{2025}{Cornell Graduate School Travel Grant (\$500)}
 {Funded travel to 47th Conference of the Cognitive Science Society, San Francisco.}
@@ -314,9 +346,17 @@
 
 \section{Teaching and Mentorship}
 
+\entry{Fall 2026}{Instructor, Research Design and Analysis (PSYC 025)}
+{\swat}{Swarthmore, Pennsylvania}
+{}
+
+\entry{Fall 2026}{Instructor, First-Year Seminar: The Cognitive Neuroscience of Consciousness (PSYC 006)}
+{\swat}{Swarthmore, Pennsylvania}
+{}
+
 \entry{Spring 2026, Fall 2025}{Instructor, Freshman Writing Seminar: The Science of Consciousness (PSYCH 1140)}
 {\cu}{Ithaca, New York}
-{Developed and teach a discussion- and writing-based course on philosophy and cognitive neuroscience of consciousness.}
+{Developed and taught a discussion- and writing-based course on philosophy and cognitive neuroscience of consciousness.}
 
 \entry{Spring 2025, 2023}{TA, Human Perception: Applications to Computer Graphics, Art, and Visual Display (COGST 3420)}
 {\cu}{Ithaca, New York}
@@ -370,7 +410,7 @@
 
 \entry{2021~\textendash~Now}{Research Assistant Supervision (Cornell)}
 {\cu}{Ithaca, New York}
-{Stephen Chien, Sanyum Dalal, Benjamin Dever-Mendenhall, Jeffrey Iyamah, Rebecca Karpel, Mahek Majithia, Madelyn Minor, and Kira Pawletko.}
+{Stephen Chien, Sanyum Dalal, Gabriela Forte, Benjamin Dever-Mendenhall, Jeffrey Iyamah, Rebecca Karpel, Mahek Majithia, Madelyn Minor, Kira Pawletko, and Edward Witt.}
 
 \entry{2018~\textendash~2020}{Research Assistant Supervision (JHU)}
 {\jhusom}{Baltimore, Maryland}
@@ -380,7 +420,7 @@
 \section{Service}
 
 \subsection{Departmental Service}
-\entry{2024~\textendash~Now}{Organizing Committee Member, Cornell Undergraduate Psychology Conference}
+\entry{2024~\textendash~2026}{Organizing Committee Member, Cornell Undergraduate Psychology Conference}
 {\cu}{Ithaca, New York}
 {}
 
@@ -396,18 +436,17 @@
 
 \subsection{Outreach and Community}
 
-\entry{2023~\textendash~Now}{Curator and Host, \textit{Sprocket: The Cognitive Science Film Series}}
+\entry{2023~\textendash~2026}{Curator and Host, \textit{Sprocket: The Cognitive Science Film Series}}
 {\cu}{Ithaca, New York}
 {Select films, run screenings and lead discussions in a film seminar series open to the public}
 
+\entry{2022~\textendash~2026}{Member, Humanities Lab}
+{\cu}{Ithaca, New York}
+{The \href{https://blogs.cornell.edu/humanitieslab/}{Humanities Lab} is a forum for for scholars who conduct research at the interface of the sciences and the humanities}
 
 \entry{Spring 2024}{Co-curator, \textit{The Beautiful Brain} exhibit}
 {\cu}{Ithaca, New York}
 {Co-organized and curated an exhibit of Santiago Ramón y Cajal's prints, sponsored by Cornell's Cognitive Science department.}
-
-\entry{2022~\textendash~Now}{Member, Humanities Lab}
-{\cu}{Ithaca, New York}
-{The \href{https://blogs.cornell.edu/humanitieslab/}{Humanities Lab} is a forum for for scholars who conduct research at the interface of the sciences and the humanities}
 
 \section{Technical Skills}
 
